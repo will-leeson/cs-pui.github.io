@@ -22,7 +22,7 @@ I'm going to be more flexible in this criteria in 20/21 - partially because the 
 # Who is hiring in CS so far (2020/21)
 
 ## Deadlines and Quick Links (soonest on top)
-_Note: Deadlines are intepreted different depending on the institution. See their full description for context_
+_Deadlines are interpreted differently depending on the institution. See their full description for context_
 - [Denison University](#denison) - October 9, 2020
 - [Reed College](#reed) - October 31st, 2020
 - [Williams College](#williams) - November 16, 2020
