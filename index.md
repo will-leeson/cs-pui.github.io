@@ -23,6 +23,7 @@ I'm going to be more flexible in this criteria in 20/21 - partially because the 
 
 ## Deadlines and Quick Links (soonest on top)
 - [Reed College](#reed) - October 31st, 2020
+- [Williams College](#williams) - November 16, 2020
 
 
 ## Descriptions, Links, and Locations (alphabetical order)
@@ -31,3 +32,8 @@ I'm going to be more flexible in this criteria in 20/21 - partially because the 
 _[Excerpt] The Department of Computer Science at Reed College invites applications for a tenure-track faculty position, rank open, beginning in the fall of 2021. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in their teaching and in their scholarship. Applicants from all areas of computer science are welcome to apply, though particular attention will be given to applicants in systems/application research areas (e.g., networks, database systems, security, distributed computing, operating systems, robotics, etc.). The successful applicant will help teach the core computer science curriculum at all levels in the major, in cooperation with their fellow faculty, and will develop one or more courses in their areas of expertise. The department is committed to giving all its students the opportunity to explore research topics in computer science and in its applications. The successful candidate will advise several year-long senior thesis projects that are required of all Reed students._
 - Applications submitted by **October 30, 2020** are assured to get the fullest consideration
 - [Link to application](https://apply.interfolio.com/77853)
+
+## <a name="williams">Williams College (Massachusetts)</a>
+_[Excerpt] The Department of Computer Science at Williams College invites applications for a tenure-track position at the rank of assistant professor beginning July 1, 2021. In an exceptional case, a more advanced appointment may be considered. The position has a three-year initial term and is open to all areas of computer science. We are especially interested in candidates with strong backgrounds in Machine Learning, Artificial Intelligence, Natural Language Processing, or Computer Graphics, but applicants from all areas are encouraged to apply._
+- Applications submitted by **November 16, 2020** are assured to get the fullest consideration
+- [Link to application](http://apply.interfolio.com/78066)
