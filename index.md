@@ -22,11 +22,18 @@ I'm going to be more flexible in this criteria in 20/21 - partially because the 
 # Who is hiring in CS so far (2020/21)
 
 ## Deadlines and Quick Links (soonest on top)
+_Note: Deadlines are intepreted different depending on the institution. See their full description for context_
+- [Denison University](#denison) - October 9, 2020
 - [Reed College](#reed) - October 31st, 2020
 - [Williams College](#williams) - November 16, 2020
 
 
 ## Descriptions, Links, and Locations (alphabetical order)
+
+## <a name="denison">Denison University (Ohio)</a>
+_[Excerpt] The Computer Science program at Denison University invites applications for multiple tenure track faculty positions at the assistant professor or senior level to begin in August 2021. Candidates must have earned a Ph.D. in Computer Science or a closely related field, or be close to doing so, by the start date. We are seeking energetic and dynamic teachers who are committed to teaching a variety of courses in the CS core curriculum and in creating new electives that complement our existing offerings. Candidates should be dedicated to teaching in a liberal arts setting, mentoring undergraduate students, and supervising their research projects. The successful candidate will also be expected to contribute to the continued growth of the Department and the College, and maintain a strong scientific research program in any CS specialty or related field._
+- We will begin reviewing applications on a rolling basis beginning on **October 9, 2020.** We welcome applications received after this date, and will evaluate them as they arrive.
+- [Link to application](https://employment.denison.edu/postings/2808)
 
 ## <a name="reed">Reed College (Oregon)</a>
 _[Excerpt] The Department of Computer Science at Reed College invites applications for a tenure-track faculty position, rank open, beginning in the fall of 2021. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in their teaching and in their scholarship. Applicants from all areas of computer science are welcome to apply, though particular attention will be given to applicants in systems/application research areas (e.g., networks, database systems, security, distributed computing, operating systems, robotics, etc.). The successful applicant will help teach the core computer science curriculum at all levels in the major, in cooperation with their fellow faculty, and will develop one or more courses in their areas of expertise. The department is committed to giving all its students the opportunity to explore research topics in computer science and in its applications. The successful candidate will advise several year-long senior thesis projects that are required of all Reed students._
