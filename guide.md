@@ -21,6 +21,13 @@ Modify and paste the following template into [our listing page](https://docs.git
 
 - The closest deadlines should be on top. In the event of multiple institutions choosing the same deadline, default to alphabetical order.
 
+### Forthcoming info
+If you would like to put a _placeholder_ in for an approved position in which you expect an ad soon, put it at the bottom of the list in the following format. 
+
+```
+- [College name](#your-college) - _ad forthcoming_
+```
+
 ## Add info to _Descriptions, Links, and Locations_
 Modify and paste the following template into [our listing page](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 ```
@@ -33,3 +40,14 @@ _[Excerpt] This is where you add a paragraph from your job description_
 - If you want to bold a key sentence or key terms in here, that's fine.
 - Make sure you are inserting this in the correct place alphabetically.
 - `<a name="your-college">` below should match `(#your-college)` in the Deadlines section so that the internal link works.
+
+### Forthcoming info
+If you would like to put a _placeholder_ in for an approved position in which you expect an ad soon, continue to place it in alphabetical order with the following format. 
+
+```
+## <a name="your-college">Your College (Your State)</a>
+_[Excerpt] Hiring is approved - ad is expected soon_
+```
+
+
+
