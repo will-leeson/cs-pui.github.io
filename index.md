@@ -7,7 +7,7 @@ layout: home
 ![continuum of teaching and research](img/teach-research.png)
 
 ## Why I list CS jobs for Undergraduate Institutions
-- **If you would like to a department's listing to this page, [please click  here for instructions](guide.html)**
+- **If you would like to add a listing to this page, [please click  here for instructions](guide.html)**
 
 In 2017, I [wrote an article about finding academic happiness on the job market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) and why I chose [Bucknell](http://www.eg.bucknell.edu/~emp017/). Since then, I continue to receive emails with the same follow-up question: _how do I find these jobs?_ This listing of schools for the 2020/21 hiring season in CS is meant to help navigate that muddy water. To see last year's list, [visit the Medium article](https://medium.com/@evanmpeck/cs-academic-job-market-for-liberal-arts-colleges-19-20-cd348423f919).
 
