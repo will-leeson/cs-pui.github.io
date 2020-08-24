@@ -26,6 +26,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Denison University](#denison) - October 9, 2020
 - [Reed College](#reed) - October 31st, 2020
 - [Williams College](#williams) - November 16, 2020
+- [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 
 
 ## Descriptions, Links, and Locations (alphabetical order)
@@ -44,3 +45,8 @@ _[Excerpt] The Department of Computer Science at Reed College invites applicatio
 _[Excerpt] The Department of Computer Science at Williams College invites applications for a tenure-track position at the rank of assistant professor beginning July 1, 2021. In an exceptional case, a more advanced appointment may be considered. The position has a three-year initial term and is open to all areas of computer science. We are especially interested in candidates with strong backgrounds in Machine Learning, Artificial Intelligence, Natural Language Processing, or Computer Graphics, but applicants from all areas are encouraged to apply. New faculty will join twelve current members of the department in supporting a thriving and diverse undergraduate computer science major. Candidates should have a commitment to excellence in teaching and research, and should, by September, 2021, possess a Ph.D. in computer science or a closely related discipline. Successful candidates will teach a total of three courses during the academic year, along with associated labs._
 - Completed applications received by **November 16** will receive full consideration, and review of applications will continue until the position is filled.
 - [Link to application](http://apply.interfolio.com/78066)
+
+## <a name="msoe">Milwaukee School of Engineering (Milwaukee)</a>
+_[Excerpt] The Electrical Engineering and Computer Science (EECS) department at the Milwaukee School of Engineering (MSOE) seeks applicants to fill multiple computer science (CS) and software engineering (SE) faculty positions at all ranks. MSOE expects, rewards, and supports a strong primary commitment to excellence in teaching. Faculty enjoy small class sizes and hands-on labs as well as continuous improvement and sustained professional development. Among the department’s strengths are strong partnerships with numerous businesses and academic institutes, which guide applied projects, undergraduate research, and curriculum development. Candidates with expertise in any field of CS or SE are encouraged to apply, but candidates with expertise in the following areas are especially desired: software process, dev ops, artificial intelligence, full stack web development, distributed and high-performance computing, and databases. Applicants must have an earned doctorate degree by the beginning date of the appointment, and proficiency in oral and written communication is required.
+- Applications will be reviewed on a rolling basis.  Hiring will continue until all positions are filled.
+- [Link to application)(https://www.milwaukeejobs.com/j/t-Computer-Science-and-Software-Engineering-Faculty-All-Ranks-e-Milwaukee-School-of-Engineering-l-Milwaukee,-WI-jobs-j39659781.html?pbid=68354)
