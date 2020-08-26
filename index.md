@@ -24,6 +24,7 @@ I'm going to be more flexible in this criteria in 20/21 - partially because the 
 ## Deadlines and Quick Links (soonest on top)
 _Deadlines are interpreted differently depending on the institution. See their full description for context_
 - [Denison University](#denison) - October 9, 2020
+- [University of Richmond](#richmond) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
 - [Williams College](#williams) - November 16, 2020
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
@@ -45,6 +46,12 @@ _[Excerpt] The Electrical Engineering and Computer Science (EECS) department at 
 _[Excerpt] The Department of Computer Science at Reed College invites applications for a tenure-track faculty position, rank open, beginning in the fall of 2021. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in their teaching and in their scholarship. Applicants from all areas of computer science are welcome to apply, though particular attention will be given to applicants in systems/application research areas (e.g., networks, database systems, security, distributed computing, operating systems, robotics, etc.). The successful applicant will help teach the core computer science curriculum at all levels in the major, in cooperation with their fellow faculty, and will develop one or more courses in their areas of expertise. The department is committed to giving all its students the opportunity to explore research topics in computer science and in its applications. The successful candidate will advise several year-long senior thesis projects that are required of all Reed students._
 - Applications submitted by **October 30, 2020** are assured to get the fullest consideration
 - [Link to application](https://apply.interfolio.com/77853)
+
+## <a name="richmond">University of Richmond (Virginia)</a>
+_[Excerpt] The University of Richmond Department of Mathematics and Computer Science invites applications for a full-time tenure-track position in data science and statistics at the rank of assistant professor, to begin in the 2021-22 academic year. The department offers degrees in mathematics, computer science, and mathematical economics as well as a newly created major concentration in data science and statistics. The successful applicant is expected to commit to highly effective teaching at all levels of the undergraduate curriculum and to maintain a vigorous research program. Candidates from all subfields of data science and statistics will be considered. We are particularly interested in applicants who are able to make connections across a liberal arts curriculum. A Ph.D. in statistics, data science, **computer science**, information science, mathematics, or a related field is required and must be completed by the start date._
+- Review of applications will commence on **October 15** and continue until the position is filled.
+- [Link to application](https://richmond.csod.com/ats/careersite/JobDetails.aspx?site=1&id=2059)
+
 
 ## <a name="williams">Williams College (Massachusetts)</a>
 _[Excerpt] The Department of Computer Science at Williams College invites applications for a tenure-track position at the rank of assistant professor beginning July 1, 2021. In an exceptional case, a more advanced appointment may be considered. The position has a three-year initial term and is open to all areas of computer science. We are especially interested in candidates with strong backgrounds in Machine Learning, Artificial Intelligence, Natural Language Processing, or Computer Graphics, but applicants from all areas are encouraged to apply. New faculty will join twelve current members of the department in supporting a thriving and diverse undergraduate computer science major. Candidates should have a commitment to excellence in teaching and research, and should, by September, 2021, possess a Ph.D. in computer science or a closely related discipline. Successful candidates will teach a total of three courses during the academic year, along with associated labs._
