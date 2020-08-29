@@ -29,8 +29,13 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Williams College](#williams) - November 16, 2020
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 
+- [Bucknell University](#bucknell) - _ad forthcoming_
+
 
 ## Descriptions, Links, and Locations (alphabetical order)
+
+## <a name="bucknell">Bucknell University (Pennsylvania)</a>
+_Hiring is approved - ad is expected soon_
 
 ## <a name="denison">Denison University (Ohio)</a>
 _[Excerpt] The Computer Science program at Denison University invites applications for **multiple tenure track faculty positions** at the assistant professor or senior level to begin in August 2021. Candidates must have earned a Ph.D. in Computer Science or a closely related field, or be close to doing so, by the start date. We are seeking energetic and dynamic teachers who are committed to teaching a variety of courses in the CS core curriculum and in creating new electives that complement our existing offerings. Candidates should be dedicated to teaching in a liberal arts setting, mentoring undergraduate students, and supervising their research projects. The successful candidate will also be expected to contribute to the continued growth of the Department and the College, and maintain a strong scientific research program in any CS specialty or related field._
