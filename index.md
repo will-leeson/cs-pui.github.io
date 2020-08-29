@@ -27,6 +27,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [University of Richmond](#richmond) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
 - [Williams College](#williams) - November 16, 2020
+
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 - [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
 
