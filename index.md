@@ -28,6 +28,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Reed College](#reed) - October 31st, 2020
 - [Williams College](#williams) - November 16, 2020
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
+- [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
 
 - [Bucknell University](#bucknell) - _ad forthcoming_
 
@@ -56,6 +57,11 @@ _[Excerpt] The Department of Computer Science at Reed College invites applicatio
 _[Excerpt] The University of Richmond Department of Mathematics and Computer Science invites applications for a full-time tenure-track position in data science and statistics at the rank of assistant professor, to begin in the 2021-22 academic year. The department offers degrees in mathematics, computer science, and mathematical economics as well as a newly created major concentration in data science and statistics. The successful applicant is expected to commit to highly effective teaching at all levels of the undergraduate curriculum and to maintain a vigorous research program. Candidates from all subfields of data science and statistics will be considered. We are particularly interested in applicants who are able to make connections across a liberal arts curriculum. A Ph.D. in statistics, data science, **computer science**, information science, mathematics, or a related field is required and must be completed by the start date._
 - Review of applications will commence on **October 15** and continue until the position is filled.
 - [Link to application](https://richmond.csod.com/ats/careersite/JobDetails.aspx?site=1&id=2059)
+
+## <a name="westmont">Westmont College (Santa Barbara, California)</a>
+_[Excerpt] The Department of Mathematics and Computer Science invites applications for a tenure track position in Computer Science.  We seek a faculty member with a PhD in computer science who demonstrates professional and personal interests that extend beyond computer science, to include a commitment to life-long learning in the liberal arts and an ability to cultivate such learning in undergraduate students.  As a college rooted in the worldwide, evangelical Protestant Christian tradition, we are seeking candidates personally committed to this heritage.  Applicants should also share our commitment to greater inclusion of underrepresented groups in a field that sorely needs such diversity. The computer science program at Westmont reflects our assumption that a solid theoretical understanding provides the necessary basis for elegantly and efficiently solving problems – whether in research or development. With this pedagogical perspective in mind, the new faculty member will have opportunities to make significant contributions to the content and structure of the program._
+- Applications will be reviewed on a rolling basis.  Hiring will continue until all positions are filled.
+- [Link to application](https://www.westmont.edu/office-provost/open-positions)
 
 
 ## <a name="williams">Williams College (Massachusetts)</a>
