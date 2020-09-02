@@ -25,6 +25,7 @@ I'm going to be more flexible in this criteria in 20/21 - partially because the 
 _Deadlines are interpreted differently depending on the institution. See their full description for context_
 - [Denison University](#denison) - October 9, 2020
 - [University of Richmond](#richmond) - October 15, 2020
+- [Smith College](#smith) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
 - [Williams College](#williams) - November 16, 2020
 
@@ -67,6 +68,11 @@ Follow the link to the applications which includes an official SPU application f
 - Review of applications will begin immediately and continue until the position is filled.
 - [Link to application (Position #1)](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=124035)
 - [Link to application (Position #2)](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=124036)
+
+## <a name="smith">Smith College (Massachusetts)</a>
+_[Excerpt] The Program in Statistical & Data Sciences at Smith College invites applications for a tenure-track position at the rank of Assistant Professor, to begin July 1, 2021. Ph.D. in Statistics, Biostatistics, Data Science, **Computer Science**, or another relevant field is expected by the time of appointment. Candidates from any field in Statistics and Data Science are encouraged to apply. The position has a teaching load of 2:2 — i.e., four semester-long courses over the academic year. Teaching responsibilities for this position will regularly include introductory statistics or data science, as well as intermediate and advanced-level courses in their area of interest, for example data ethics, data journalism, machine learning, data visualization, and natural language processing. Candidates from groups underrepresented in STEM are encouraged to apply._
+- Review of applications will begin on **October 15**, 2020.
+- [Link to application](https://apply.interfolio.com/78414)
 
 ## <a name="westmont">Westmont College (Santa Barbara, California)</a>
 _[Excerpt] The Department of Mathematics and Computer Science invites applications for a tenure track position in Computer Science.  We seek a faculty member with a PhD in computer science who demonstrates professional and personal interests that extend beyond computer science, to include a commitment to life-long learning in the liberal arts and an ability to cultivate such learning in undergraduate students.  As a college rooted in the worldwide, evangelical Protestant Christian tradition, we are seeking candidates personally committed to this heritage.  Applicants should also share our commitment to greater inclusion of underrepresented groups in a field that sorely needs such diversity. The computer science program at Westmont reflects our assumption that a solid theoretical understanding provides the necessary basis for elegantly and efficiently solving problems – whether in research or development. With this pedagogical perspective in mind, the new faculty member will have opportunities to make significant contributions to the content and structure of the program._
