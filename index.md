@@ -15,7 +15,8 @@ In 2017, I [wrote an article about finding academic happiness on the job market]
 This document does not contain all or even most CS positions. Instead it targets jobs that I think will align with a specific set of values for some graduate students - those who want to invest in teaching/mentorship with undergrads while still staying active in their scholarship. My criteria:
 - Tenure-track positions accessible to those with a Ph.D. in CS
 - Universities that identify as **primarily-undergraduate colleges and universities**. No Ph.D. programs. Limited masters (if any).
-- Institutions that heavily value teaching, but are also in a position to secure time and financial resources for faculty to remain engaged with research. This typically means a reduced teaching load (often 2/2 or 3/2) with travel and start-up funds.
+- Institutions that heavily value teaching, but are also in a position to secure time and financial resources for faculty to remain engaged with research. This typically means a reduced teaching load (often 2/2 or 3/2) with professional support funds. 
+  - _Note: scholarship varies **significantly** between the institutions on this list. If research is important to you, I would encourage all applicants to carefully read ads and ask questions related to teaching loads, scholarly expectations, and institutional support (travel, startup, summer research students)._
 
 I'm going to be more flexible in this criteria in 20/21 - partially because the job market looks to be more challenging, but also because I feel uncomfortable acting as a filter to departments who see themselves as aligned with these goals (who am I to say otherwise?).
 
