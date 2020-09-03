@@ -24,9 +24,9 @@ I'm going to be more flexible in this criteria in 20/21 - partially because the 
 ## Deadlines and Quick Links (soonest on top)
 _Deadlines are interpreted differently depending on the institution. See their full description for context_
 - [Denison University](#denison) - October 9, 2020
+- [Lawrence University](#lawrence) - October 15, 2020
 - [University of Richmond](#richmond) - October 15, 2020
 - [Smith College](#smith) - October 15, 2020
-- [Lawrence University](#lawrence) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
 - [Williams College](#williams) - November 16, 2020
 
