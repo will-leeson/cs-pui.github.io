@@ -24,6 +24,7 @@ I'm going to be more flexible in this criteria in 20/21 - partially because the 
 ## Deadlines and Quick Links (soonest on top)
 _Deadlines are interpreted differently depending on the institution. See their full description for context_
 - [Denison University](#denison) - October 9, 2020
+- [Lawrence University](#lawrence) - October 15, 2020
 - [University of Richmond](#richmond) - October 15, 2020
 - [Smith College](#smith) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
@@ -45,6 +46,11 @@ _Hiring is approved - ad is expected soon_
 _[Excerpt] The Computer Science program at Denison University invites applications for **multiple tenure track faculty positions** at the assistant professor or senior level to begin in August 2021. Candidates must have earned a Ph.D. in Computer Science or a closely related field, or be close to doing so, by the start date. We are seeking energetic and dynamic teachers who are committed to teaching a variety of courses in the CS core curriculum and in creating new electives that complement our existing offerings. Candidates should be dedicated to teaching in a liberal arts setting, mentoring undergraduate students, and supervising their research projects. The successful candidate will also be expected to contribute to the continued growth of the Department and the College, and maintain a strong scientific research program in any CS specialty or related field._
 - We will begin reviewing applications on a rolling basis beginning on **October 9, 2020.** We welcome applications received after this date, and will evaluate them as they arrive.
 - [Link to application](https://employment.denison.edu/postings/2808)
+
+## <a name="lawrence">Lawrence University (Wisconsin)</a>
+_[Excerpt] Lawrence University invites applications for a full-time tenure track position as Assistant Professor of Computer Science to begin September 1, 2021. Appointment at the associate level may be considered commensurate with experience. The Department of Mathematics and Computer Science seeks an excellent teacher who is passionate about working with undergraduates in a liberal arts setting while actively engaging in high-quality research. Candidates should be enthusiastic to teach broadly, including introductory and core courses (e.g., programming, algorithms, data structures) as well as advanced offerings in their particular areas of interest and expertise. Computer scientists from all research areas are encouraged to apply._
+- Applications should be submitted by **October 15, 2020** for best consideration
+- [Link to application](https://lawrence.peopleadmin.com/postings/420)
 
 ## <a name="msoe">Milwaukee School of Engineering (Milwaukee)</a>
 _[Excerpt] The Electrical Engineering and Computer Science (EECS) department at the Milwaukee School of Engineering (MSOE) seeks applicants to fill multiple computer science (CS) and software engineering (SE) faculty positions at all ranks. MSOE expects, rewards, and supports a strong primary commitment to excellence in teaching. Faculty enjoy small class sizes and hands-on labs as well as continuous improvement and sustained professional development. Among the department’s strengths are strong partnerships with numerous businesses and academic institutes, which guide applied projects, undergraduate research, and curriculum development. Candidates with expertise in any field of CS or SE are encouraged to apply, but candidates with expertise in the following areas are especially desired: software process, dev ops, artificial intelligence, full stack web development, distributed and high-performance computing, and databases. Applicants must have an earned doctorate degree by the beginning date of the appointment, and proficiency in oral and written communication is required._
