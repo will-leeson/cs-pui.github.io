@@ -12,13 +12,11 @@ layout: home
 In 2017, I [wrote an article about finding academic happiness on the job market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) and why I chose [Bucknell](http://www.eg.bucknell.edu/~emp017/). Since then, I continue to receive emails with the same follow-up question: _how do I find these jobs?_ This listing of schools for the 2020/21 hiring season in CS is meant to help navigate that muddy water. To see last year's list, [visit the Medium article](https://medium.com/@evanmpeck/cs-academic-job-market-for-liberal-arts-colleges-19-20-cd348423f919).
 
 ### My criteria for colleges/universities on this page
-This document does not contain all or even most CS positions. Instead it targets jobs that I think will align with a specific set of values for some graduate students - those who want to invest in teaching/mentorship with undergrads while still staying active in their scholarship. My criteria:
+This document does not contain all (or even most) CS positions. Instead, it is designed for graduate students who want to invest in teaching/mentorship with undergrads while still staying active in their scholarship. My criteria:
 - Tenure-track positions accessible to those with a Ph.D. in CS
-- Universities that identify as **primarily-undergraduate colleges and universities**. No Ph.D. programs. Limited masters (if any).
-- Institutions that heavily value teaching, but are also in a position to secure time and financial resources for faculty to remain engaged with research. This typically means a reduced teaching load (often 2/2 or 3/2) with professional support funds. 
-  - _Note: scholarship varies **significantly** between the institutions on this list. If research is important to you, I would encourage all applicants to carefully read ads and ask questions related to teaching loads, scholarly expectations, and institutional support (travel, startup, summer research students)._
-
-I'm going to be more flexible in this criteria in 20/21 - partially because the job market looks to be more challenging, but also because I feel uncomfortable acting as a filter to departments who see themselves as aligned with these goals (who am I to say otherwise?).
+- Universities that identify as **primarily-undergraduate colleges and universities**. 
+- Institutions that highly value teaching, but also secure time and financial resources for faculty to remain engaged with research. This typically means a reduced teaching load (often 2/2 or 3/2) with professional support funds. 
+  - _Note: scholarship varies **significantly** between the institutions on this list. If research is important to you, I would encourage all applicants to carefully read ads and ask questions related to teaching loads, scholarly expectations, and institutional support. In the past, I've been picky about this criteria, but to avoid acting as a biased filter (and because of the more challenging market), I'm allowing departments to make that judgment call for themselves this year_
 
 # Who is hiring in CS so far (2020/21)
 
