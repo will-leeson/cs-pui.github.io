@@ -17,6 +17,11 @@ This document does not contain all (or even most) CS positions. Instead, it is d
 - Universities that identify as **primarily-undergraduate colleges and universities**. 
 - Institutions that highly value teaching, but also secure time and financial resources for faculty to remain engaged with research. This typically means a reduced teaching load (often 2/2 or 3/2) with professional support funds. 
   - _Note: scholarship varies **significantly** between the institutions on this list. If research is important to you, I would encourage all applicants to carefully read ads and ask questions related to teaching loads, scholarly expectations, and institutional support. In the past, I've been picky about this criteria, but to avoid acting as a biased filter (and because of the more challenging market), I'm allowing departments to make that judgment call for themselves this year_
+  
+### Resources for navigating the job market
+While I don't expect to have a lengthy resources list here, there are a couple I want to highlight because they compile wisdom from many people (including those who have gone onto PUIs). 
+- [Computer Science Graduate Job and Interview Guide](https://csguides.github.io/grad-job-guide/)
+- Iris Howley's (Williams) [Some Resources for the Primarily Undergraduate Institution Computer Science Job Market](https://docs.google.com/document/d/1JGyp7_NJKDAjCpsm8Z5_lty0P76jk3bhPPMdQJaF0nw/edit?usp=sharing)
 
 # Who is hiring in CS so far (2020/21)
 
