@@ -34,6 +34,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Reed College](#reed) - October 31st, 2020
 - [Williams College](#williams) - November 16, 2020
 
+- [Colorado College](#colorado) - Open until filled
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 - [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
 - [Seattle Pacific University](#spu) - No deadline, positions open until filled
@@ -45,6 +46,11 @@ _Deadlines are interpreted differently depending on the institution. See their f
 
 ## <a name="bucknell">Bucknell University (Pennsylvania)</a>
 _Hiring is approved - ad is expected soon_
+
+## <a name="colorado">Colorado College (Colorado)</a>
+_[Excerpt] The Department of Mathematics and Computer Science at Colorado College invites applications for a tenure-track position at the Assistant Professor level in Computer Science to begin in August of 2021. We seek a computer scientist with broad teaching interests who can teach introductory as well as advanced computer science courses to a diverse community of students and mentor computer science majors who are completing their capstone experience. All candidates should be able to teach introductory and advanced computer science courses including programming and a CS elective in their primary field of study. We are also particularly interested in candidates who can teach computer architecture, data structures and algorithms, or theory of computation. The successful candidate should also be able to develop and maintain a rigorous program that can engage undergraduate students, mentor computer science students who are completing their capstone experience, and advise students who are interested in computer science._
+- Open until filled
+- [Link to application](https://employment.coloradocollege.edu/postings/4496)
 
 ## <a name="denison">Denison University (Ohio)</a>
 _[Excerpt] The Computer Science program at Denison University invites applications for **multiple tenure track faculty positions** at the assistant professor or senior level to begin in August 2021. Candidates must have earned a Ph.D. in Computer Science or a closely related field, or be close to doing so, by the start date. We are seeking energetic and dynamic teachers who are committed to teaching a variety of courses in the CS core curriculum and in creating new electives that complement our existing offerings. Candidates should be dedicated to teaching in a liberal arts setting, mentoring undergraduate students, and supervising their research projects. The successful candidate will also be expected to contribute to the continued growth of the Department and the College, and maintain a strong scientific research program in any CS specialty or related field._
