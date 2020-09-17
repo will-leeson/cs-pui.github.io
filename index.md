@@ -32,6 +32,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [University of Richmond](#richmond) - October 15, 2020
 - [Smith College](#smith) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
+- [University of Puget Sound](#pugetsound) - November 1, 2020
 - [Williams College](#williams) - November 16, 2020
 
 - [Colorado College](#colorado) - Open until filled
@@ -67,10 +68,16 @@ _[Excerpt] The Electrical Engineering and Computer Science (EECS) department at 
 - Applications will be reviewed on a rolling basis.  Hiring will continue until all positions are filled.
 - [Link to application](https://www.milwaukeejobs.com/j/t-Computer-Science-and-Software-Engineering-Faculty-All-Ranks-e-Milwaukee-School-of-Engineering-l-Milwaukee,-WI-jobs-j39659781.html?pbid=68354)
 
+## <a name="pugetsound">University of Puget Sound (Washington)</a>
+_[Excerpt] The University of Puget Sound seeks applications for a Tenure-Track Assistant or Associate Professor of Computer Science to begin Fall 2021. The successful candidate will develop and teach courses in the new undergraduate Data Science major, as well as courses in the existing Computer Science curriculum. Standard teaching load is 6 units per academic year. Candidates are expected to engage in undergraduate research, mentoring, advising, and standard service assignments. We are in the process of developing a new undergraduate major in Data Science, and are seeking candidates who would be excited to help lead, shape, and teach in the new major. Preference will be given to candidates specializing in one or more of the active areas of research in data science, including data mining and knowledge discovery, big data analytics, data visualization, deep learning, and statistical models for data mining._
+- Consideration of applications will begin on **November 1, 2020**, and will continue until the position is filled.
+- [Link to application](https://www2.pugetsound.jobs/psp/HR92PRD/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=5517&PostingSeq=1)
+
 ## <a name="reed">Reed College (Oregon)</a>
 _[Excerpt] The Department of Computer Science at Reed College invites applications for a tenure-track faculty position, rank open, beginning in the fall of 2021. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in their teaching and in their scholarship. Applicants from all areas of computer science are welcome to apply, though particular attention will be given to applicants in systems/application research areas (e.g., networks, database systems, security, distributed computing, operating systems, robotics, etc.). The successful applicant will help teach the core computer science curriculum at all levels in the major, in cooperation with their fellow faculty, and will develop one or more courses in their areas of expertise. The department is committed to giving all its students the opportunity to explore research topics in computer science and in its applications. The successful candidate will advise several year-long senior thesis projects that are required of all Reed students._
 - Applications submitted by **October 30, 2020** are assured to get the fullest consideration
 - [Link to application](https://apply.interfolio.com/77853)
+
 
 ## <a name="richmond">University of Richmond (Virginia)</a>
 _[Excerpt] The University of Richmond Department of Mathematics and Computer Science invites applications for a full-time tenure-track position in data science and statistics at the rank of assistant professor, to begin in the 2021-22 academic year. The department offers degrees in mathematics, computer science, and mathematical economics as well as a newly created major concentration in data science and statistics. The successful applicant is expected to commit to highly effective teaching at all levels of the undergraduate curriculum and to maintain a vigorous research program. Candidates from all subfields of data science and statistics will be considered. We are particularly interested in applicants who are able to make connections across a liberal arts curriculum. A Ph.D. in statistics, data science, **computer science**, information science, mathematics, or a related field is required and must be completed by the start date._
