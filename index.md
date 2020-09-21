@@ -28,6 +28,7 @@ While I don't expect to have a lengthy resources list here, there are a couple I
 ## Deadlines and Quick Links (soonest on top)
 _Deadlines are interpreted differently depending on the institution. See their full description for context_
 - [Denison University](#denison) - October 9, 2020
+- [Davidson College](#davidson) - October 12, 2020
 - [Lawrence University](#lawrence) - October 15, 2020
 - [University of Richmond](#richmond) - October 15, 2020
 - [Smith College](#smith) - October 15, 2020
@@ -52,6 +53,11 @@ _Hiring is approved - ad is expected soon_
 _[Excerpt] The Department of Mathematics and Computer Science at Colorado College invites applications for a tenure-track position at the Assistant Professor level in Computer Science to begin in August of 2021. We seek a computer scientist with broad teaching interests who can teach introductory as well as advanced computer science courses to a diverse community of students and mentor computer science majors who are completing their capstone experience. All candidates should be able to teach introductory and advanced computer science courses including programming and a CS elective in their primary field of study. We are also particularly interested in candidates who can teach computer architecture, data structures and algorithms, or theory of computation. The successful candidate should also be able to develop and maintain a rigorous program that can engage undergraduate students, mentor computer science students who are completing their capstone experience, and advise students who are interested in computer science._
 - Open until filled
 - [Link to application](https://employment.coloradocollege.edu/postings/4496)
+
+## <a name="davidson">Davidson College (North Carolina)</a>
+_[Excerpt] The Department of Mathematics and Computer Science at Davidson College invites applications for a tenure-track appointment in Computer Science at the rank of Assistant Professor, beginning July 1, 2021. Candidates must possess a Ph.D. in Computer Science or a closely related field by Fall 2021. The department is also searching for a tenure-track position at the intersection of Mathematics and Computer Science at the rank of Assistant Professor.  Candidates who are interested in both positions must apply for each position separately. We seek candidates with a strong commitment to improving access to computer science for all students, enthusiasm for teaching all levels of undergraduate students, and a research program that can involve undergraduate researchers. The department is most interested in an area of expertise that can broaden our curriculum, including, but not limited to, programming languages, architecture, software engineering, security, human-computer interaction, networking, database systems, operating systems, or scientific computing._
+- Applications completed by **October 12, 2020** will receive full consideration
+- [Link to application](https://employment.davidson.edu/cw/en-us/job/493671?&lApplicationSubSourceID=11252)
 
 ## <a name="denison">Denison University (Ohio)</a>
 _[Excerpt] The Computer Science program at Denison University invites applications for **multiple tenure track faculty positions** at the assistant professor or senior level to begin in August 2021. Candidates must have earned a Ph.D. in Computer Science or a closely related field, or be close to doing so, by the start date. We are seeking energetic and dynamic teachers who are committed to teaching a variety of courses in the CS core curriculum and in creating new electives that complement our existing offerings. Candidates should be dedicated to teaching in a liberal arts setting, mentoring undergraduate students, and supervising their research projects. The successful candidate will also be expected to contribute to the continued growth of the Department and the College, and maintain a strong scientific research program in any CS specialty or related field._
