@@ -43,6 +43,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Seattle Pacific University](#spu) - No deadline, positions open until filled
 
 - [Bucknell University](#bucknell) - _ad forthcoming_
+- [James Madison University](#jmu) - _ad forthcoming_
 
 
 ## Descriptions, Links, and Locations (alphabetical order)
@@ -69,6 +70,9 @@ _[Excerpt] The Computer Science program at Denison University invites applicatio
 _[Excerpt] The Computer Science Department at Hamilton College invites applications for a tenure-track position at the rank of Assistant Professor, beginning July 1, 2021.  We seek candidates with expertise in an applied area of computer science.  We are seeking candidates who can demonstrate their experience in teaching or working with diverse student populations.  Your cover letter should address the ways in which you would further the College's goal of building a diverse and inclusive educational environment.  We expect an ongoing research program that could involve undergraduate researchers.  Research support includes start-up funds, annual conference travel, and a generous sabbatical leave program.  The position requires institutional service including academic advising of undergraduate students after the first year._
 - Our review of applications will begin on **October 15, 2020**
 - [Link to application](https://apply.interfolio.com/79004)
+
+## <a name="jmu">James Madison University (Virginia)</a>
+_[Excerpt] Hiring is approved - ad is expected soon_
 
 ## <a name="lawrence">Lawrence University (Wisconsin)</a>
 _[Excerpt] Lawrence University invites applications for a full-time tenure track position as Assistant Professor of Computer Science to begin September 1, 2021. Appointment at the associate level may be considered commensurate with experience. A PhD in Computer Science or closely related field is required by job start date. The Department of Mathematics and Computer Science seeks an excellent teacher who is passionate about working with undergraduates in a liberal arts setting while actively engaging in high-quality research. Lawrence offers majors in Computer Science, Mathematics, and minors in Computer Science, Mathematics, and Statistics and Data Science. Recent computer science graduates are employed at Airbnb, Apple, Amazon, Facebook, Google, LinkedIn, Microsoft, Nintendo, Pixar, Epic, Smart Things, and Workday. Others have attended graduate programs at Wisconsin, Minnesota, Georgia Tech, North Carolina State, RPI, USC, RIT, and Michigan. Candidates should be enthusiastic to teach broadly, including introductory and core courses (e.g., programming, algorithms, data structures) as well as advanced offerings in their particular areas of interest and expertise. Computer scientists from all research areas are encouraged to apply._
