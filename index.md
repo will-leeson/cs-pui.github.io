@@ -32,6 +32,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Hamilton College](#hamilton) - October 15, 2020
 - [Lawrence University](#lawrence) - October 15, 2020
 - [University of Richmond](#richmond) - October 15, 2020
+- [Simmons University](#simmons) - October 15, 2020
 - [Smith College](#smith) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
 - [University of Puget Sound](#pugetsound) - November 1, 2020
@@ -105,6 +106,13 @@ _[Excerpt] Full-time, tenure track positions available for September 2021. A Ph.
 Candidates will need to be prepared to teach programming in C++. A commitment to undergraduate education, along with evidence of the ability to teach, advise, and/or mentor underrepresented and first-generation college students. 
 Follow the link to the applications which includes an official SPU application form, a faith statement of approximately one page (Faculty Insert of online application), a statement on addressing diversity in course materials and class sessions (Faculty Insert of online application), a teaching philosophy statement of approximately one page, a curriculum vitae, and other supporting documents._
 - Review of applications will begin immediately and continue until the position is filled.
+- [Link to application (Position #1)](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=124035)
+- [Link to application (Position #2)](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=124036)
+
+## <a name="simmons">Simmons University (Boston)</a>
+_[Excerpt] The Division of Mathematics, Computing, and Statistics (MCS) at Simmons University is seeking applicants for a faculty position in Statistics or Data Science, to begin August 15, 2021 (start date negotiable). As a mission-driven and inclusive institution, we invite applications from candidates who share our passion and commitment to empowering women to thrive in their careers. Depending on the successful candidate’s experience and professional goals, we offer several different possibilities for position title and responsibilities: Assistant Professor (tenure-track / research expectation), Assistant Professor--NTT (non-tenure-track / primarily teaching), Assistant Professor of Practice (industry experience / primarily teaching). Candidates must have earned a graduate degree in Statistics, Data Science, or a related field (or expect to earn such a degree by Fall 2021). To apply, please submit a cover letter (including the title of the position for which you are applying), a CV, and a teaching statement. Applicants for a tenure-track Assistant Professor rank should also include a research statement. Additional supporting materials that document excellence in teaching, such as course evaluations and syllabi of courses taught, are optional and welcomed. 
+- Application review will begin on **October 15, 2020**, and will continue until the position is filled. Contact information for three professional references will be requested of selected applicants following initial review of applications.
+-[Link to application](https://simmons.wd1.myworkdayjobs.com/en-US/Simmons-Careers/job/Main-Campus---Boston-MA/Faculty-position-in-Statistics-or-Data-Science_R06954)
 - [Link to application (Position #1)](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=124035)
 - [Link to application (Position #2)](https://www.interviewexchange.com/jobofferdetails.jsp?JOBID=124036)
 
