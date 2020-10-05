@@ -35,6 +35,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Simmons University](#simmons) - October 15, 2020
 - [Smith College](#smith) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
+- [Muhlenberg College](#muhlenberg) - November 1, 2020
 - [University of Puget Sound](#pugetsound) - November 1, 2020
 - [Williams College](#williams) - November 16, 2020
 
@@ -74,6 +75,11 @@ _[Excerpt] The Computer Science Department at Hamilton College invites applicati
 
 ## <a name="jmu">James Madison University (Virginia)</a>
 _[Excerpt] Hiring is approved - ad is expected soon_
+
+## <a name="muhlenberg">Muhlenberg College (Pennsylvania)</a>
+_[Excerpt] The Muhlenberg College Department of Mathematics and Computer Science invites applications for a tenure-track position in computer science at the assistant or associate professor level to begin in the fall of 2021. A Ph.D. in Computer Science or a closely related field is required by August 2021 and all areas of specialty will be considered. As an equal opportunity employer, Muhlenberg College is committed to recruiting and retaining outstanding faculty and staff from racial and ethnic groups that have been traditionally underrepresented in higher education. The most important part of a Muhlenberg professor’s job is teaching undergraduates. The teaching load for this position is 3 courses per semester. An ongoing research program is also expected of tenure-track faculty. Start-up funds are available to incoming faculty for their research and grants are available to support faculty scholarship during the summer._
+- Complete applications received by **November 1, 2020** will receive full consideration.
+- [Link to application](https://www.muhlenberg.edu/offices/hr/jobs.html)
 
 ## <a name="lawrence">Lawrence University (Wisconsin)</a>
 _[Excerpt] Lawrence University invites applications for a full-time tenure track position as Assistant Professor of Computer Science to begin September 1, 2021. Appointment at the associate level may be considered commensurate with experience. A PhD in Computer Science or closely related field is required by job start date. The Department of Mathematics and Computer Science seeks an excellent teacher who is passionate about working with undergraduates in a liberal arts setting while actively engaging in high-quality research. Lawrence offers majors in Computer Science, Mathematics, and minors in Computer Science, Mathematics, and Statistics and Data Science. Recent computer science graduates are employed at Airbnb, Apple, Amazon, Facebook, Google, LinkedIn, Microsoft, Nintendo, Pixar, Epic, Smart Things, and Workday. Others have attended graduate programs at Wisconsin, Minnesota, Georgia Tech, North Carolina State, RPI, USC, RIT, and Michigan. Candidates should be enthusiastic to teach broadly, including introductory and core courses (e.g., programming, algorithms, data structures) as well as advanced offerings in their particular areas of interest and expertise. Computer scientists from all research areas are encouraged to apply._
