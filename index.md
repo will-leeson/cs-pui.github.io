@@ -38,6 +38,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Muhlenberg College](#muhlenberg) - November 1, 2020
 - [University of Puget Sound](#pugetsound) - November 1, 2020
 - [Williams College](#williams) - November 16, 2020
+- [Bowdoin College](#bowdoin) - December 15, 2020
 
 - [Colorado College](#colorado) - Open until filled
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
@@ -49,6 +50,11 @@ _Deadlines are interpreted differently depending on the institution. See their f
 
 
 ## Descriptions, Links, and Locations (alphabetical order)
+
+## <a name="bowdoin">Bowdoin College (Maine)</a>
+_[Excerpt] Bowdoin College’s Computer Science Department invites applications for a tenure-track position at the rank of Assistant Professor to begin July 1, 2021. We seek applications from all areas of computer science, including interdisciplinary fields. Bowdoin is seeking a colleague with a strong commitment to research and a promise of long-term successful scholarly engagement as well as a dedication to teaching excellence in a liberal arts environment. The position comes with generous research support including startup funding, a fully-funded, year-long junior sabbatical leave (after three years of teaching and successful reappointment), regular post-tenure sabbaticals, as well as conference and travel support. Bowdoin also provides robust assistance in securing funding from outside agencies._
+- Applications will be reviewed on a rolling basis, beginning **December 15, 2020**
+- [Link to application](https://careers.bowdoin.edu/postings/6858)
 
 ## <a name="bucknell">Bucknell University (Pennsylvania)</a>
 _Hiring is approved - ad is expected soon_
