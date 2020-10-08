@@ -57,7 +57,6 @@ _[Excerpt] Bowdoin College’s Computer Science Department invites applications 
 - [Link to application](https://careers.bowdoin.edu/postings/6858)
 
 ## <a name="bucknell">Bucknell University (Pennsylvania)</a>
-_Hiring is approved - ad is expected soon_
 _[Excerpt] The Department of Computer Science at Bucknell University seeks applications for a tenure-track position at the rank of Assistant Professor or Associate Professor in Computer Science beginning August 2021. We seek applicants who demonstrate interest in reflective, multicultural, and inclusive teaching practices and who commit to collaborating with departmental colleagues and students. The successful candidate will teach in one or more areas of our core CS curriculum and will have opportunities to develop elective courses in their areas of expertise. As a liberal arts institution, we value a broad definition of computer science, and we are particularly interested in candidates whose research areas either expand the range of expertise in the department or lead to connections with other disciplines, such as the humanities, arts, social sciences, or natural sciences. Evidence of the candidate’s commitment to equity in both the classroom and in scholarly collaboration must be included in the application materials._
 - Review of applications will begin on **November 1** and continue until the position is filled
 - [Link to application](https://jobs.bucknell.edu/en-us/job/496623/tenure-track-assistantassociate-professor-of-computer-science)
