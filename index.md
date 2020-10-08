@@ -35,6 +35,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Simmons University](#simmons) - October 15, 2020
 - [Smith College](#smith) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
+- [Bucknell University](#bucknell) - November 1, 2020
 - [Muhlenberg College](#muhlenberg) - November 1, 2020
 - [University of Puget Sound](#pugetsound) - November 1, 2020
 - [Williams College](#williams) - November 16, 2020
@@ -45,7 +46,6 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
 - [Seattle Pacific University](#spu) - No deadline, positions open until filled
 
-- [Bucknell University](#bucknell) - _ad forthcoming_
 - [James Madison University](#jmu) - _ad forthcoming_
 
 
@@ -58,6 +58,9 @@ _[Excerpt] Bowdoin College’s Computer Science Department invites applications 
 
 ## <a name="bucknell">Bucknell University (Pennsylvania)</a>
 _Hiring is approved - ad is expected soon_
+_[Excerpt] The Department of Computer Science at Bucknell University seeks applications for a tenure-track position at the rank of Assistant Professor or Associate Professor in Computer Science beginning August 2021. We seek applicants who demonstrate interest in reflective, multicultural, and inclusive teaching practices and who commit to collaborating with departmental colleagues and students. The successful candidate will teach in one or more areas of our core CS curriculum and will have opportunities to develop elective courses in their areas of expertise. As a liberal arts institution, we value a broad definition of computer science, and we are particularly interested in candidates whose research areas either expand the range of expertise in the department or lead to connections with other disciplines, such as the humanities, arts, social sciences, or natural sciences. Evidence of the candidate’s commitment to equity in both the classroom and in scholarly collaboration must be included in the application materials._
+- Review of applications will begin on **November 1** and continue until the position is filled
+- [Link to application](https://jobs.bucknell.edu/en-us/job/496623/tenure-track-assistantassociate-professor-of-computer-science)
 
 ## <a name="colorado">Colorado College (Colorado)</a>
 _[Excerpt] The Department of Mathematics and Computer Science at Colorado College invites applications for a tenure-track position at the Assistant Professor level in Computer Science to begin in August of 2021. We seek a computer scientist with broad teaching interests who can teach introductory as well as advanced computer science courses to a diverse community of students and mentor computer science majors who are completing their capstone experience. All candidates should be able to teach introductory and advanced computer science courses including programming and a CS elective in their primary field of study. We are also particularly interested in candidates who can teach computer architecture, data structures and algorithms, or theory of computation. The successful candidate should also be able to develop and maintain a rigorous program that can engage undergraduate students, mentor computer science students who are completing their capstone experience, and advise students who are interested in computer science._
