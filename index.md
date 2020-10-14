@@ -38,6 +38,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Bucknell University](#bucknell) - November 1, 2020
 - [Muhlenberg College](#muhlenberg) - November 1, 2020
 - [University of Puget Sound](#pugetsound) - November 1, 2020
+- [James Madison University](#jmu) - November 15, 2020 and open until filled
 - [Williams College](#williams) - November 16, 2020
 - [Smith College - Computer Science](#smith-cs) - December 1, 2020
 - [Oberlin College](#oberlin) - December 7, 2020
@@ -46,7 +47,6 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 - [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
 - [Seattle Pacific University](#spu) - No deadline, positions open until filled
-- [James Madison University](#jmu) - _ad forthcoming_
 
 
 ## Descriptions, Links, and Locations (alphabetical order)
@@ -82,7 +82,9 @@ _[Excerpt] The Computer Science Department at Hamilton College invites applicati
 - [Link to application](https://apply.interfolio.com/79004)
 
 ## <a name="jmu">James Madison University (Virginia)</a>
-_[Excerpt] Hiring is approved - ad is expected soon_
+_[Excerpt] The Department of Computer Science at James Madison University invites applications for tenure-track faculty positions to begin August 2021 contingent upon funding availability. We value excellence in our teaching and scholarship and are committed to cultivating a welcoming and diverse environment for our faculty, staff, and students. Preference will be given to applicants at the Assistant Professor level, and exceptional candidates at other ranks will also be considered. Applicants from all areas of specialization are encouraged to apply. We especially welcome candidates with a background in Software Engineering, Web & Mobile Development, Algorithms & Theory, or CyberSecurity. We are particularly interested in candidates with experience and/or interest in promoting diversity and inclusion within the department and the discipline. Candidates should demonstrate the ability and interest in providing high-quality undergraduate teaching in the context of a liberal arts university. Preference will be given to applicants with the potential to develop and sustain an active, undergraduate-oriented research program. A Doctorate (Ph.D., D.Sc., etc.) or ABD in Computer Science or a closely related field at the time of employment is required for these positions._
+- Review of applications will begin on **November 15, 2020** and will continue until the positions are filled. Applications received after this date are acceptable and will be reviewed as they arrive.
+- [Link to application](http://www.jmu.edu/cs/open-positions/)
 
 ## <a name="lawrence">Lawrence University (Wisconsin)</a>
 _[Excerpt] Lawrence University invites applications for a full-time tenure track position as Assistant Professor of Computer Science to begin September 1, 2021. Appointment at the associate level may be considered commensurate with experience. A PhD in Computer Science or closely related field is required by job start date. The Department of Mathematics and Computer Science seeks an excellent teacher who is passionate about working with undergraduates in a liberal arts setting while actively engaging in high-quality research. Lawrence offers majors in Computer Science, Mathematics, and minors in Computer Science, Mathematics, and Statistics and Data Science. Recent computer science graduates are employed at Airbnb, Apple, Amazon, Facebook, Google, LinkedIn, Microsoft, Nintendo, Pixar, Epic, Smart Things, and Workday. Others have attended graduate programs at Wisconsin, Minnesota, Georgia Tech, North Carolina State, RPI, USC, RIT, and Michigan. Candidates should be enthusiastic to teach broadly, including introductory and core courses (e.g., programming, algorithms, data structures) as well as advanced offerings in their particular areas of interest and expertise. Computer scientists from all research areas are encouraged to apply._
