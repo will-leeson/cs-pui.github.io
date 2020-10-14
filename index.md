@@ -101,12 +101,10 @@ _[Excerpt] The Muhlenberg College Department of Mathematics and Computer Science
 - [Link to application](https://www.muhlenberg.edu/offices/hr/jobs.html)
 
 ## <a name="oberlin">Oberlin College (Ohio)</a>
-_[Excerpt] The Computer Science Department at Oberlin College invites applications for Two full-time, tenure track faculty positions in the College of Arts and Sciences to begin Fall 2021.
-
-- To be assured of consideration, submit a letter of application, a curriculum vitae, teaching and research statements, graduate academic transcripts, and at least three recent letters of reference, with one of those letters addressing teaching, submitted electronically to Academic Jobs Online. Candidates who work in Machine Learning, Artificial Intelligence are encouraged to Apply at https://academicjobsonline.org/ajo/jobs/17108 
-- Apply to the position Open to all Areas at https://academicjobsonline.org/ajo/jobs/17109 by December 7, 2020.
-- *By having recommenders provide these letters you agree that we may contact them.
-- Questions about the position can be addressed to the Chair of Computer Science: Robert Geitz bob.geitz@oberlin.edu or 440-775-8386.
+_[Excerpt] The Computer Science Department at Oberlin College invites applications for **Two** full-time, tenure track faculty positions in the College of Arts and Sciences to begin Fall 2021. To be assured of consideration, submit a letter of application, a curriculum vitae, teaching and research statements, graduate academic transcripts, and at least three recent letters of reference (by having recommenders provide these letters you agree that we may contact them), with one of those letters addressing teaching, submitted electronically to Academic Jobs Online. Questions about the position can be addressed to the Chair of Computer Science: Robert Geitz bob.geitz@oberlin.edu or 440-775-8386._
+- Completed applications received by **December 7** will be guaranteed full consideration
+- [Link to application](https://academicjobsonline.org/ajo/jobs/17108) for candidates who work in Machine Learning, Artificial Intelligence
+- [Link to application](https://academicjobsonline.org/ajo/jobs/17109) for the position open to all areas  
 
 ## <a name="pugetsound">University of Puget Sound (Washington)</a>
 _[Excerpt] The University of Puget Sound seeks applications for a Tenure-Track Assistant or Associate Professor of Computer Science to begin Fall 2021. The successful candidate will develop and teach courses in the new undergraduate Data Science major, as well as courses in the existing Computer Science curriculum. Standard teaching load is 6 units per academic year. Candidates are expected to engage in undergraduate research, mentoring, advising, and standard service assignments. We are in the process of developing a new undergraduate major in Data Science, and are seeking candidates who would be excited to help lead, shape, and teach in the new major. Preference will be given to candidates specializing in one or more of the active areas of research in data science, including data mining and knowledge discovery, big data analytics, data visualization, deep learning, and statistical models for data mining._
