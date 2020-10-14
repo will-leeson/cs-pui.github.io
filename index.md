@@ -33,20 +33,19 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Lawrence University](#lawrence) - October 15, 2020
 - [University of Richmond](#richmond) - October 15, 2020
 - [Simmons University](#simmons) - October 15, 2020
-- [Smith College - Data Science](#smith) - October 15, 2020
+- [Smith College - Statistical & Data Science](#smith-sds) - October 15, 2020
 - [Reed College](#reed) - October 31st, 2020
 - [Bucknell University](#bucknell) - November 1, 2020
 - [Muhlenberg College](#muhlenberg) - November 1, 2020
 - [University of Puget Sound](#pugetsound) - November 1, 2020
 - [Williams College](#williams) - November 16, 2020
+- [Smith College - Computer Science](#smith-cs) - December 1, 2020
 - [Oberlin College](#oberlin) - December 7, 2020
 - [Bowdoin College](#bowdoin) - December 15, 2020
-
 - [Colorado College](#colorado) - Open until filled
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 - [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
 - [Seattle Pacific University](#spu) - No deadline, positions open until filled
-
 - [James Madison University](#jmu) - _ad forthcoming_
 
 
@@ -135,7 +134,12 @@ _[Excerpt] The Division of Mathematics, Computing, and Statistics (MCS) at Simmo
 - Application review will begin on **October 15, 2020**, and will continue until the position is filled. Contact information for three professional references will be requested of selected applicants following initial review of applications.
 - [Link to application](https://simmons.wd1.myworkdayjobs.com/en-US/Simmons-Careers/job/Main-Campus---Boston-MA/Faculty-position-in-Statistics-or-Data-Science_R06954)
 
-## <a name="smith">Smith College - Data Science (Massachusetts)</a>
+## <a name="smith-cs">Smith College - Computer Science (Massachusetts)</a>
+_[Excerpt] TThe Department of Computer Science at Smith College invites applications for **two** tenure-track, full-time positions at the rank of Assistant Professor, to begin July 1, 2021. Successful candidates should demonstrate their ability to engage actively with diverse student populations across the liberal arts, the potential for excellence in undergraduate teaching, and the capacity to develop an active research program. Both positions are open to all areas of computer science. For one of the positions we are especially interested in applicants with expertise in systems and hardware. A Ph.D. in Computer Science or a closely related field is expected by the time of appointment._
+- Review of applications will begin on **December 1, 2020** and continue until the position is filled.
+- [Link to application](https://apply.interfolio.com/79751)
+
+## <a name="smith-sds">Smith College - Statistical & Data Science (Massachusetts)</a>
 _[Excerpt] The Program in Statistical & Data Sciences at Smith College invites applications for a tenure-track position at the rank of Assistant Professor, to begin July 1, 2021. Ph.D. in Statistics, Biostatistics, Data Science, **Computer Science**, or another relevant field is expected by the time of appointment. Candidates from any field in Statistics and Data Science are encouraged to apply. The position has a teaching load of 2:2 — i.e., four semester-long courses over the academic year. Teaching responsibilities for this position will regularly include introductory statistics or data science, as well as intermediate and advanced-level courses in their area of interest, for example data ethics, data journalism, machine learning, data visualization, and natural language processing. Candidates from groups underrepresented in STEM are encouraged to apply._
 - Review of applications will begin on **October 15**, 2020.
 - [Link to application](https://apply.interfolio.com/78414)
