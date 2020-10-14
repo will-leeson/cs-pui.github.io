@@ -39,6 +39,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Muhlenberg College](#muhlenberg) - November 1, 2020
 - [University of Puget Sound](#pugetsound) - November 1, 2020
 - [Williams College](#williams) - November 16, 2020
+- [Oberlin College](#oberlin) - December 7, 2020
 - [Bowdoin College](#bowdoin) - December 15, 2020
 
 - [Colorado College](#colorado) - Open until filled
@@ -98,6 +99,14 @@ _[Excerpt] The Electrical Engineering and Computer Science (EECS) department at 
 _[Excerpt] The Muhlenberg College Department of Mathematics and Computer Science invites applications for a tenure-track position in computer science at the assistant or associate professor level to begin in the fall of 2021. A Ph.D. in Computer Science or a closely related field is required by August 2021 and all areas of specialty will be considered. As an equal opportunity employer, Muhlenberg College is committed to recruiting and retaining outstanding faculty and staff from racial and ethnic groups that have been traditionally underrepresented in higher education. The most important part of a Muhlenberg professor’s job is teaching undergraduates. The teaching load for this position is 3 courses per semester. An ongoing research program is also expected of tenure-track faculty. Start-up funds are available to incoming faculty for their research and grants are available to support faculty scholarship during the summer._
 - Complete applications received by **November 1, 2020** will receive full consideration.
 - [Link to application](https://www.muhlenberg.edu/offices/hr/jobs.html)
+
+## <a name="oberlin">Oberlin College (Ohio)</a>
+_[Excerpt] The Computer Science Department at Oberlin College invites applications for Two full-time, tenure track faculty positions in the College of Arts and Sciences to begin Fall 2021.
+
+- To be assured of consideration, submit a letter of application, a curriculum vitae, teaching and research statements, graduate academic transcripts, and at least three recent letters of reference, with one of those letters addressing teaching, submitted electronically to Academic Jobs Online. Candidates who work in Machine Learning, Artificial Intelligence are encouraged to Apply at https://academicjobsonline.org/ajo/jobs/17108 
+- Apply to the position Open to all Areas at https://academicjobsonline.org/ajo/jobs/17109 by December 7, 2020.
+- *By having recommenders provide these letters you agree that we may contact them.
+- Questions about the position can be addressed to the Chair of Computer Science: Robert Geitz bob.geitz@oberlin.edu or 440-775-8386.
 
 ## <a name="pugetsound">University of Puget Sound (Washington)</a>
 _[Excerpt] The University of Puget Sound seeks applications for a Tenure-Track Assistant or Associate Professor of Computer Science to begin Fall 2021. The successful candidate will develop and teach courses in the new undergraduate Data Science major, as well as courses in the existing Computer Science curriculum. Standard teaching load is 6 units per academic year. Candidates are expected to engage in undergraduate research, mentoring, advising, and standard service assignments. We are in the process of developing a new undergraduate major in Data Science, and are seeking candidates who would be excited to help lead, shape, and teach in the new major. Preference will be given to candidates specializing in one or more of the active areas of research in data science, including data mining and knowledge discovery, big data analytics, data visualization, deep learning, and statistical models for data mining._
