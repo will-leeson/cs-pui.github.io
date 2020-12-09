@@ -34,7 +34,6 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [University of Richmond](#richmond) - October 15, 2020
 - [Simmons University](#simmons) - October 15, 2020
 - [Smith College - Statistical & Data Science](#smith-sds) - October 15, 2020
-- [Reed College](#reed) - October 31st, 2020
 - [Bucknell University](#bucknell) - November 1, 2020
 - [Muhlenberg College](#muhlenberg) - November 1, 2020
 - [University of Puget Sound](#pugetsound) - November 1, 2020
@@ -45,6 +44,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Bowdoin College](#bowdoin) - December 15, 2020
 - [University of Mary Washington](#umw) - December 31, 2020
 - [Southwestern University](#su) - January 4, 2021
+- [Reed College](#reed) - January 11, 2021
 - [Colorado College](#colorado) - Open until filled
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 - [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
@@ -115,9 +115,9 @@ _[Excerpt] The University of Puget Sound seeks applications for a Tenure-Track A
 - [Link to application](https://www2.pugetsound.jobs/psp/HR92PRD/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=5517&PostingSeq=1)
 
 ## <a name="reed">Reed College (Oregon)</a>
-_[Excerpt] The Department of Computer Science at Reed College invites applications for a tenure-track faculty position, rank open, beginning in the fall of 2021. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in their teaching and in their scholarship. Applicants from all areas of computer science are welcome to apply, though particular attention will be given to applicants in systems/application research areas (e.g., networks, database systems, security, distributed computing, operating systems, robotics, etc.). The successful applicant will help teach the core computer science curriculum at all levels in the major, in cooperation with their fellow faculty, and will develop one or more courses in their areas of expertise. The department is committed to giving all its students the opportunity to explore research topics in computer science and in its applications. The successful candidate will advise several year-long senior thesis projects that are required of all Reed students._
-- Applications submitted by **October 30, 2020** are assured to get the fullest consideration
-- [Link to application](https://apply.interfolio.com/77853)
+_[Excerpt] The Department of Computer Science at Reed College invites applications for a tenure-track faculty position, rank open, beginning in the fall of 2021. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in their teaching and in their scholarship. Applicants from systems/application research areas (e.g., networks, database systems, security, distributed computing, operating systems, robotics, etc.) are especially encouraged to apply, though applicants in all areas will be considered. The successful applicant will help teach the core computer science curriculum at all levels in the major, in cooperation with their fellow faculty, and will develop one or more courses in their areas of expertise. The department is committed to giving all its students the opportunity to explore research topics in computer science and in its applications. The successful candidate will advise several year-long senior thesis projects that are required of all Reed students._
+- Applications submitted by **January 11, 2021** are assured to get the fullest consideration.
+- [Link to application](https://apply.interfolio.com/81821)
 
 
 ## <a name="richmond">University of Richmond (Virginia)</a>
