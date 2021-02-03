@@ -36,7 +36,6 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Smith College - Statistical & Data Science](#smith-sds) - October 15, 2020
 - [Bucknell University](#bucknell) - November 1, 2020
 - [Muhlenberg College](#muhlenberg) - November 1, 2020
-- [University of Puget Sound](#pugetsound) - November 1, 2020
 - [James Madison University](#jmu) - November 15, 2020 and open until filled
 - [Williams College](#williams) - November 16, 2020
 - [Smith College - Computer Science](#smith-cs) - December 1, 2020
@@ -45,6 +44,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [University of Mary Washington](#umw) - December 31, 2020
 - [Southwestern University](#su) - January 4, 2021
 - [Reed College](#reed) - January 11, 2021
+- [University of Puget Sound](#pugetsound) - February 15, 2021 **extended deadline**
 - [Colorado College](#colorado) - Open until filled
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 - [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
@@ -111,7 +111,7 @@ _[Excerpt] The Computer Science Department at Oberlin College invites applicatio
 
 ## <a name="pugetsound">University of Puget Sound (Washington)</a>
 _[Excerpt] The University of Puget Sound seeks applications for a Tenure-Track Assistant or Associate Professor of Computer Science to begin Fall 2021. The successful candidate will develop and teach courses in the new undergraduate Data Science major, as well as courses in the existing Computer Science curriculum. Standard teaching load is 6 units per academic year. Candidates are expected to engage in undergraduate research, mentoring, advising, and standard service assignments. We are in the process of developing a new undergraduate major in Data Science, and are seeking candidates who would be excited to help lead, shape, and teach in the new major. Preference will be given to candidates specializing in one or more of the active areas of research in data science, including data mining and knowledge discovery, big data analytics, data visualization, deep learning, and statistical models for data mining._
-- Consideration of applications will begin on **November 1, 2020**, and will continue until the position is filled.
+- Consideration of applications will begin on **February 15, 2021**, and will continue until the position is filled.
 - [Link to application](https://www2.pugetsound.jobs/psp/HR92PRD/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=5517&PostingSeq=1)
 
 ## <a name="reed">Reed College (Oregon)</a>
