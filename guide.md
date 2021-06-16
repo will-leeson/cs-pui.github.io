@@ -19,10 +19,10 @@ Modify and paste the following template into [our listing page](https://docs.git
 - [College name](#your-college) - Deadline date, 2020
 ```
 
-- The closest deadlines should be on top. In the event of multiple institutions choosing the same deadline, default to alphabetical order.
+- **The closest deadlines should be on top**. In the event of multiple institutions choosing the same deadline, default to alphabetical order.
 
 ### Forthcoming info
-If you would like to put a _placeholder_ in for an approved position in which you expect an ad soon, put it at the bottom of the list in the following format. 
+If you would like to put a _placeholder_ in for an approved position in which you expect an ad soon, put it at the bottom of the list in the following format.
 
 ```
 - [College name](#your-college) - _ad forthcoming_
@@ -31,23 +31,22 @@ If you would like to put a _placeholder_ in for an approved position in which yo
 ## Add info to _Descriptions, Links, and Locations_
 Modify and paste the following template into [our listing page](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 ```
-## <a name="your-college">Your College (Your State)</a>
+### <a name="your-college">Your College (Your State)</a>
 _[Excerpt] This is where you add a paragraph from your job description_
 - Insert a statement about your **deadline**
 - [Link to application](https://enter-your-link.com)
 ```
-- Please only include the most relevant paragraph. Your full job ad should be linked, so think of this as the trailer that gets applicants excited to read the rest.
+
+- Include your **state** next to your name. It's enough information to help people with geographic constraints, but will keep the title shorter than including more specific geographic markers
+- Please only include the most relevant paragraph. Your full job ad should be linked, so think of this as the teaser that gets applicants excited to read the rest.
 - If you want to bold a key sentence or key terms in here, that's fine.
 - Make sure you are inserting this in the correct place alphabetically.
 - `<a name="your-college">` below should match `(#your-college)` in the Deadlines section so that the internal link works.
 
 ### Forthcoming info
-If you would like to put a _placeholder_ in for an approved position in which you expect an ad soon, continue to place it in alphabetical order with the following format. 
+If you would like to put a _placeholder_ in for an approved position in which you expect an ad soon, continue to place it in alphabetical order with the following format.
 
 ```
-## <a name="your-college">Your College (Your State)</a>
+### <a name="your-college">Your College (Your State)</a>
 _[Excerpt] Hiring is approved - ad is expected soon_
 ```
-
-
-
