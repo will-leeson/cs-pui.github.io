@@ -11,7 +11,7 @@ exclude: true
 ## Why I list CS jobs for Undergraduate Institutions
 > **If you would like to add a listing to this page, [please click  here for instructions](guide.html)**
 
-In 2017, I [wrote an article about finding academic happiness on the job market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) and why I chose [Bucknell](http://www.eg.bucknell.edu/~emp017/). Since then, I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of schools for the 2021/22 hiring season in CS is meant to help navigate that muddy water. To see last year's list, [visit the Medium article](https://medium.com/@evanmpeck/cs-academic-job-market-for-liberal-arts-colleges-19-20-cd348423f919).
+In 2017, I [wrote an article about finding academic happiness on the job market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) and why I chose [Bucknell](http://www.eg.bucknell.edu/~emp017/). Since then, I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of schools for the 2021/22 hiring season in CS is meant to help navigate that muddy water. To see last year's list, [[see the 19/20 version of this page](https://cs-pui.github.io/archive/index-20.html).
 
 ### Criteria for colleges/universities on this page
 This document does not contain all (or even most) CS teaching positions. It's intended for graduate students who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. Criteria:

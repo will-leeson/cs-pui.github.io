@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Add a Listing
+title: Add Listing
 ---
 
 Last year, I was a gateway for looking for and adding institutions. As the post gained more and more traction, I grew uncomfortable with the notion that a university's publicity might rely on my responsiveness and attention alone. This year, I am hoping that CS departments (and other people who catch listings!) can [**submit pull requests to add their own information.**](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
