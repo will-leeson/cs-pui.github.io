@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  <!-- {% include head.html %}
-  {% if jekyll.environment == 'production' %}
-  {% include analytics.html %}
-  {% endif %} -->
+  {% include head.html %}
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
   <body>
+    
     {% include header.html %}
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
