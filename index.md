@@ -4,7 +4,7 @@
 layout: home
 ---
 ![continuum of teaching and research](img/teach-research.png)
-<sub><sup>This page is maintained by [Evan Peck (Bucknell)](http://www.eg.bucknell.edu/~emp017/)</sup></sub>
+<sub><sup>This page is maintained by [Evan Peck (Bucknell)](http://www.eg.bucknell.edu/~emp017/), with help from [Anna Ritz (Reed College)](https://www.reed.edu/biology/ritz/)</sup></sub>
 
 ## What are PUIs and why list them? - 2021/22 Hiring Cycle
 > If you would like to add a listing to this page, [please visit the **Add Listing** page](guide.html)
