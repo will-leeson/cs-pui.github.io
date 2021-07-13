@@ -18,6 +18,8 @@ This document does not contain many CS academic positions. It's intended for tho
 
 If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
 
+----------
+
 # Who is hiring in CS so far (2021/22)
 
 ## <a name="deadlines">Deadlines and Quick Links (soonest on top)</a>
@@ -32,6 +34,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. Ask lots of questions!_
 - [Example University](#example) - December 31
 
+------------
 
 ## Descriptions, Links, and Locations (alphabetical order)
 _This list contains all positions in **alphabetical order**. Entries with `[P]` are permanent positions. Entries with `[FT]` are fixed-term positions_
