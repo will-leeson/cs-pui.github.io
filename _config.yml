@@ -26,6 +26,8 @@ github_username:  cs-pui
 # Build settings
 markdown: kramdown
 
+google_analytics: G-JF6D9C6584
+
 theme: minima
 plugins:
   - jekyll-feed
