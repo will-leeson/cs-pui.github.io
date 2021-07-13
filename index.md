@@ -38,13 +38,13 @@ _This list contains all positions in **alphabetical order**. Entries with `[P]` 
 
 
 ### <a name="example">[FT] Example University (Example State)</a>
-_[Excerpt] This is where you write a 1-paragraph version of your job ad. Keep it in italics. Please don't include the whole ad._
+_[Excerpt] This is a placeholder example for adding a fixed-term position. It will go away once the first position has been added. This is where you write a 1-paragraph version of your job ad. Keep it in italics. Please don't include the whole ad._
 - Applications will be reviewed on a rolling basis, beginning **December 31, 2020**
 - [Link to application](https://cs-pui.github.io/)
 
 _[back to deadlines](#deadlines)_
 
-### <a name="example">[P] Southwestern University (Texas)</a>
+### <a name="southwestern">[P] Southwestern University (Texas)</a>
 _[Excerpt] The Department of Mathematics and Computer Science at Southwestern University invites applications for a tenure-track Assistant Professor position in Computer Science beginning August 2022 ... Successful applicants will demonstrate a commitment to pursuing excellence in teaching a broad range of computer science courses (five courses per year) and a willingness to foster undergraduate research. Faculty are also expected to maintain a research program that results in peer-reviewed professional achievement, participate actively in university service, participate conscientiously in academic advising and retention initiatives, and exhibit a dedication to equity and inclusiveness. In line with Southwestern University’s commitment to diversity, the department is especially interested in attracting candidates from underrepresented groups and/or those with a demonstrated commitment to enhancing diversity, equity, and inclusion in STEM._
 - Review of applications will begin **October 15th, 2021**
 - [Link to application](https://apply.interfolio.com/89764)
