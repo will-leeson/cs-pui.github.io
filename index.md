@@ -28,7 +28,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 
 ### Permanent (Tenure-Track) Positions
 - [Southwestern University](#southwestern) - October 15 
-
+- [Lafayette College](#lafayette) - October 22
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. Ask lots of questions!_
@@ -44,6 +44,13 @@ _This list contains all positions in **alphabetical order**. Entries with `[P]` 
 _[Excerpt] This is a placeholder example for adding a fixed-term position. It will go away once the first position has been added. This is where you write a 1-paragraph version of your job ad. Keep it in italics. Please don't include the whole ad._
 - Applications will be reviewed on a rolling basis, beginning **December 31, 2020**
 - [Link to application](https://cs-pui.github.io/)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="lafayette">[P] Lafayette College (Pennsylvania)</a>
+_[Excerpt] The Lafayette College Computer Science Department invites applications for a full-time, tenure-track Assistant Professor position commencing in July 2022. Candidates should be able to teach one or more systems courses such as Networks, Databases, Operating Systems, Distributed Computing or Computer Organization. Candidates from all computing related research areas including interdisciplinary ones are encouraged to apply. Candidates should have earned a Ph.D. in computer science or a related field by the start of their appointment. The department especially welcomes applications from candidates who will contribute to Lafayette's commitment to diversity and inclusion._
+- Review of applications will begin **October 22, 2021**
+- [Link to application](https://apply.interfolio.com/90148)
 
 _[back to deadlines](#deadlines)_
 
