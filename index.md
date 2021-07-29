@@ -29,6 +29,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 ### Permanent (Tenure-Track) Positions
 - [Southwestern University](#southwestern) - October 15 
 - [Lafayette College](#lafayette) - October 22
+- [Wesleyan University](#wesleyan) - December 1
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. Ask lots of questions!_
@@ -58,5 +59,12 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Mathematics and Computer Science at Southwestern University invites applications for a tenure-track Assistant Professor position in Computer Science beginning August 2022 ... Successful applicants will demonstrate a commitment to pursuing excellence in teaching a broad range of computer science courses (five courses per year) and a willingness to foster undergraduate research. Faculty are also expected to maintain a research program that results in peer-reviewed professional achievement, participate actively in university service, participate conscientiously in academic advising and retention initiatives, and exhibit a dedication to equity and inclusiveness. In line with Southwestern University’s commitment to diversity, the department is especially interested in attracting candidates from underrepresented groups and/or those with a demonstrated commitment to enhancing diversity, equity, and inclusion in STEM._
 - Review of applications will begin **October 15th, 2021**
 - [Link to application](https://apply.interfolio.com/89764)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="wesleyan">[P] Wesleyan University (Connecticut)</a>
+_[Excerpt] The Department of Mathematics and Computer Science at Wesleyan University invites applications for a tenure track assistant professorship in Computer Science to begin in Fall 2022 ... We encourage candidates in all areas of Computer Science to apply, including those who deepen or broaden our existing research strengths, and especially encourage candidates who can contribute to the diversity (broadly conceived) of the department. Theory, programming languages, algorithms, network science, networking, and privacy and security are well-represented in the department. Duties include conducting an independent program of research, teaching, advising and mentoring students, and participating in faculty governance at the departmental and university level. Tenure track faculty in Computer Science at Wesleyan teach three courses per year. Wesleyan values both research and teaching highly and has a strong and diverse student body._
+- Review of applications will begin **December 1st, 2021**
+- [Link to application](https://academicjobsonline.org/ajo/jobs/19001)
 
 _[back to deadlines](#deadlines)_
