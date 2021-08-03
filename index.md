@@ -27,6 +27,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 
 
 ### Permanent (Tenure-Track) Positions
+- [Beloit College](#beloit) - September 1
 - [Southwestern University](#southwestern) - October 15 
 - [Lafayette College](#lafayette) - October 22
 - [Reed College](#reed) - October 25
@@ -42,6 +43,13 @@ _You should know that this category includes a wide diversity of positions in te
 ## Descriptions, Links, and Locations (alphabetical order)
 _This list contains all positions in **alphabetical order**. Entries with `[P]` are permanent positions. Entries with `[FT]` are fixed-term positions_
 
+
+### <a name="beloit">[P] Beloit College (Wisconsin)</a>
+_[Excerpt] The Beloit College Department of Mathematics and Computer Science invites applications for a tenure-track position in Computer Science, beginning August 2022. Area of expertise is open, although preference will be given to candidates who are prepared to teach Machine Learning and Artificial Intelligence (AI), and other courses that will support our growing Data Science, Engineering and/or Cognitive Science programs ... Faculty at Beloit College teach six courses per year. We seek an excellent teacher who is committed to teaching and mentoring undergraduates within a residential, liberal arts environment ... In addition to teaching, faculty are expected to develop research programs that engage undergraduates; contribute to all-college programs, including the advanced mentoring program, career channels and international education; and participate in campus governance._
+- To ensure full consideration, please submit all materials by **September 1, 2021**
+- [Link to application](https://www.beloit.edu/live/profiles/5190-assistant-professor-of-computer-science)
+
+_[back to deadlines](#deadlines)_
 
 ### <a name="example">[FT] Example University (Example State)</a>
 _[Excerpt] This is a placeholder example for adding a fixed-term position. It will go away once the first position has been added. This is where you write a 1-paragraph version of your job ad. Keep it in italics. Please don't include the whole ad._
