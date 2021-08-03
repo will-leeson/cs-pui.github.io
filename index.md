@@ -28,7 +28,8 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 
 ### Permanent (Tenure-Track) Positions
 - [Beloit College](#beloit) - September 1
-- [Southwestern University](#southwestern) - October 15 
+- [Southwestern University](#southwestern) - October 15
+- [Bryn Mawr College](#bryn-mawr) - October 18 
 - [Lafayette College](#lafayette) - October 22
 - [Reed College](#reed) - October 25
 - [Wesleyan University](#wesleyan) - December 1
@@ -48,6 +49,13 @@ _This list contains all positions in **alphabetical order**. Entries with `[P]` 
 _[Excerpt] The Beloit College Department of Mathematics and Computer Science invites applications for a tenure-track position in Computer Science, beginning August 2022. Area of expertise is open, although preference will be given to candidates who are prepared to teach Machine Learning and Artificial Intelligence (AI), and other courses that will support our growing Data Science, Engineering and/or Cognitive Science programs ... Faculty at Beloit College teach six courses per year. We seek an excellent teacher who is committed to teaching and mentoring undergraduates within a residential, liberal arts environment ... In addition to teaching, faculty are expected to develop research programs that engage undergraduates; contribute to all-college programs, including the advanced mentoring program, career channels and international education; and participate in campus governance._
 - To ensure full consideration, please submit all materials by **September 1, 2021**
 - [Link to application](https://www.beloit.edu/live/profiles/5190-assistant-professor-of-computer-science)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="bryn-mawr">[P] Bryn Mawr College (Pennsylvania)</a>
+_[Excerpt] The Department of Computer Science at Bryn Mawr College invites applications for a full-time, tenure-track Assistant Professor position to begin August 1, 2022. We are seeking candidates specializing in any of the following areas: theory, algorithms, or systems. The successful candidate will contribute to the development and teaching of a diverse and inclusive undergraduate curriculum, including interdisciplinary programs and college-wide initiatives such as the 360 Program and the Emily Balch Seminars. The candidate will be expected to teach courses at all levels of the undergraduate program in computer science and to establish an active and successful research program. Candidates must have completed all Ph.D. requirements in Computer Science or a closely related field by the start date._
+- Applications received by **October 18, 2021** will receive full consideration.
+- [Link to application](https://www.brynmawr.edu/provost/open-faculty-positions/assistant-professor-computer-science)
 
 _[back to deadlines](#deadlines)_
 
