@@ -29,6 +29,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 ### Permanent (Tenure-Track) Positions
 - [Southwestern University](#southwestern) - October 15 
 - [Lafayette College](#lafayette) - October 22
+- [Reed College](#reed) - October 25
 - [Wesleyan University](#wesleyan) - December 1
 
 ### Fixed-Term Positions
@@ -52,6 +53,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Lafayette College Computer Science Department invites applications for a full-time, tenure-track Assistant Professor position commencing in July 2022. Candidates should be able to teach one or more systems courses such as Networks, Databases, Operating Systems, Distributed Computing or Computer Organization. Candidates from all computing related research areas including interdisciplinary ones are encouraged to apply. Candidates should have earned a Ph.D. in computer science or a related field by the start of their appointment. The department especially welcomes applications from candidates who will contribute to Lafayette's commitment to diversity and inclusion._
 - Review of applications will begin **October 22, 2021**
 - [Link to application](https://apply.interfolio.com/90148)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="reed">[P] Reed College (Oregon)</a>
+_[Excerpt] The Department of Computer Science at Reed College invites applications for an open rank tenure-track faculty position beginning in the fall of 2022. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in undergraduate teaching and in research. The successful applicant will teach in the core computer science curriculum at all levels, will develop one or more courses in the applicant’s area(s) of expertise, and will work to foster a welcoming and engaged community. They will maintain an active research program, ideally providing opportunities for student involvement, and they will advise several year-long senior thesis projects. Applicants from all areas of computer science are encouraged to apply_
+- Applications submitted by **October 25th, 2021** are guaranteed full consideration
+- [Link to application](https://apply.interfolio.com/91565)
 
 _[back to deadlines](#deadlines)_
 
