@@ -31,7 +31,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Lafayette College](#lafayette) - October 22
 - [Reed College](#reed) - October 25
 - [Wesleyan University](#wesleyan) - December 1
-- [Westmont College] (#westmont) - February 1 (rolling) 
+- [Westmont College](#westmont) - February 1 (rolling) 
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. Ask lots of questions!_
@@ -79,8 +79,7 @@ _[Excerpt] The Department of Mathematics and Computer Science at Wesleyan Univer
 _[back to deadlines](#deadlines)_
 
 ### <a name="westmont"> [P] Westmont College (California)</a>
-_[Excerpt] We seek a faculty member with a PhD in computer science who demonstrates professional and personal interests that extend beyond computer science, to include a commitment to life-long learning in the liberal arts and an ability to cultivate such learning in undergraduate students.  As a college rooted in the worldwide, evangelical Protestant Christian tradition, we are seeking candidates personally committed to this heritage.  Applicants should also share our commitment to greater inclusion of underrepresented groups in a field that sorely needs such diversity. The computer science program at Westmont reflects our assumption that a solid theoretical understanding provides the necessary basis for elegantly and efficiently solving problems – whether in research or development. With this pedagogical perspective in mind, the new faculty member will have opportunities to make significant contributions to the content and structure of the program.
-_
+_[Excerpt] We seek a faculty member with a PhD in computer science who demonstrates professional and personal interests that extend beyond computer science, to include a commitment to life-long learning in the liberal arts and an ability to cultivate such learning in undergraduate students.  As a college rooted in the worldwide, evangelical Protestant Christian tradition, we are seeking candidates personally committed to this heritage.  Applicants should also share our commitment to greater inclusion of underrepresented groups in a field that sorely needs such diversity. The computer science program at Westmont reflects our assumption that a solid theoretical understanding provides the necessary basis for elegantly and efficiently solving problems – whether in research or development. With this pedagogical perspective in mind, the new faculty member will have opportunities to make significant contributions to the content and structure of the program._
 - Applications are reviewed as received until **February 1st, 2021**
 - [Link to application](https://www.westmont.edu/office-provost/open-positions)
 
