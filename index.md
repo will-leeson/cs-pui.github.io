@@ -32,6 +32,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Bryn Mawr College](#bryn-mawr) - October 18 
 - [Lafayette College](#lafayette) - October 22
 - [Reed College](#reed) - October 25
+- [Williams College](#williams) - November 15
 - [Wesleyan University](#wesleyan) - December 1
 - [Westmont College](#westmont) - February 1 (rolling) 
 
@@ -98,5 +99,12 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] We seek a faculty member with a PhD in computer science who demonstrates professional and personal interests that extend beyond computer science, to include a commitment to life-long learning in the liberal arts and an ability to cultivate such learning in undergraduate students.  As a college rooted in the worldwide, evangelical Protestant Christian tradition, we are seeking candidates personally committed to this heritage.  Applicants should also share our commitment to greater inclusion of underrepresented groups in a field that sorely needs such diversity. The computer science program at Westmont reflects our assumption that a solid theoretical understanding provides the necessary basis for elegantly and efficiently solving problems – whether in research or development. With this pedagogical perspective in mind, the new faculty member will have opportunities to make significant contributions to the content and structure of the program._
 - Applications are reviewed as received until **February 1st, 2022**
 - [Link to application](https://www.westmont.edu/office-provost/open-positions)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="williams">[P] Williams College (Massachusetts)</a>
+_[Excerpt] The Department of Computer Science at Williams College invites applications for two faculty positions beginning July 1, 2022. One is a tenure-track position at the rank of assistant professor with a three-year initial term. The other is an open-rank position with a preference for more advanced candidates...We invite applications from all areas of computer science for both positions...Candidates should have a commitment to excellence in both teaching and research, and candidates should, by September 2022, possess a Ph.D. in computer science or a closely related discipline. Successful candidates will teach a total of three courses during the academic year, along with associated labs._
+- Applications received by **November 15, 2021** will receive full consideration.
+- [Link to application](https://employment.williams.edu/faculty-positions/computer-science-department/)
 
 _[back to deadlines](#deadlines)_
