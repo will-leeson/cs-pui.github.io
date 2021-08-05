@@ -28,6 +28,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 
 ### Permanent (Tenure-Track) Positions
 - [Beloit College](#beloit) - September 1
+- [Lawrence University](#lawrence) - October 1
 - [Southwestern University](#southwestern) - October 15
 - [Bryn Mawr College](#bryn-mawr) - October 18 
 - [Lafayette College](#lafayette) - October 22
@@ -83,6 +84,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Lafayette College Computer Science Department invites applications for a full-time, tenure-track Assistant Professor position commencing in July 2022. Candidates should be able to teach one or more systems courses such as Networks, Databases, Operating Systems, Distributed Computing or Computer Organization. Candidates from all computing related research areas including interdisciplinary ones are encouraged to apply. Candidates should have earned a Ph.D. in computer science or a related field by the start of their appointment. The department especially welcomes applications from candidates who will contribute to Lafayette's commitment to diversity and inclusion._
 - Review of applications will begin **October 22, 2021**
 - [Link to application](https://apply.interfolio.com/90148)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="lawrence">[P] Lawrence University (Wisconsin)</a>
+_[Excerpt] Lawrence University invites applications for a full-time tenure track position as Assistant Professor of Computer Science to begin September 1, 2022. Appointment at the associate level may be considered commensurate with experience. A PhD in Computer Science or closely related field is required by job start date. The Department of Mathematics and Computer Science seeks an excellent teacher who is passionate about working with undergraduates in a liberal arts setting while actively engaging in high-quality research. Lawrence offers majors in Computer Science, Mathematics, and minors in Computer Science, Mathematics, and Statistics and Data Science. Recent computer science graduates are employed at Airbnb, Apple, Amazon, Facebook, Google, LinkedIn, Microsoft, Nintendo, Pixar, Epic, Smart Things, and Workday. Others have attended graduate programs at Wisconsin, Minnesota, Georgia Tech, North Carolina State, RPI, USC, RIT, and Michigan. Candidates should be enthusiastic to teach broadly, including introductory and core courses (e.g., programming, algorithms, data structures) as well as advanced offerings in their particular areas of interest and expertise. We encourage innovative pedagogies and thoughtful mentoring to help us create a more inclusive Lawrence. Computer scientists from all research areas are encouraged to apply._
+- Evaluation of applications will begin **October 1st, 2021** and continue until the position is filled. We welcome applications received after this date, and will evaluate them as they arrive.
+- [Link to application](https://lawrence.peopleadmin.com/postings/591)
 
 _[back to deadlines](#deadlines)_
 
