@@ -36,6 +36,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Wesleyan University](#wesleyan) - December 1
 - [Westmont College](#westmont) - February 1 (rolling) 
 - [Grinnell College](#grinnell) - _ad forthcoming_
+- [James Madison University](#jmu) - _ad forthcoming_
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. Ask lots of questions!_
@@ -69,6 +70,11 @@ _[Excerpt] This is a placeholder example for adding a fixed-term position. It wi
 _[back to deadlines](#deadlines)_
 
 ### <a name="grinnell"> [P] Grinnell College (Iowa)</a>
+_[Excerpt] Hiring is approved - ad is expected soon_
+
+_[back to deadlines](#deadlines)_
+
+### <a name="jmu"> [P] James Madison University (Virginia)</a>
 _[Excerpt] Hiring is approved - ad is expected soon_
 
 _[back to deadlines](#deadlines)_
