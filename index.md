@@ -30,6 +30,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Beloit College](#beloit) - September 1
 - [Lawrence University](#lawrence) - October 1
 - [Southwestern University](#southwestern) - October 15
+- [Amherst College](#amherst) - October 18 
 - [Bryn Mawr College](#bryn-mawr) - October 18 
 - [Lafayette College](#lafayette) - October 22
 - [Reed College](#reed) - October 25
@@ -48,6 +49,12 @@ _You should know that this category includes a wide diversity of positions in te
 ## Descriptions, Links, and Locations (alphabetical order)
 _This list contains all positions in **alphabetical order**. Entries with `[P]` are permanent positions. Entries with `[FT]` are fixed-term positions_
 
+### <a name="amherst">[P] Amherst College (Massachusetts)</a>
+_[Excerpt] The Amherst College Department of Computer Science invites applications for a full-time tenure-track position at the rank of assistant professor, beginning July 1, 2022.  Candidates in all areas of computer science are encouraged to apply... our expectation is that the successful candidate will excel at teaching and mentoring this extraordinarily talented group of students who are broadly diverse with regard to race, ethnicity, socioeconomic status, gender, nationality, sexual orientation, and religion. Both research and teaching are supported by the college, which is situated within a vibrant intellectual community (including the University of Massachusetts Amherst, an R1 university with a highly ranked CS department). The department comprises seven tenure-line faculty with research programs in performance modeling, natural language processing, data science, machine learning, distributed algorithms, and systems... The teaching load is two courses per semester._
+- Applications received by **October 18, 2021**, will be assured of full consideration
+- [Link to application](https://apply.interfolio.com/89385)
+
+_[back to deadlines](#deadlines)_
 
 ### <a name="beloit">[P] Beloit College (Wisconsin)</a>
 _[Excerpt] The Beloit College Department of Mathematics and Computer Science invites applications for a tenure-track position in Computer Science, beginning August 2022. Area of expertise is open, although preference will be given to candidates who are prepared to teach Machine Learning and Artificial Intelligence (AI), and other courses that will support our growing Data Science, Engineering and/or Cognitive Science programs ... Faculty at Beloit College teach six courses per year. We seek an excellent teacher who is committed to teaching and mentoring undergraduates within a residential, liberal arts environment ... In addition to teaching, faculty are expected to develop research programs that engage undergraduates; contribute to all-college programs, including the advanced mentoring program, career channels and international education; and participate in campus governance._
