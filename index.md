@@ -29,6 +29,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 ### Permanent (Tenure-Track) Positions
 - [Beloit College](#beloit) - September 1
 - [Lawrence University](#lawrence) - October 1
+- [University of Richmond](#richmond) - October 15
 - [Southwestern University](#southwestern) - October 15
 - [Amherst College](#amherst) - October 18 
 - [Bryn Mawr College](#bryn-mawr) - October 18 
@@ -105,6 +106,14 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Computer Science at Reed College invites applications for an open rank tenure-track faculty position beginning in the fall of 2022. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in undergraduate teaching and in research. The successful applicant will teach in the core computer science curriculum at all levels, will develop one or more courses in the applicant’s area(s) of expertise, and will work to foster a welcoming and engaged community. They will maintain an active research program, ideally providing opportunities for student involvement, and they will advise several year-long senior thesis projects. Applicants from all areas of computer science are encouraged to apply_
 - Applications submitted by **October 25th, 2021** are guaranteed full consideration
 - [Link to application](https://apply.interfolio.com/91565)
+
+_[back to deadlines](#deadlines)_
+
+
+### <a name="richmond">[P] University of Richmond (Virginia)</a>
+_[Excerpt]  The University of Richmond Department of Mathematics and Computer Science invites applications for a full-time tenure-track position at the rank of Assistant, Associate or Full Professor starting in the 2022-23 academic year. We are seeking a colleague who will enhance the undergraduate teaching as well as scholarly and creative opportunities provided by our computer science program. The area of specialty is open, but we especially welcome applicants with background in systems areas, including operating systems, computer organization, simulation, distributed/cloud computing, networks, cybersecurity, and software engineering. A Ph.D. in computer science is required and must be completed by the start date ... Applicants should have the potential and desire to commit to highly effective, inclusive teaching at all levels of the undergraduate computer science curriculum and to maintain a vigorous research program that has the potential to engage undergraduates in meaningful research outcomes..._
+- Review of applications will commence **October 15th, 2021**
+- [Link to application](https://richmond.csod.com/ats/careersite/JobDetails.aspx?site=1&id=2292)
 
 _[back to deadlines](#deadlines)_
 
