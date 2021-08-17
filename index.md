@@ -9,7 +9,7 @@ layout: home
 ## What are PUIs and why list them? - 2021/22 Hiring Cycle
 > If you would like to add a listing to this page, [please visit the **Add Listing** page](guide.html)
 
-In 2017, I [wrote an article about finding academic happiness with primarily-undergraduate institutions](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422). I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. To see last year's list, [see the 19/20 version of this page](index-20.html).
+In 2017, I [wrote an article about finding academic happiness with primarily-undergraduate institutions](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422). I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. To see last year's list, [see the 20/21 version of this page](index-20.html).
 
 This document does not contain many CS academic positions. It's intended for those who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. **The positions on this page should be...**
 - accessible to those with a Ph.D. in CS
