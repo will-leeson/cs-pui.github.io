@@ -38,6 +38,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Williams College](#williams) - November 15
 - [Wesleyan University](#wesleyan) - December 1
 - [Westmont College](#westmont) - February 1 (rolling) 
+- [Barnard College](#barnard) - _ad forthcoming_
 - [Grinnell College](#grinnell) - _ad forthcoming_
 - [James Madison University](#jmu) - _ad forthcoming_
 
@@ -54,6 +55,11 @@ _This list contains all positions in **alphabetical order**. Entries with `[P]` 
 _[Excerpt] The Amherst College Department of Computer Science invites applications for a full-time tenure-track position at the rank of assistant professor, beginning July 1, 2022.  Candidates in all areas of computer science are encouraged to apply... our expectation is that the successful candidate will excel at teaching and mentoring this extraordinarily talented group of students who are broadly diverse with regard to race, ethnicity, socioeconomic status, gender, nationality, sexual orientation, and religion. Both research and teaching are supported by the college, which is situated within a vibrant intellectual community (including the University of Massachusetts Amherst, an R1 university with a highly ranked CS department). The department comprises seven tenure-line faculty with research programs in performance modeling, natural language processing, data science, machine learning, distributed algorithms, and systems... The teaching load is two courses per semester._
 - Applications received by **October 18, 2021**, will be assured of full consideration
 - [Link to application](https://apply.interfolio.com/89385)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="barnard">[P] Barnard College (New York)</a>
+_[Excerpt] Hiring is approved - ad is expected soon_
 
 _[back to deadlines](#deadlines)_
 
