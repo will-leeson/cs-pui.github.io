@@ -33,6 +33,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Southwestern University](#southwestern) - October 15
 - [Amherst College](#amherst) - October 18 
 - [Bryn Mawr College](#bryn-mawr) - October 18 
+- [Vassar College](#vassar) - October 18
 - [Lafayette College](#lafayette) - October 22
 - [Reed College](#reed) - October 25
 - [Williams College](#williams) - November 15
@@ -127,6 +128,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Mathematics and Computer Science at Southwestern University invites applications for a tenure-track Assistant Professor position in Computer Science beginning August 2022 ... Successful applicants will demonstrate a commitment to pursuing excellence in teaching a broad range of computer science courses (five courses per year) and a willingness to foster undergraduate research. Faculty are also expected to maintain a research program that results in peer-reviewed professional achievement, participate actively in university service, participate conscientiously in academic advising and retention initiatives, and exhibit a dedication to equity and inclusiveness. In line with Southwestern University’s commitment to diversity, the department is especially interested in attracting candidates from underrepresented groups and/or those with a demonstrated commitment to enhancing diversity, equity, and inclusion in STEM._
 - Review of applications will begin **October 15th, 2021**
 - [Link to application](https://apply.interfolio.com/89764)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="vassar">[P] Vassar College (New York)</a>
+_[Excerpt] The Department of Computer Science at Vassar College invites applications for a tenure-track position at the rank of Assistant Professor starting in the 2022-23 academic year ... We seek creative individuals who are able to teach undergraduate courses in the department, maintain an active research program, and engage undergraduates in their research. The ideal candidate would be able to develop our core courses in theory and algorithms, while also offering higher-level courses in their area of expertise. Candidates with expertise in Data Science are especially encouraged to apply.  A PhD in Computer Science or related field is expected by the start of the Fall 2022 semester. A typical teaching load is one lab course and one non-lab course each semester._
+- Complete applications received by **October 18, 2021** will receive full consideration;
+- [Link to application](https://employment.vassar.edu/postings/2130)
 
 _[back to deadlines](#deadlines)_
 
