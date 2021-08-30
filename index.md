@@ -29,6 +29,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 ### Permanent (Tenure-Track) Positions
 - [Beloit College](#beloit) - September 1
 - [Lawrence University](#lawrence) - October 1
+- [Canisius College](#canisius) - October 15
 - [University of Richmond](#richmond) - October 15
 - [Southwestern University](#southwestern) - October 15
 - [Amherst College](#amherst) - October 18 
@@ -78,6 +79,14 @@ _[Excerpt] The Department of Computer Science at Bryn Mawr College invites appli
 - [Link to application](https://www.brynmawr.edu/provost/open-faculty-positions/assistant-professor-computer-science)
 
 _[back to deadlines](#deadlines)_
+
+### <a name="canisius"> [FT] Canisius College (NY)</a>
+_[Excerpt] The Department of Computer Science at Canisius College located in Buffalo, NY, invites applications for a tenure-track Assistant Professor of computer science and cybersecurity, beginning Spring 2022 or Fall 2022. Candidates should show a strong commitment to undergraduate teaching and ability to establish and maintain a high-quality research program that involves undergraduate students. Teaching responsibilities, although flexible, will include courses in the field of cybersecurity as well as courses in computer science at all levels. Additional responsibilities include student advisement and a commitment to departmental and college-wide service.
+- Review of completed applications will begin October 15, 2021 and will continue until the position is filled.
+- [Link to application](https://careers.canisius.edu/cw/en-us/job/494840/assistant-professor-of-computer-science)
+
+_[back to deadlines](#deadlines)_
+
 
 ### <a name="example">[FT] Example University (Example State)</a>
 _[Excerpt] This is a placeholder example for adding a fixed-term position. It will go away once the first position has been added. This is where you write a 1-paragraph version of your job ad. Keep it in italics. Please don't include the whole ad._
