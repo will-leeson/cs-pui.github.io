@@ -36,6 +36,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Lafayette College](#lafayette) - October 22
 - [Reed College](#reed) - October 25
 - [Transylvania University](#transy) - November 1
+- [Pomona College](#pomona) - November 15
 - [Williams College](#williams) - November 15
 - [Wesleyan University](#wesleyan) - December 1
 - [Westmont College](#westmont) - February 1 (rolling) 
@@ -106,6 +107,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Lawrence University invites applications for a full-time tenure track position as Assistant Professor of Computer Science to begin September 1, 2022. Appointment at the associate level may be considered commensurate with experience. A PhD in Computer Science or closely related field is required by job start date. The Department of Mathematics and Computer Science seeks an excellent teacher who is passionate about working with undergraduates in a liberal arts setting while actively engaging in high-quality research. Lawrence offers majors in Computer Science, Mathematics, and minors in Computer Science, Mathematics, and Statistics and Data Science. Recent computer science graduates are employed at Airbnb, Apple, Amazon, Facebook, Google, LinkedIn, Microsoft, Nintendo, Pixar, Epic, Smart Things, and Workday. Others have attended graduate programs at Wisconsin, Minnesota, Georgia Tech, North Carolina State, RPI, USC, RIT, and Michigan. Candidates should be enthusiastic to teach broadly, including introductory and core courses (e.g., programming, algorithms, data structures) as well as advanced offerings in their particular areas of interest and expertise. We encourage innovative pedagogies and thoughtful mentoring to help us create a more inclusive Lawrence. Computer scientists from all research areas are encouraged to apply._
 - Evaluation of applications will begin **October 1st, 2021** and continue until the position is filled. We welcome applications received after this date, and will evaluate them as they arrive.
 - [Link to application](https://lawrence.peopleadmin.com/postings/591)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="pomona">[P] Pomona College (California)</a>
+_[Excerpt] Pomona College seeks applications for an Assistant Professor of Computer Science, to begin on July 1, 2022. All subfields of computer science will be considered. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research. The teaching load is two courses a semester for the two semesters a year. Faculty are expected to teach across all levels of the curriculum. Candidates should have a Ph.D. in hand by the start date. Pomona College is a highly selective liberal arts college with an enrollment of approximately 1600 students, all undergraduates. We seek to attract, develop, and retain the highest quality faculty and are committed to building a culturally diverse workplace. We value candidates who have experience working with students from diverse backgrounds and who are able to demonstrate a commitment to improving higher education for underrepresented students through their teaching, scholarship, or service._
+- Review of applications will begin on **November 15, 2021**
+- [Link to application](https://academicjobsonline.org/ajo/Pomona/Computer%20Science/19340?rss)
 
 _[back to deadlines](#deadlines)_
 
