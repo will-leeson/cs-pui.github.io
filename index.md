@@ -80,9 +80,9 @@ _[Excerpt] The Department of Computer Science at Bryn Mawr College invites appli
 
 _[back to deadlines](#deadlines)_
 
-### <a name="canisius"> [FT] Canisius College (NY)</a>
-_[Excerpt] The Department of Computer Science at Canisius College located in Buffalo, NY, invites applications for a tenure-track Assistant Professor of computer science and cybersecurity, beginning Spring 2022 or Fall 2022. Candidates should show a strong commitment to undergraduate teaching and ability to establish and maintain a high-quality research program that involves undergraduate students. Teaching responsibilities, although flexible, will include courses in the field of cybersecurity as well as courses in computer science at all levels. Additional responsibilities include student advisement and a commitment to departmental and college-wide service.
-- Review of completed applications will begin October 15, 2021 and will continue until the position is filled.
+### <a name="canisius"> [P] Canisius College (NY)</a>
+_[Excerpt] The Department of Computer Science at Canisius College located in Buffalo, NY, invites applications for a tenure-track Assistant Professor of computer science and cybersecurity, beginning Spring 2022 or Fall 2022. Candidates should show a strong commitment to undergraduate teaching and ability to establish and maintain a high-quality research program that involves undergraduate students. Teaching responsibilities, although flexible, will include courses in the field of cybersecurity as well as courses in computer science at all levels. Additional responsibilities include student advisement and a commitment to departmental and college-wide service._
+- Review of completed applications will begin **October 15, 2021** and will continue until the position is filled.
 - [Link to application](https://careers.canisius.edu/cw/en-us/job/494840/assistant-professor-of-computer-science)
 
 _[back to deadlines](#deadlines)_
