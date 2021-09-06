@@ -28,6 +28,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 
 ### Permanent (Tenure-Track) Positions
 - [Beloit College](#beloit) - September 1
+- [Calvin University](#calvin) - October 1 (rolling)
 - [Lawrence University](#lawrence) - October 1
 - [Canisius College](#canisius) - October 15
 - [University of Richmond](#richmond) - October 15
@@ -80,13 +81,19 @@ _[Excerpt] The Department of Computer Science at Bryn Mawr College invites appli
 
 _[back to deadlines](#deadlines)_
 
+### <a name="calvin">[P] Calvin University</a>
+_[Excerpt] The Department of Computer Science at Calvin University invites applicants for two full-time, tenure-track faculty positions to begin August 2022 and strongly encourages applications from women and other under-represented groups. The department is particularly interested in expanding its expertise in the areas of data science, data analytics & visualization, and machine learning, but individuals from all computing-related areas are encouraged to apply._
+- Review of completed applications will begin **October 1, 2021** and will continue until the position is filled.
+- [Link to application](https://calvin.wd5.myworkdayjobs.com/en-US/CalvinUniversityCareers/job/Grand-Rapids-Campus/Full-time-tenure-track-faculty-position-in-computer-science-department_R-1580)
+
+_[back to deadlines](#deadlines)_
+
 ### <a name="canisius"> [P] Canisius College (NY)</a>
 _[Excerpt] The Department of Computer Science at Canisius College located in Buffalo, NY, invites applications for a tenure-track Assistant Professor of computer science and cybersecurity, beginning Spring 2022 or Fall 2022. Candidates should show a strong commitment to undergraduate teaching and ability to establish and maintain a high-quality research program that involves undergraduate students. Teaching responsibilities, although flexible, will include courses in the field of cybersecurity as well as courses in computer science at all levels. Additional responsibilities include student advisement and a commitment to departmental and college-wide service._
 - Review of completed applications will begin **October 15, 2021** and will continue until the position is filled.
 - [Link to application](https://careers.canisius.edu/cw/en-us/job/494840/assistant-professor-of-computer-science)
 
 _[back to deadlines](#deadlines)_
-
 
 ### <a name="example">[FT] Example University (Example State)</a>
 _[Excerpt] This is a placeholder example for adding a fixed-term position. It will go away once the first position has been added. This is where you write a 1-paragraph version of your job ad. Keep it in italics. Please don't include the whole ad._
