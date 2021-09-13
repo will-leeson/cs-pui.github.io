@@ -35,6 +35,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Southwestern University](#southwestern) - October 15
 - [Amherst College](#amherst) - October 18 
 - [Bryn Mawr College](#bryn-mawr) - October 18 
+- [Vassar College](#vassar) - October 18
 - [Lafayette College](#lafayette) - October 22
 - [Reed College](#reed) - October 25
 - [Transylvania University](#transy) - November 1
@@ -159,6 +160,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Transylvania University (www.transy.edu), a top-tier, independent, residential liberal arts college in Lexington, Kentucky, invites applications for the position of Assistant Professor of Computer Science. This is a tenure-track position beginning August 26, 2022.  The ideal candidate will have expertise in database management systems, cybersecurity, data analytics, or graphics. Applicants with an interest in interdisciplinary elements of Computer Science are particularly encouraged, especially regarding racial and gender biases in computer technology. We are looking for applicants who are passionate about attracting, teaching, and mentoring historically underrepresented groups in Computer Science. Occasional contributions to First-Year programing and service as an academic adviser are also expected. The teaching load consists of three courses per semester, plus one short-term course in May (3-3-1) that offers additional opportunities for travel courses, team-taught courses and other more experimental classroom endeavors. Other responsibilities include academic scholarship/professional activity, preferably involving undergraduate students, and service to the university through various committee appointments. The university also has an excellent faculty development program that competitively funds faculty (and student) scholarly research and artistic projects._
 - Review of applications will begin **November 1st, 2021**
 - [Link to application](https://www.joblinkapply.com/Joblink/4637/Job/Index/494158/)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="vassar">[P] Vassar College (New York)</a>
+_[Excerpt] The Department of Computer Science at Vassar College invites applications for a tenure-track position at the rank of Assistant Professor starting in the 2022-23 academic year. We seek creative individuals who are able to teach undergraduate courses in the department, maintain an active research program, and engage undergraduates in their research. The ideal candidate would be able to develop our core courses in theory and algorithms, while also offering higher-level courses in their area of expertise. Candidates with expertise in Data Science are especially encouraged to apply.  A PhD in Computer Science or related field is expected by the start of the Fall 2022 semester. A typical teaching load is one lab course and one non-lab course each semester._
+- Complete applications received by **October 18, 2021** will receive full consideration
+- [Link to application](https://employment.vassar.edu/postings/2125)
 
 _[back to deadlines](#deadlines)_
 
