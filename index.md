@@ -33,6 +33,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Canisius College](#canisius) - October 15
 - [University of Richmond](#richmond) - October 15
 - [Southwestern University](#southwestern) - October 15
+- [University of Puget Sound)(#pugetsound) - October 15 (open until filled)
 - [Amherst College](#amherst) - October 18 
 - [Bryn Mawr College](#bryn-mawr) - October 18 
 - [Vassar College](#vassar) - October 18
@@ -134,13 +135,19 @@ _[Excerpt] Pomona College seeks applications for an Assistant Professor of Compu
 
 _[back to deadlines](#deadlines)_
 
+### <a name="pugetsound"> [P] University of Puget Sound (Washington State)</a>
+_[Excerpt] The University of Puget Sound seeks applications for a Tenure-Track Assistant Professor of Computer Science to begin Fall 2022. The successful candidate will teach courses in the existing Computer Science curriculum and develop and teach courses in the new undergraduate Data Science major. Standard teaching load is 6 units per academic year. Candidates are expected to engage in undergraduate research, mentoring, advising, and department and university service assignments. Puget Sound is launching a new undergraduate major in Data Science, and we are seeking candidates who are excited to help support, shape, and teach in the new major. Preference will be given to candidates specializing in one or more of the active areas of research in data science, including data mining and knowledge discovery, big data analytics, data visualization, deep learning, or statistical models for data mining._
+- Consideration of applications will begin on **October 15, 2021**.
+- [Link to application](https://www2.pugetsound.jobs/psc/HR92PRD/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U&FOCUS=Applicant&siteid=3)
+
+_[back to deadlines](#deadlines)_
+
 ### <a name="reed">[P] Reed College (Oregon)</a>
 _[Excerpt] The Department of Computer Science at Reed College invites applications for an open rank tenure-track faculty position beginning in the fall of 2022. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in undergraduate teaching and in research. The successful applicant will teach in the core computer science curriculum at all levels, will develop one or more courses in the applicant’s area(s) of expertise, and will work to foster a welcoming and engaged community. They will maintain an active research program, ideally providing opportunities for student involvement, and they will advise several year-long senior thesis projects. Applicants from all areas of computer science are encouraged to apply_
 - Applications submitted by **October 25th, 2021** are guaranteed full consideration
 - [Link to application](https://apply.interfolio.com/91565)
 
 _[back to deadlines](#deadlines)_
-
 
 ### <a name="richmond">[P] University of Richmond (Virginia)</a>
 _[Excerpt]  The University of Richmond Department of Mathematics and Computer Science invites applications for a full-time tenure-track position at the rank of Assistant, Associate or Full Professor starting in the 2022-23 academic year. We are seeking a colleague who will enhance the undergraduate teaching as well as scholarly and creative opportunities provided by our computer science program. The area of specialty is open, but we especially welcome applicants with background in systems areas, including operating systems, computer organization, simulation, distributed/cloud computing, networks, cybersecurity, and software engineering. A Ph.D. in computer science is required and must be completed by the start date ... Applicants should have the potential and desire to commit to highly effective, inclusive teaching at all levels of the undergraduate computer science curriculum and to maintain a vigorous research program that has the potential to engage undergraduates in meaningful research outcomes..._
