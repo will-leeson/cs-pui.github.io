@@ -33,7 +33,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Canisius College](#canisius) - October 15
 - [University of Richmond](#richmond) - October 15
 - [Southwestern University](#southwestern) - October 15
-- [University of Puget Sound)(#pugetsound) - October 15 (open until filled)
+- [University of Puget Sound](#pugetsound) - October 15 (open until filled)
 - [Amherst College](#amherst) - October 18 
 - [Bryn Mawr College](#bryn-mawr) - October 18 
 - [Vassar College](#vassar) - October 18
