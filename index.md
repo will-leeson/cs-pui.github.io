@@ -135,17 +135,17 @@ _[Excerpt] Pomona College seeks applications for an Assistant Professor of Compu
 
 _[back to deadlines](#deadlines)_
 
+### <a name="pugetsound"> [P] University of Puget Sound (Washington State)</a>
+_[Excerpt] The University of Puget Sound seeks applications for a Tenure-Track Assistant Professor of Computer Science to begin Fall 2022. The successful candidate will teach courses in the existing Computer Science curriculum and develop and teach courses in the new undergraduate Data Science major. Standard teaching load is 6 units per academic year. Candidates are expected to engage in undergraduate research, mentoring, advising, and department and university service assignments. Puget Sound is launching a new undergraduate major in Data Science, and we are seeking candidates who are excited to help support, shape, and teach in the new major. Preference will be given to candidates specializing in one or more of the active areas of research in data science, including data mining and knowledge discovery, big data analytics, data visualization, deep learning, or statistical models for data mining._
+- Consideration of applications will begin on **October 15, 2021**.
+- [Link to application](https://www2.pugetsound.jobs/psc/HR92PRD/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U&FOCUS=Applicant&siteid=3)
+
+_[back to deadlines](#deadlines)_
+
 ### <a name="reed">[P] Reed College (Oregon)</a>
 _[Excerpt] The Department of Computer Science at Reed College invites applications for an open rank tenure-track faculty position beginning in the fall of 2022. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in undergraduate teaching and in research. The successful applicant will teach in the core computer science curriculum at all levels, will develop one or more courses in the applicant’s area(s) of expertise, and will work to foster a welcoming and engaged community. They will maintain an active research program, ideally providing opportunities for student involvement, and they will advise several year-long senior thesis projects. Applicants from all areas of computer science are encouraged to apply_
 - Applications submitted by **October 25th, 2021** are guaranteed full consideration
 - [Link to application](https://apply.interfolio.com/91565)
-
-_[back to deadlines](#deadlines)_
-
-### <a name="pugetsound"> [P] University of Puget Sound (Washington State)</a>
-_[Excerpt] The University of Puget Sound seeks applications for a Tenure-Track Assistant Professor of Computer Science to begin Fall 2022. The successful candidate will teach courses in the existing Computer Science curriculum and develop and teach courses in the new undergraduate Data Science major. Standard teaching load is 6 units per academic year. Candidates are expected to engage in undergraduate research, mentoring, advising, and department and university service assignments. Puget Sound is launching a new undergraduate major in Data Science, and we are seeking candidates who are excited to help support, shape, and teach in the new major. Preference will be given to candidates specializing in one or more of the active areas of research in data science, including data mining and knowledge discovery, big data analytics, data visualization, deep learning, or statistical models for data mining.
-- Consideration of applications will begin on **October 15, 2021**.
-- [Link to application](https://www2.pugetsound.jobs/psc/HR92PRD/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U&FOCUS=Applicant&siteid=3)
 
 _[back to deadlines](#deadlines)_
 
