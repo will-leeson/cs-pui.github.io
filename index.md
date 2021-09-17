@@ -29,6 +29,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 ### Permanent (Tenure-Track) Positions
 - [Beloit College](#beloit) - September 1
 - [Calvin University](#calvin) - October 1 (rolling)
+- [Hamilton College](#hamilton) - September 15
 - [Lawrence University](#lawrence) - October 1
 - [Canisius College](#canisius) - October 15
 - [University of Richmond](#richmond) - October 15
@@ -114,6 +115,13 @@ _[back to deadlines](#deadlines)_
 
 ### <a name="grinnell"> [P] Grinnell College (Iowa)</a>
 _[Excerpt] Hiring is approved - ad is expected soon_
+
+_[back to deadlines](#deadlines)_
+
+### <a name="hamilton"> [P] Hamilton College (NY)</a>
+_[Excerpt] The Computer Science Department at Hamilton College invites applications for **two** tenure-track positions at the rank of Assistant Professor, beginning July 1, 2022. We seek candidates with expertise in any applied area of computer science such as Systems, Networks, Natural Language Processing, Machine Learning, and others. We are seeking candidates who can demonstrate their experience in teaching or working with diverse student populations. Your cover letter should address the ways in which you would further the College's goal of building a diverse and inclusive educational environment. We expect an ongoing research program that could involve undergraduate researchers. Research support includes start-up funds, annual conference travel, and a generous sabbatical leave program. The position requires institutional service including academic advising of undergraduate students after the first year._
+- Our review of applications will begin on **September 15, 2021**, and continue until the positions are filled
+- [Link to application](https://apply.interfolio.com/92351)
 
 _[back to deadlines](#deadlines)_
 
