@@ -51,7 +51,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [James Madison University](#jmu) - _ad forthcoming_
 
 ### Fixed-Term Positions
-_You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. Ask lots of questions!_
+_You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. And while they are at institutions in which the tenure-track faculty have research resources, it's possible that these positions do not carry the same benefits. Ask lots of questions!_
 - [Bowdoin College](#bowdoin) - November 1
 
 ------------
