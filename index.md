@@ -25,8 +25,8 @@ If you are considering entering the job market, I'd encourage you to visit the [
 ## <a name="deadlines">Deadlines and Quick Links (soonest on top)</a>
 _Deadlines are interpreted differently between institutions. See full description for context_
 
-
 ### Permanent (Tenure-Track) Positions
+_While I provide rough guidelines on teaching/scholarship balance, the schools here still cover a range of resources / teaching loads. Always ask questions._
 - [Beloit College](#beloit) - September 1
 - [Calvin University](#calvin) - October 1 (rolling)
 - [Hamilton College](#hamilton) - September 15
@@ -52,7 +52,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. Ask lots of questions!_
-- [Example University](#example) - December 31
+- [Bowdoin College](#bowdoin) - November 1
 
 ------------
 
@@ -75,6 +75,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Beloit College Department of Mathematics and Computer Science invites applications for a tenure-track position in Computer Science, beginning August 2022. Area of expertise is open, although preference will be given to candidates who are prepared to teach Machine Learning and Artificial Intelligence (AI), and other courses that will support our growing Data Science, Engineering and/or Cognitive Science programs ... Faculty at Beloit College teach six courses per year. We seek an excellent teacher who is committed to teaching and mentoring undergraduates within a residential, liberal arts environment ... In addition to teaching, faculty are expected to develop research programs that engage undergraduates; contribute to all-college programs, including the advanced mentoring program, career channels and international education; and participate in campus governance._
 - To ensure full consideration, please submit all materials by **September 1, 2021**
 - [Link to application](https://www.beloit.edu/live/profiles/5190-assistant-professor-of-computer-science)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="bowdoin">[FT] Bowdoin College (Maine)</a>
+_[Excerpt] The Department of Computer Science at Bowdoin College invites applications for the position of Lecturer starting July 1, 2022. The initial appointment will be three years, contingent on successful review after the first year, with the possibility of additional renewal upon subsequent reviews. We desire to fill this position with someone who (1) is an excellent teacher with a passion for computer science; (2) has a keen interest in computer science pedagogy; and (3) is excited to teach a diverse set of courses. The lecturer will keep abreast of advances in computer science pedagogy and use this expertise to support pedagogical innovation at Bowdoin. The teaching load for this position is five courses per year, generally two introductory level courses and three intermediate courses. PhD preferred; master’s degree required._
+- Review of applications will begin **November 1, 2021** and will continue until the position is filled**
+- [Link to application](https://careers.bowdoin.edu/postings/7826)
 
 _[back to deadlines](#deadlines)_
 
