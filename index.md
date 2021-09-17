@@ -113,13 +113,6 @@ _[Excerpt] The Department of Computer Science at Colgate University invites appl
 
 _[back to deadlines](#deadlines)_
 
-### <a name="example">[FT] Example University (Example State)</a>
-_[Excerpt] This is a placeholder example for adding a fixed-term position. It will go away once the first position has been added. This is where you write a 1-paragraph version of your job ad. Keep it in italics. Please don't include the whole ad._
-- Applications will be reviewed on a rolling basis, beginning **December 31, 2020**
-- [Link to application](https://cs-pui.github.io/)
-
-_[back to deadlines](#deadlines)_
-
 ### <a name="grinnell"> [P] Grinnell College (Iowa)</a>
 _[Excerpt] Hiring is approved - ad is expected soon_
 
