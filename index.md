@@ -41,6 +41,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Colgate University](#colgate) - October 20
 - [Lafayette College](#lafayette) - October 22
 - [Reed College](#reed) - October 25
+- [Spelman College](#spelman) - October 31
 - [Transylvania University](#transy) - November 1
 - [Pomona College](#pomona) - November 15
 - [Williams College](#williams) - November 15
@@ -169,6 +170,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt]  The University of Richmond Department of Mathematics and Computer Science invites applications for a full-time tenure-track position at the rank of Assistant, Associate or Full Professor starting in the 2022-23 academic year. We are seeking a colleague who will enhance the undergraduate teaching as well as scholarly and creative opportunities provided by our computer science program. The area of specialty is open, but we especially welcome applicants with background in systems areas, including operating systems, computer organization, simulation, distributed/cloud computing, networks, cybersecurity, and software engineering. A Ph.D. in computer science is required and must be completed by the start date ... Applicants should have the potential and desire to commit to highly effective, inclusive teaching at all levels of the undergraduate computer science curriculum and to maintain a vigorous research program that has the potential to engage undergraduates in meaningful research outcomes..._
 - Review of applications will commence **October 15th, 2021**
 - [Link to application](https://richmond.csod.com/ats/careersite/JobDetails.aspx?site=1&id=2292)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="spelman">[P] Spelman College (Georgia)</a>
+_[Excerpt]  Spelman College invites applications for a tenure-track position at the Assistant Professor level, in Bioinformatics, Computational Biology, or Systems Biology to begin in August 2022. This position represents a joint appointment with the Biology and Computer and Information Sciences departments. The ideal candidate will have expertise in machine learning, artificial intelligence, data mining, natural language processing, or statistics with applications in genomics, healthcare, proteomics, or related areas. The successful candidate will demonstrate not only potential for excellent undergraduate teaching, but also promise in sustained research with opportunities to involve undergraduates, mentoring, and service to the Department and College. The ideal candidate should be able to teach courses within the core curriculum of biology, such as cellular or molecular biology and relevant computer science courses, including introductory programming, data structures, and algorithmic analysis. The candidate will also be expected to develop new bioinformatics courses. Candidates with a demonstrated commitment to working with women and underrepresented minority students through teaching, mentoring, and research are especially encouraged to apply._
+- Close Date: **October 31st, 2021**
+- [Link to application](https://spelman.peopleadmin.com/postings/3790)
 
 _[back to deadlines](#deadlines)_
 
