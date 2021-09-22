@@ -29,8 +29,8 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 _While I provide rough guidelines on teaching/scholarship balance, the schools here still cover a range of resources / teaching loads. Always ask questions._
 - [Beloit College](#beloit) - September 1
 - [Furman University](#furman) - September 1
-- [Calvin University](#calvin) - October 1 (rolling)
 - [Hamilton College](#hamilton) - September 15
+- [Calvin University](#calvin) - October 1 (rolling)
 - [Lawrence University](#lawrence) - October 1
 - [Canisius College](#canisius) - October 15
 - [University of Richmond](#richmond) - October 15
