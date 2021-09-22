@@ -45,6 +45,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Reed College](#reed) - October 25
 - [Spelman College](#spelman) - October 31
 - [Transylvania University](#transy) - November 1
+- [Middlebury College](#middlebury) - November 15
 - [Pomona College](#pomona) - November 15
 - [Williams College](#williams) - November 15
 - [Wesleyan University](#wesleyan) - December 1
@@ -56,6 +57,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. And while they are at institutions in which the tenure-track faculty have research resources, it's possible that these positions do not carry the same benefits. Ask lots of questions!_
 - [Bowdoin College](#bowdoin) - November 1
+- [Middlebury College](#middlebury) - November 15
 
 ------------
 
@@ -154,6 +156,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Lawrence University invites applications for a full-time tenure track position as Assistant Professor of Computer Science to begin September 1, 2022. Appointment at the associate level may be considered commensurate with experience. A PhD in Computer Science or closely related field is required by job start date. The Department of Mathematics and Computer Science seeks an excellent teacher who is passionate about working with undergraduates in a liberal arts setting while actively engaging in high-quality research. Lawrence offers majors in Computer Science, Mathematics, and minors in Computer Science, Mathematics, and Statistics and Data Science. Recent computer science graduates are employed at Airbnb, Apple, Amazon, Facebook, Google, LinkedIn, Microsoft, Nintendo, Pixar, Epic, Smart Things, and Workday. Others have attended graduate programs at Wisconsin, Minnesota, Georgia Tech, North Carolina State, RPI, USC, RIT, and Michigan. Candidates should be enthusiastic to teach broadly, including introductory and core courses (e.g., programming, algorithms, data structures) as well as advanced offerings in their particular areas of interest and expertise. We encourage innovative pedagogies and thoughtful mentoring to help us create a more inclusive Lawrence. Computer scientists from all research areas are encouraged to apply._
 - Evaluation of applications will begin **October 1st, 2021** and continue until the position is filled. We welcome applications received after this date, and will evaluate them as they arrive.
 - [Link to application](https://lawrence.peopleadmin.com/postings/591)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="middlebury">[P][FT] Middlebury College (Vermont)</a>
+_[Excerpt] Middlebury College invites applications for a full-time tenure-track faculty position and a three-year visiting position in computer science, beginning in Fall 2022. All areas of computer science will be considered, including applied areas with interdisciplinary focus. Teaching responsibilities will include courses throughout the undergraduate computer science curriculum with an emphasis on the candidate’s areas of expertise; as well as regular contributions to the college-wide curriculum, including the first-year seminar program and winter term. Appointment will be made at the rank of Assistant Professor (Ph.D.) or Instructor (ABD). Candidates should provide evidence of commitment to excellent teaching and scholarly potential._
+- Review of applications will begin on **November 15, 2021** and will continue until the positions are filled
+- [Link to application](http://www.middlebury.edu/academics/cs/job)
 
 _[back to deadlines](#deadlines)_
 
