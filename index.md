@@ -33,6 +33,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Calvin University](#calvin) - October 1 (rolling)
 - [Lawrence University](#lawrence) - October 1
 - [Canisius College](#canisius) - October 15
+- [James Madison University](#jmu) - October 15
 - [University of Richmond](#richmond) - October 15
 - [Southwestern University](#southwestern) - October 15
 - [University of Puget Sound](#pugetsound) - October 15 (open until filled)
@@ -50,7 +51,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Westmont College](#westmont) - February 1 (rolling) 
 - [Barnard College](#barnard) - _ad forthcoming_
 - [Grinnell College](#grinnell) - _ad forthcoming_
-- [James Madison University](#jmu) - _ad forthcoming_
+
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. And while they are at institutions in which the tenure-track faculty have research resources, it's possible that these positions do not carry the same benefits. Ask lots of questions!_
@@ -135,7 +136,9 @@ _[Excerpt] The Computer Science Department at Hamilton College invites applicati
 _[back to deadlines](#deadlines)_
 
 ### <a name="jmu"> [P] James Madison University (Virginia)</a>
-_[Excerpt] Hiring is approved - ad is expected soon_
+_[Excerpt] The Department of Computer Science at James Madison University invites applications for tenure-track faculty positions to begin August 2022. We are committed to cultivating a welcoming and diverse environment for our faculty, staff, and students, and we value candidates who will be both impactful teachers and impactful scholars. Preference will be given to applicants at the Assistant Professor level, and exceptional candidates at other ranks will also be considered. Applicants from all areas of specialization are encouraged to apply. We especially welcome candidates with a background in Software Engineering, Web and Mobile Development, or Cyber Security. We are particularly interested in candidates with experience and/or interest in promoting diversity and inclusion within the department and the discipline. Candidates should demonstrate the ability and interest in providing high-quality undergraduate teaching in the context of a liberal arts university. Preference will be given to applicants with the potential to develop and sustain an active, undergraduate-oriented research program_
+- Review of applications will begin **October 15, 2021**
+- [Link to application](https://www.jmu.edu/cise/cs/open-positions/)
 
 _[back to deadlines](#deadlines)_
 
