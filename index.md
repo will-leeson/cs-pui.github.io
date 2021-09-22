@@ -28,6 +28,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 ### Permanent (Tenure-Track) Positions
 _While I provide rough guidelines on teaching/scholarship balance, the schools here still cover a range of resources / teaching loads. Always ask questions._
 - [Beloit College](#beloit) - September 1
+- [Furman University](#furman) - September 1
 - [Calvin University](#calvin) - October 1 (rolling)
 - [Hamilton College](#hamilton) - September 15
 - [Lawrence University](#lawrence) - October 1
@@ -116,6 +117,13 @@ _[back to deadlines](#deadlines)_
 
 ### <a name="grinnell"> [P] Grinnell College (Iowa)</a>
 _[Excerpt] Hiring is approved - ad is expected soon_
+
+_[back to deadlines](#deadlines)_
+
+### <a name="furman"> [P] Furman University (South Carolina)</a>
+_[Excerpt] The Department of Computer Science at Furman University invites applications for a tenure track position at the Assistant, Associate, or Full Professor rank to begin August 1, 2022.  Candidates must have a Ph.D. in Computer Science or a closely related field, and all areas of specialty will be considered.  The position requires a demonstrated potential for superb teaching, including the ability to work with a diverse population of students, excellence in scholarly and professional activity involving undergraduates with a broad spectrum of backgrounds and abilities, effective institutional service, and a willingness to work with colleagues across disciplines._
+- Our review of applications will begin on **September 1, 2021** 
+- [Link to application](https://furman.wd5.myworkdayjobs.com/en-US/Furman_Careers/job/Main-Campus/Open-Rank-Tenure-Track-Professor-in-Computer-Science_R001166)
 
 _[back to deadlines](#deadlines)_
 
