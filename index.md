@@ -38,7 +38,8 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Southwestern University](#southwestern) - October 15
 - [University of Puget Sound](#pugetsound) - October 15 (open until filled)
 - [Amherst College](#amherst) - October 18 
-- [Bryn Mawr College](#bryn-mawr) - October 18 
+- [Bryn Mawr College](#bryn-mawr) - October 18
+- [Lewis & Clark College](#lclark) - October 18
 - [Vassar College](#vassar) - October 18
 - [Colgate University](#colgate) - October 20
 - [Lafayette College](#lafayette) - October 22
@@ -167,6 +168,14 @@ _[Excerpt] Lawrence University invites applications for a full-time tenure track
 - [Link to application](https://lawrence.peopleadmin.com/postings/591)
 
 _[back to deadlines](#deadlines)_
+
+### <a name="lclark">[P] Lewis & Clark College (Oregon)</a>
+-[Excerpt] Lewis & Clark College, a private liberal arts college with 2,000 undergraduates, invites applications for a tenure-track assistant professorship beginning fall 2022. The position is located in the Department of Mathematical Sciences (encompassing mathematics, statistics, and computer science) and also contributes to the College’s new interdisciplinary Data Science program.
+- Review of applications will begin on **October 18, 2021** and continue until the position is filled.
+- [Link to application](https://apply.interfolio.com/89812)
+
+_[back to deadlines](#deadlines)_
+
 
 ### <a name="middlebury">[P][FT] Middlebury College (Vermont)</a>
 _[Excerpt] Middlebury College invites applications for a full-time tenure-track faculty position and a three-year visiting position in computer science, beginning in Fall 2022. All areas of computer science will be considered, including applied areas with interdisciplinary focus. Teaching responsibilities will include courses throughout the undergraduate computer science curriculum with an emphasis on the candidate’s areas of expertise; as well as regular contributions to the college-wide curriculum, including the first-year seminar program and winter term. Appointment will be made at the rank of Assistant Professor (Ph.D.) or Instructor (ABD). Candidates should provide evidence of commitment to excellent teaching and scholarly potential._
