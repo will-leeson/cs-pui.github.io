@@ -42,6 +42,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Vassar College](#vassar) - October 18
 - [Colgate University](#colgate) - October 20
 - [Lafayette College](#lafayette) - October 22
+- [Colorado College](#colorado) - October 25
 - [Reed College](#reed) - October 25
 - [Oberlin College](#oberlin) - October 31
 - [Spelman College](#spelman) - October 31
@@ -105,17 +106,24 @@ _[Excerpt] The Department of Computer Science at Calvin University invites appli
 
 _[back to deadlines](#deadlines)_
 
-### <a name="canisius"> [P] Canisius College (NY)</a>
+### <a name="canisius"> [P] Canisius College (New York)</a>
 _[Excerpt] The Department of Computer Science at Canisius College located in Buffalo, NY, invites applications for a tenure-track Assistant Professor of computer science and cybersecurity, beginning Spring 2022 or Fall 2022. Candidates should show a strong commitment to undergraduate teaching and ability to establish and maintain a high-quality research program that involves undergraduate students. Teaching responsibilities, although flexible, will include courses in the field of cybersecurity as well as courses in computer science at all levels. Additional responsibilities include student advisement and a commitment to departmental and college-wide service._
 - Review of completed applications will begin **October 15, 2021** and will continue until the position is filled.
 - [Link to application](https://careers.canisius.edu/cw/en-us/job/494840/assistant-professor-of-computer-science)
 
 _[back to deadlines](#deadlines)_
 
-### <a name="colgate"> [P] Colgate University (NY)</a>
+### <a name="colgate"> [P] Colgate University (New York)</a>
 _[Excerpt] The Department of Computer Science at Colgate University invites applications for **two** tenure-stream positions at the rank of Assistant Professor, beginning fall semester 2022 ... We expect applicants to be committed to excellence in undergraduate teaching and in research. We encourage candidates from all areas of computer science to apply. We are interested in candidates who are enthusiastic to teach in our computer science curriculum at all levels and to develop new courses in their area(s) of expertise. We welcome applications from candidates with cross-disciplinary expertise related to the Middle Campus Initiative for Arts, Creativity, and Innovation and/or related to the Robert H. N. Ho Mind, Brain, and Behavior Initiative, which are part of Colgate's Third-Century Plan. We seek applicants that complement and broaden the department program, through teaching, research or service. Teaching responsibilities for each semester consist of two course sections plus one or two labs (for a total of three labs over the academic year)._
 - Review of applications will begin **October 20, 2021.** Applications will continue to be accepted after this date until both positions are filled
 - [Link to application](https://academicjobsonline.org/ajo/jobs/19581)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="colorado"> [P] Colorado College (Colorado)</a>
+_[Excerpt] The Department of Mathematics and Computer Science at Colorado College invites applications for a tenure-track position at the Assistant Professor level to begin in August of 2022.  We encourage candidates from all areas of computer science to apply.  We seek a computer scientist with broad teaching interests who can teach introductory as well as advanced computer science courses to a diverse community of undergraduate students and mentor computer science majors who are completing a capstone experience.  All candidates should be able to teach our introductory sequence, currently taught in Java, and a variety of advanced computer science courses including a CS elective in their primary field of study.  The successful candidate should also be able to develop and maintain a rigorous research program that can engage undergraduate students.  Mentoring and advising students interested in computer science both at the introductory and more senior level is expected.  Finally, the successful candidate will be expected to contribute to the department and the college through service._
+- Applications received by **October 25, 2021** will receive full consideration.
+- [Link to application](https://employment.coloradocollege.edu/postings/5424)
 
 _[back to deadlines](#deadlines)_
 
