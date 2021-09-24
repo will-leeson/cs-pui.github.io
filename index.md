@@ -38,6 +38,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [University of Richmond](#richmond) - October 15
 - [Southwestern University](#southwestern) - October 15
 - [University of Puget Sound](#pugetsound) - October 15 (open until filled)
+- [Grinnell College](#grinnell) - October 17
 - [Amherst College](#amherst) - October 18 
 - [Bryn Mawr College](#bryn-mawr) - October 18
 - [Lewis & Clark College](#lclark) - October 18
@@ -55,7 +56,6 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Wesleyan University](#wesleyan) - December 1
 - [Westmont College](#westmont) - February 1 (rolling)
 - [Barnard College](#barnard) - _ad forthcoming_
-- [Grinnell College](#grinnell) - _ad forthcoming_
 
 
 ### Fixed-Term Positions
@@ -130,7 +130,9 @@ _[Excerpt] The Department of Mathematics and Computer Science at Colorado Colleg
 _[back to deadlines](#deadlines)_
 
 ### <a name="grinnell"> [P] Grinnell College (Iowa)</a>
-_[Excerpt] Hiring is approved - ad is expected soon_
+_[Excerpt] The Department of Computer Science invites applications for a tenure-track appointment beginning Fall 2022. Assistant Professor (Ph.D.) preferred; Instructor (ABD) or Associate Professor possible. Candidates with research and teaching interests in any area of Computer Science are encouraged to apply, but preference may be given to candidates with interest in teaching systems or theory courses. Candidates with degrees in closely-related fields who have relevant experience will also be considered. Candidates are expected to describe the ways they can support and engage with students and colleagues from historically underrepresented or marginalized groups._
+- Applications received by **October 17, 2021** will receive full consideration.
+- [Link to application](https://jobs.grinnell.edu/postings/3904)
 
 _[back to deadlines](#deadlines)_
 
