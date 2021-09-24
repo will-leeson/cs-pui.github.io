@@ -34,6 +34,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Lawrence University](#lawrence) - October 1
 - [Canisius College](#canisius) - October 15
 - [James Madison University](#jmu) - October 15
+- [Simmons University](#simmons) - October 15 (rolling)
 - [University of Richmond](#richmond) - October 15
 - [Southwestern University](#southwestern) - October 15
 - [University of Puget Sound](#pugetsound) - October 15 (open until filled)
@@ -217,6 +218,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt]  The University of Richmond Department of Mathematics and Computer Science invites applications for a full-time tenure-track position at the rank of Assistant, Associate or Full Professor starting in the 2022-23 academic year. We are seeking a colleague who will enhance the undergraduate teaching as well as scholarly and creative opportunities provided by our computer science program. The area of specialty is open, but we especially welcome applicants with background in systems areas, including operating systems, computer organization, simulation, distributed/cloud computing, networks, cybersecurity, and software engineering. A Ph.D. in computer science is required and must be completed by the start date ... Applicants should have the potential and desire to commit to highly effective, inclusive teaching at all levels of the undergraduate computer science curriculum and to maintain a vigorous research program that has the potential to engage undergraduates in meaningful research outcomes..._
 - Review of applications will commence **October 15th, 2021**
 - [Link to application](https://richmond.csod.com/ats/careersite/JobDetails.aspx?site=1&id=2292)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="simmons"> [P] Simmons University (Massachusetts)</a>
+_[Excerpt]  The Division of Mathematics, Computing, and Statistics (MCS) at Simmons University is seeking applicants for a tenure-track faculty position in Computer Science at the rank of Assistant Professor, to begin August 15, 2022 (start date negotiable). As a mission-driven institution, we invite applications from candidates who share our passion and commitment to empowering women to thrive in their careers. Responsibilities include teaching courses in computer science, advising Division majors, and supporting the growing Computer Science and Information Technology programs at the university. We invite applicants with specialization in any area, but we are particularly looking for candidates with expertise in networks, cybersecurity, and/or computer architecture. We seek an innovative educator with demonstrated excellence in undergraduate teaching and mentoring, creative curriculum development, and a commitment to interdisciplinary collaboration inside and outside the University._
+- Review of applications will start **October 15, 2021**
+- [Link to application](https://simmons.wd1.myworkdayjobs.com/en-US/Simmons-Careers/jobs/details/Assistant-Professor-of-Computer-Science_R07916)
 
 _[back to deadlines](#deadlines)_
 
