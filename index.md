@@ -14,7 +14,7 @@ In 2017, I [wrote an article about finding academic happiness with primarily-und
 This document does not contain many CS academic positions. It's intended for those who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. **The positions on this page should be...**
 - accessible to those with a Ph.D. in CS
 - Universities that identify as **primarily-undergraduate colleges and universities**.
-- Institutions that highly value teaching, but also **secure time and financial resources for faculty to remain engaged with research**. This typically means a reduced teaching load (often 3/2 or 2/2) with professional support funds. 
+- Institutions that highly value teaching, but also **secure time and financial resources for faculty to remain engaged with research**. This typically means a reduced teaching load (often 3/2 or 2/2) with professional support funds.
 
 If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
 
@@ -37,8 +37,8 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [University of Richmond](#richmond) - October 15
 - [Southwestern University](#southwestern) - October 15
 - [University of Puget Sound](#pugetsound) - October 15 (open until filled)
-- [Amherst College](#amherst) - October 18 
-- [Bryn Mawr College](#bryn-mawr) - October 18 
+- [Amherst College](#amherst) - October 18
+- [Bryn Mawr College](#bryn-mawr) - October 18
 - [Vassar College](#vassar) - October 18
 - [Colgate University](#colgate) - October 20
 - [Lafayette College](#lafayette) - October 22
@@ -51,7 +51,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Pomona College](#pomona) - November 15
 - [Williams College](#williams) - November 15
 - [Wesleyan University](#wesleyan) - December 1
-- [Westmont College](#westmont) - February 1 (rolling) 
+- [Westmont College](#westmont) - February 1 (rolling)
 - [Barnard College](#barnard) - _ad forthcoming_
 - [Grinnell College](#grinnell) - _ad forthcoming_
 
@@ -135,7 +135,7 @@ _[back to deadlines](#deadlines)_
 ### <a name="furman"> [P] Furman University (South Carolina)</a>
 _Note: there is a potential for two positions to be hired from this ad_
 _[Excerpt] The Department of Computer Science at Furman University invites applications for a tenure track position at the Assistant, Associate, or Full Professor rank to begin August 1, 2022.  Candidates must have a Ph.D. in Computer Science or a closely related field, and all areas of specialty will be considered.  The position requires a demonstrated potential for superb teaching, including the ability to work with a diverse population of students, excellence in scholarly and professional activity involving undergraduates with a broad spectrum of backgrounds and abilities, effective institutional service, and a willingness to work with colleagues across disciplines._
-- Our review of applications will begin on **September 1, 2021** 
+- Our review of applications will begin on **September 1, 2021**
 - [Link to application](https://furman.wd5.myworkdayjobs.com/en-US/Furman_Careers/job/Main-Campus/Open-Rank-Tenure-Track-Professor-in-Computer-Science_R001166)
 
 _[back to deadlines](#deadlines)_
@@ -175,12 +175,13 @@ _[Excerpt] Middlebury College invites applications for a full-time tenure-track 
 
 _[back to deadlines](#deadlines)_
 
-### <a name="oberlin">[P] Oberlin College (Ohio)</a>
-_[Excerpt] The Computer Science Department at Oberlin College invites applications for a full-time, tenure track faculty position in the College of Arts and Sciences.  Initial appointment to this position will be for a term of four years, beginning fall semester of 2022 and will carry the rank of Assistant Professor. The incumbent will teach the standard teaching load (4.5 courses per year, with labs counting towards this total) at all levels of undergraduate Computer Science including advanced courses in the incumbent’s area of research. The incumbent will also be expected to engage in sustained scholarly research and/or other creative work appropriate to the position and participate in the full range of faculty responsibilities, including academic advising and service on committees._
-- Completed applications received by **October 31, 2021** will be guaranteed full consideration
+### <a name="oberlin">[P][FT] Oberlin College (Ohio)</a>
+_[Excerpt]The Computer Science Department at Oberlin College invites applications for a full-time, tenure track faculty position in the College of Arts and Sciences.  The incumbent will teach the standard teaching load (4.5 courses per year, with labs counting towards this total) at all levels of undergraduate Computer Science including advanced courses in the incumbent’s area of research. The incumbent will also be expected to engage in sustained scholarly research and/or other creative work appropriate to the position and participate in the full range of faculty responsibilities, including academic advising and service on committees.  The Computer Science department has 8 faculty positions (including this position) with research interests spanning the areas of machine learning, computer vision, privacy, security, human-computer interaction, theory, and computer science education.  To be assured of consideration, submit a letter of application, a curriculum vitae, teaching and research statements, graduate academic transcripts, and at least three recent letters of reference, with one of those letters addressing teaching, to https://jobs.oberlin.edu/postings/10916 by October 31, 2021.  All areas of computer science are encouraged to apply._
+- Review of applications will begin on **October 31st, 2021** and will continue until the positions are filled
 - [Link to application](https://jobs.oberlin.edu/postings/10916)
 
 _[back to deadlines](#deadlines)_
+
 
 ### <a name="pomona">[P] Pomona College (California)</a>
 _[Excerpt] Pomona College seeks applications for an Assistant Professor of Computer Science, to begin on July 1, 2022. All subfields of computer science will be considered. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research. The teaching load is two courses a semester for the two semesters a year. Faculty are expected to teach across all levels of the curriculum. Candidates should have a Ph.D. in hand by the start date. Pomona College is a highly selective liberal arts college with an enrollment of approximately 1600 students, all undergraduates. We seek to attract, develop, and retain the highest quality faculty and are committed to building a culturally diverse workplace. We value candidates who have experience working with students from diverse backgrounds and who are able to demonstrate a commitment to improving higher education for underrepresented students through their teaching, scholarship, or service._
