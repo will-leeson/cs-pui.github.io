@@ -175,7 +175,7 @@ _[Excerpt] Middlebury College invites applications for a full-time tenure-track 
 
 _[back to deadlines](#deadlines)_
 
-### <a name="oberlin">[P][FT] Oberlin College (Ohio)</a>
+### <a name="oberlin">[P] Oberlin College (Ohio)</a>
 _[Excerpt]The Computer Science Department at Oberlin College invites applications for a full-time, tenure track faculty position in the College of Arts and Sciences.  The incumbent will teach the standard teaching load (4.5 courses per year, with labs counting towards this total) at all levels of undergraduate Computer Science including advanced courses in the incumbent’s area of research. The incumbent will also be expected to engage in sustained scholarly research and/or other creative work appropriate to the position and participate in the full range of faculty responsibilities, including academic advising and service on committees.  The Computer Science department has 8 faculty positions (including this position) with research interests spanning the areas of machine learning, computer vision, privacy, security, human-computer interaction, theory, and computer science education.  To be assured of consideration, submit a letter of application, a curriculum vitae, teaching and research statements, graduate academic transcripts, and at least three recent letters of reference, with one of those letters addressing teaching, to https://jobs.oberlin.edu/postings/10916 by October 31, 2021.  All areas of computer science are encouraged to apply._
 - Review of applications will begin on **October 31st, 2021** and will continue until the positions are filled
 - [Link to application](https://jobs.oberlin.edu/postings/10916)
