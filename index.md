@@ -44,6 +44,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Lewis & Clark College](#lclark) - October 18
 - [Vassar College](#vassar) - October 18
 - [Colgate University](#colgate) - October 20
+- [University of St. Thomas](#st-thomas) - October 21 (open until filled)
 - [Barnard College](#barnard) - October 22
 - [Lafayette College](#lafayette) - October 22
 - [Colorado College](#colorado) - October 25
@@ -250,6 +251,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Transylvania University (www.transy.edu), a top-tier, independent, residential liberal arts college in Lexington, Kentucky, invites applications for the position of Assistant Professor of Computer Science. This is a tenure-track position beginning August 26, 2022.  The ideal candidate will have expertise in database management systems, cybersecurity, data analytics, or graphics. Applicants with an interest in interdisciplinary elements of Computer Science are particularly encouraged, especially regarding racial and gender biases in computer technology. We are looking for applicants who are passionate about attracting, teaching, and mentoring historically underrepresented groups in Computer Science. Occasional contributions to First-Year programing and service as an academic adviser are also expected. The teaching load consists of three courses per semester, plus one short-term course in May (3-3-1) that offers additional opportunities for travel courses, team-taught courses and other more experimental classroom endeavors. Other responsibilities include academic scholarship/professional activity, preferably involving undergraduate students, and service to the university through various committee appointments. The university also has an excellent faculty development program that competitively funds faculty (and student) scholarly research and artistic projects._
 - Review of applications will begin **November 1st, 2021**
 - [Link to application](https://www.joblinkapply.com/Joblink/4637/Job/Index/494158/)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="st-thomas">[P] University of St. Thomas (Minnesota)</a>
+_[Excerpt] The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for two tenure-line assistant/associate professor positions in computer science. The appointments will begin in fall 2022, and the search committee welcomes applicants with expertise in any area of computer science. We are seeking outstanding candidates who are dedicated to innovative undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty.
+- Review of applications will begin **October 21, 2021**
+- [Link to application](https://facultyemployment-stthomas.icims.com/jobs/5626/tenure-line-assistant-associate-professor%2c-computer-science/job)
 
 _[back to deadlines](#deadlines)_
 
