@@ -44,6 +44,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Lewis & Clark College](#lclark) - October 18
 - [Vassar College](#vassar) - October 18
 - [Colgate University](#colgate) - October 20
+- [Barnard College](#barnard) - October 22
 - [Lafayette College](#lafayette) - October 22
 - [Colorado College](#colorado) - October 25
 - [Reed College](#reed) - October 25
@@ -55,7 +56,6 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Williams College](#williams) - November 15
 - [Wesleyan University](#wesleyan) - December 1
 - [Westmont College](#westmont) - February 1 (rolling)
-- [Barnard College](#barnard) - _ad forthcoming_
 
 
 ### Fixed-Term Positions
@@ -76,7 +76,9 @@ _[Excerpt] The Amherst College Department of Computer Science invites applicatio
 _[back to deadlines](#deadlines)_
 
 ### <a name="barnard">[P] Barnard College (New York)</a>
-_[Excerpt] Hiring is approved - ad is expected soon_
+_[Excerpt] Barnard College invites applications for a tenure-track assistant professor in Computer Science to start July 1, 2022.  Barnard faculty are expected to engage in teaching, research, curriculum and program development, undergraduate advising, and mentoring of undergraduate research.  There is opportunity to collaborate with faculty and students at both Barnard and at Columbia.  The position is open to all areas of computer science as well as to multidisciplinary scholars with a significant computational focus.  We encourage candidates who take a multidisciplinary approach, whether across multiple subareas of computer science, or with research connections to another discipline.  Candidates must have a PhD in Computer Science or a related discipline, and should have a promising research agenda and record of scholarship, as well as a demonstrated commitment to undergraduate teaching, mentoring, and increasing diversity in computer science._
+- Applications received by **October 22, 2021**, will be assured of full consideration
+- [Link to application](https://cs.barnard.edu/assistant-professor-computer-science-2022)
 
 _[back to deadlines](#deadlines)_
 
