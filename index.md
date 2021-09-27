@@ -255,7 +255,7 @@ _[Excerpt] Transylvania University (www.transy.edu), a top-tier, independent, re
 _[back to deadlines](#deadlines)_
 
 ### <a name="st-thomas">[P] University of St. Thomas (Minnesota)</a>
-_[Excerpt] The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for two tenure-line assistant/associate professor positions in computer science. The appointments will begin in fall 2022, and the search committee welcomes applicants with expertise in any area of computer science. We are seeking outstanding candidates who are dedicated to innovative undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty.
+_[Excerpt] The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for two tenure-line assistant/associate professor positions in computer science. The appointments will begin in fall 2022, and the search committee welcomes applicants with expertise in any area of computer science. We are seeking outstanding candidates who are dedicated to innovative undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty._
 - Review of applications will begin **October 21, 2021**
 - [Link to application](https://facultyemployment-stthomas.icims.com/jobs/5626/tenure-line-assistant-associate-professor%2c-computer-science/job)
 
