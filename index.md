@@ -56,6 +56,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Pomona College](#pomona) - November 15
 - [Williams College](#williams) - November 15
 - [Wesleyan University](#wesleyan) - December 1
+- [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [Westmont College](#westmont) - February 1 (rolling)
 
 
@@ -223,6 +224,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt]  The University of Richmond Department of Mathematics and Computer Science invites applications for a full-time tenure-track position at the rank of Assistant, Associate or Full Professor starting in the 2022-23 academic year. We are seeking a colleague who will enhance the undergraduate teaching as well as scholarly and creative opportunities provided by our computer science program. The area of specialty is open, but we especially welcome applicants with background in systems areas, including operating systems, computer organization, simulation, distributed/cloud computing, networks, cybersecurity, and software engineering. A Ph.D. in computer science is required and must be completed by the start date ... Applicants should have the potential and desire to commit to highly effective, inclusive teaching at all levels of the undergraduate computer science curriculum and to maintain a vigorous research program that has the potential to engage undergraduates in meaningful research outcomes..._
 - Review of applications will commence **October 15th, 2021**
 - [Link to application](https://richmond.csod.com/ats/careersite/JobDetails.aspx?site=1&id=2292)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="sfsu">[P] San Francisco State University (California)</a>
+_[Excerpt]  San Francisco State University, Department of Computer Science offers an exciting opportunity for two tenure-track Assistant Professor positions beginning August 2022. We seek colleagues whose teaching and research interests include High Performance Computing, Theory of Computation, or CS Approaches Against Social Inequities; other areas will also be considered. We are especially interested in qualified candidates who can contribute, through their research, teaching, and/or service, through their commitment to a diverse student population, to the excellence of the academic community._
+- Review of applications will start **December 15, 2021** and continue until the positions are filled.
+- [Link to application](https://careers.pageuppeople.com/873/sf/en-us/job/505194/assistant-professor-computer-science)
 
 _[back to deadlines](#deadlines)_
 
