@@ -30,6 +30,8 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Beloit College](#beloit) - September 1
 - [Furman University](#furman) - September 1 _still accepting apps_
 - [Hamilton College](#hamilton) - September 15
+
+
 - [Calvin University](#calvin) - October 1 (rolling)
 - [Lawrence University](#lawrence) - October 1
 - [Canisius College](#canisius) - October 15
@@ -51,13 +53,19 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Reed College](#reed) - October 25
 - [Oberlin College](#oberlin) - October 31
 - [Spelman College](#spelman) - October 31
+
+
 - [Transylvania University](#transy) - November 1
 - [Middlebury College](#middlebury) - November 15
 - [Pomona College](#pomona) - November 15
 - [Williams College](#williams) - November 15
+
+
 - [Wesleyan University](#wesleyan) - December 1
 - [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
+
+
 - [Westmont College](#westmont) - February 1 (rolling)
 
 
