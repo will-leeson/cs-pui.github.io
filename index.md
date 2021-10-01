@@ -56,6 +56,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Pomona College](#pomona) - November 15
 - [Williams College](#williams) - November 15
 - [Wesleyan University](#wesleyan) - December 1
+- [University of San Francisco](#usfca) - December 15
 - [Westmont College](#westmont) - February 1 (rolling)
 
 
@@ -251,6 +252,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Transylvania University (www.transy.edu), a top-tier, independent, residential liberal arts college in Lexington, Kentucky, invites applications for the position of Assistant Professor of Computer Science. This is a tenure-track position beginning August 26, 2022.  The ideal candidate will have expertise in database management systems, cybersecurity, data analytics, or graphics. Applicants with an interest in interdisciplinary elements of Computer Science are particularly encouraged, especially regarding racial and gender biases in computer technology. We are looking for applicants who are passionate about attracting, teaching, and mentoring historically underrepresented groups in Computer Science. Occasional contributions to First-Year programing and service as an academic adviser are also expected. The teaching load consists of three courses per semester, plus one short-term course in May (3-3-1) that offers additional opportunities for travel courses, team-taught courses and other more experimental classroom endeavors. Other responsibilities include academic scholarship/professional activity, preferably involving undergraduate students, and service to the university through various committee appointments. The university also has an excellent faculty development program that competitively funds faculty (and student) scholarly research and artistic projects._
 - Review of applications will begin **November 1st, 2021**
 - [Link to application](https://www.joblinkapply.com/Joblink/4637/Job/Index/494158/)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="usfca">[P] University of San Francisco</a>
+_[Excerpt] The University of San Francisco is hiring for multiple full-time tenure-track assistant professor positions in the Computer Science, Data Science, and Engineering programs. USF provides competitive salaries to live in the Bay Area and has excellent support for new faculty such as multiple teaching assistants for your classes, an internal research funding mechanism, and focused writing retreats. USF was listed as a Tier One National University in the 2021 U.S. News & World Report, was ranked 4th in student diversity, and was among best colleges for veterans._
+- Review of applications will begin **December 15th, 2021**
+- [Link to application](https://www.cs.usfca.edu/apply2022)
 
 _[back to deadlines](#deadlines)_
 
