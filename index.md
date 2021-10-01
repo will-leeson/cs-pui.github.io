@@ -61,6 +61,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Williams College](#williams) - November 15
 
 
+- [Swarthmore College](#swarthmore) - December 1
 - [Wesleyan University](#wesleyan) - December 1
 - [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
@@ -275,6 +276,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for two tenure-line assistant/associate professor positions in computer science. The appointments will begin in fall 2022, and the search committee welcomes applicants with expertise in any area of computer science. We are seeking outstanding candidates who are dedicated to innovative undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty._
 - Review of applications will begin **October 21, 2021**
 - [Link to application](https://facultyemployment-stthomas.icims.com/jobs/5626/tenure-line-assistant-associate-professor%2c-computer-science/job)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="swarthmore">[P] Swarthmore College (Pennsylvania)</a>
+_[Excerpt] The Department of Engineering at Swarthmore College invites applications for two tenure-track positions at the Assistant or Associate level beginning in Fall 2022. We are especially interested in candidates whose teaching and scholarship incorporates the cross-cutting focus areas of sustainability, social impacts of technology, engineering design, or bioengineering. Specializations can range across the spectrum of engineering subfields, with particular interest in the areas of Civil and Environmental, Electrical, and Mechanical Engineering. We seek candidates with the ability to teach talented undergraduates from diverse backgrounds in introductory core courses as well as mid- to upper-level elective courses in the candidate’s area of specialization._
+- We will begin reviewing applications on **December 1, 2021** and continue until available positions are filled.
+- [Link to application](https://apply.interfolio.com/91573)
 
 _[back to deadlines](#deadlines)_
 
