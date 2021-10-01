@@ -56,6 +56,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Pomona College](#pomona) - November 15
 - [Williams College](#williams) - November 15
 - [Wesleyan University](#wesleyan) - December 1
+- [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
 - [Westmont College](#westmont) - February 1 (rolling)
 
@@ -227,6 +228,20 @@ _[Excerpt]  The University of Richmond Department of Mathematics and Computer Sc
 
 _[back to deadlines](#deadlines)_
 
+### <a name="usfca">[P] University of San Francisco</a>
+_[Excerpt] The University of San Francisco is hiring for multiple full-time tenure-track assistant professor positions in the Computer Science, Data Science, and Engineering programs. USF provides competitive salaries to live in the Bay Area and has excellent support for new faculty such as multiple teaching assistants for your classes, an internal research funding mechanism, and focused writing retreats. USF was listed as a Tier One National University in the 2021 U.S. News & World Report, was ranked 4th in student diversity, and was among best colleges for veterans._
+- Review of applications will begin **December 15th, 2021**
+- [Link to application](https://www.cs.usfca.edu/apply2022)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="sfsu">[P] San Francisco State University (California)</a>
+_[Excerpt]  San Francisco State University, Department of Computer Science offers an exciting opportunity for two tenure-track Assistant Professor positions beginning August 2022. We seek colleagues whose teaching and research interests include High Performance Computing, Theory of Computation, or CS Approaches Against Social Inequities; other areas will also be considered. We are especially interested in qualified candidates who can contribute, through their research, teaching, and/or service, through their commitment to a diverse student population, to the excellence of the academic community._
+- Review of applications will start **December 15, 2021** and continue until the positions are filled.
+- [Link to application](https://careers.pageuppeople.com/873/sf/en-us/job/505194/assistant-professor-computer-science)
+
+_[back to deadlines](#deadlines)_
+
 ### <a name="simmons"> [P] Simmons University (Massachusetts)</a>
 _[Excerpt]  The Division of Mathematics, Computing, and Statistics (MCS) at Simmons University is seeking applicants for a tenure-track faculty position in Computer Science at the rank of Assistant Professor, to begin August 15, 2022 (start date negotiable). As a mission-driven institution, we invite applications from candidates who share our passion and commitment to empowering women to thrive in their careers. Responsibilities include teaching courses in computer science, advising Division majors, and supporting the growing Computer Science and Information Technology programs at the university. We invite applicants with specialization in any area, but we are particularly looking for candidates with expertise in networks, cybersecurity, and/or computer architecture. We seek an innovative educator with demonstrated excellence in undergraduate teaching and mentoring, creative curriculum development, and a commitment to interdisciplinary collaboration inside and outside the University._
 - Review of applications will start **October 15, 2021**
@@ -248,24 +263,17 @@ _[Excerpt] The Department of Mathematics and Computer Science at Southwestern Un
 
 _[back to deadlines](#deadlines)_
 
-### <a name="transy">[P] Transylvania University (Kentucky)</a>
-_[Excerpt] Transylvania University (www.transy.edu), a top-tier, independent, residential liberal arts college in Lexington, Kentucky, invites applications for the position of Assistant Professor of Computer Science. This is a tenure-track position beginning August 26, 2022.  The ideal candidate will have expertise in database management systems, cybersecurity, data analytics, or graphics. Applicants with an interest in interdisciplinary elements of Computer Science are particularly encouraged, especially regarding racial and gender biases in computer technology. We are looking for applicants who are passionate about attracting, teaching, and mentoring historically underrepresented groups in Computer Science. Occasional contributions to First-Year programing and service as an academic adviser are also expected. The teaching load consists of three courses per semester, plus one short-term course in May (3-3-1) that offers additional opportunities for travel courses, team-taught courses and other more experimental classroom endeavors. Other responsibilities include academic scholarship/professional activity, preferably involving undergraduate students, and service to the university through various committee appointments. The university also has an excellent faculty development program that competitively funds faculty (and student) scholarly research and artistic projects._
-- Review of applications will begin **November 1st, 2021**
-- [Link to application](https://www.joblinkapply.com/Joblink/4637/Job/Index/494158/)
-
-_[back to deadlines](#deadlines)_
-
-### <a name="usfca">[P] University of San Francisco</a>
-_[Excerpt] The University of San Francisco is hiring for multiple full-time tenure-track assistant professor positions in the Computer Science, Data Science, and Engineering programs. USF provides competitive salaries to live in the Bay Area and has excellent support for new faculty such as multiple teaching assistants for your classes, an internal research funding mechanism, and focused writing retreats. USF was listed as a Tier One National University in the 2021 U.S. News & World Report, was ranked 4th in student diversity, and was among best colleges for veterans._
-- Review of applications will begin **December 15th, 2021**
-- [Link to application](https://www.cs.usfca.edu/apply2022)
-
-_[back to deadlines](#deadlines)_
-
 ### <a name="st-thomas">[P] University of St. Thomas (Minnesota)</a>
 _[Excerpt] The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for two tenure-line assistant/associate professor positions in computer science. The appointments will begin in fall 2022, and the search committee welcomes applicants with expertise in any area of computer science. We are seeking outstanding candidates who are dedicated to innovative undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty._
 - Review of applications will begin **October 21, 2021**
 - [Link to application](https://facultyemployment-stthomas.icims.com/jobs/5626/tenure-line-assistant-associate-professor%2c-computer-science/job)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="transy">[P] Transylvania University (Kentucky)</a>
+_[Excerpt] Transylvania University (www.transy.edu), a top-tier, independent, residential liberal arts college in Lexington, Kentucky, invites applications for the position of Assistant Professor of Computer Science. This is a tenure-track position beginning August 26, 2022.  The ideal candidate will have expertise in database management systems, cybersecurity, data analytics, or graphics. Applicants with an interest in interdisciplinary elements of Computer Science are particularly encouraged, especially regarding racial and gender biases in computer technology. We are looking for applicants who are passionate about attracting, teaching, and mentoring historically underrepresented groups in Computer Science. Occasional contributions to First-Year programing and service as an academic adviser are also expected. The teaching load consists of three courses per semester, plus one short-term course in May (3-3-1) that offers additional opportunities for travel courses, team-taught courses and other more experimental classroom endeavors. Other responsibilities include academic scholarship/professional activity, preferably involving undergraduate students, and service to the university through various committee appointments. The university also has an excellent faculty development program that competitively funds faculty (and student) scholarly research and artistic projects._
+- Review of applications will begin **November 1st, 2021**
+- [Link to application](https://www.joblinkapply.com/Joblink/4637/Job/Index/494158/)
 
 _[back to deadlines](#deadlines)_
 
