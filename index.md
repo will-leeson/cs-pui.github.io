@@ -54,7 +54,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Oberlin College](#oberlin) - October 31
 - [Spelman College](#spelman) - October 31
 
-
+- [Bucknell University](#bucknell) - November 1 (open until filled)
 - [Loyola University Maryland](#loyola) - November 1 (open until filled)
 - [Transylvania University](#transy) - November 1
 - [Middlebury College](#middlebury) - November 15
@@ -69,9 +69,6 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 
 
 - [Westmont College](#westmont) - February 1 (rolling)
-
-
-- [Bucknell University](#bucknell) - _ad forthcoming_
 
 
 ### Fixed-Term Positions
@@ -120,7 +117,10 @@ _[Excerpt] The Department of Computer Science at Bryn Mawr College invites appli
 _[back to deadlines](#deadlines)_
 
 ### <a name="bucknell">[P] Bucknell University (Pennsylvania)</a>
-_[Excerpt] Hiring is approved - ad is expected soon_
+_[Excerpt] The Department of Computer Science at Bucknell University seeks applications for **one or more open-rank tenure-track positions** to begin in August 2022... We seek applicants who demonstrate interest in reflexive, multicultural, and inclusive teaching practices and who commit to collaborating with departmental colleagues and students. The successful candidates will teach in one or more areas of our core CS curriculum ... Although candidates from all research areas are strongly encouraged to apply, we are particularly interested in those from areas that extend the range of expertise of our faculty, such as artificial intelligence, programming language design, and cybersecurity. The successful candidates will contribute to the teaching of programming language design, software engineering, and/or artificial intelligence. As a liberal arts institution, we value a broad definition of computer science, and we are particularly interested in candidates whose research areas either expand the range of expertise in the department or lead to connections with other disciplines, such as the humanities, arts, social sciences, or natural sciences. Candidates will be expected to develop a scholarly program that creates opportunities for student mentorship and participation. Bucknell University provides support for a pre-tenure sabbatical leave, scholarly travel and development funds, and numerous programs to fund faculty-guided undergraduate research._
+
+- Review of applications will begin on **November 1** and continue until the position is filled.
+- [Link to application](https://jobs.bucknell.edu/en-us/job/496858/tenuretrack-faculty-computer-science)
 
 _[back to deadlines](#deadlines)_
 
