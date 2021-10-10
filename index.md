@@ -59,10 +59,11 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Transylvania University](#transy) - November 1
 - [Middlebury College](#middlebury) - November 15
 - [Pomona College](#pomona) - November 15
+- [Swarthmore College (CS)](#swarthmore-cs) - November 15
 - [Williams College](#williams) - November 15
 
 
-- [Swarthmore College](#swarthmore) - December 1
+- [Swarthmore College (Engineering)](#swarthmore) - December 1
 - [Wesleyan University](#wesleyan) - December 1
 - [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
@@ -294,10 +295,17 @@ _[Excerpt] The University of St. Thomas’s Department of Computer and Informati
 
 _[back to deadlines](#deadlines)_
 
-### <a name="swarthmore">[P] Swarthmore College (Pennsylvania)</a>
+### <a name="swarthmore">[P] Swarthmore College - Engineering (Pennsylvania)</a>
 _[Excerpt] The Department of Engineering at Swarthmore College invites applications for two tenure-track positions at the Assistant or Associate level beginning in Fall 2022. We are especially interested in candidates whose teaching and scholarship incorporates the cross-cutting focus areas of sustainability, social impacts of technology, engineering design, or bioengineering. Specializations can range across the spectrum of engineering subfields, with particular interest in the areas of Civil and Environmental, Electrical, and Mechanical Engineering. We seek candidates with the ability to teach talented undergraduates from diverse backgrounds in introductory core courses as well as mid- to upper-level elective courses in the candidate’s area of specialization._
 - We will begin reviewing applications on **December 1, 2021** and continue until available positions are filled.
 - [Link to application](https://apply.interfolio.com/91573)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="swarthmore-cs">[P] Swarthmore College - CS (Pennsylvania)</a>
+_[Excerpt] The Department of Computer Science at Swarthmore College invites applications for a tenure-track position at the rank of Assistant Professor to begin Fall semester 2022. Applicants must have a Ph.D. in Computer Science, or expected by Fall 2022. All areas of computer science will be considered, though we are especially interested in areas that complement our existing offerings, including systems areas, algorithms, theory, and interdisciplinary research in the humanities and social sciences. The typical teaching load is two courses and three affiliated lab sections per year split between introductory/intermediate courses and upper level courses. Swarthmore College offers competitive start-up packages to support faculty research and teaching, funds for travel to professional meetings, summer support of undergraduate research collaborators, and a generous sabbatical policy._
+- All applications received by **15 November 2021** will receive full consideration, and review of applications will continue until the position is filled.
+- [Link to application](http://apply.interfolio.com/95027)
 
 _[back to deadlines](#deadlines)_
 
