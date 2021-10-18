@@ -75,6 +75,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. And while they are at institutions in which the tenure-track faculty have research resources, it's possible that these positions do not carry the same benefits. Ask lots of questions!_
+- [Mount Holyoke College](#holyoke) - reviewing begins immediately
 - [Bowdoin College](#bowdoin) - November 1
 - [Middlebury College](#middlebury) - November 15
 
@@ -215,6 +216,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Middlebury College invites applications for a full-time tenure-track faculty position and a three-year visiting position in computer science, beginning in Fall 2022. All areas of computer science will be considered, including applied areas with interdisciplinary focus. Teaching responsibilities will include courses throughout the undergraduate computer science curriculum with an emphasis on the candidate’s areas of expertise; as well as regular contributions to the college-wide curriculum, including the first-year seminar program and winter term. Appointment will be made at the rank of Assistant Professor (Ph.D.) or Instructor (ABD). Candidates should provide evidence of commitment to excellent teaching and scholarly potential._
 - Review of applications will begin on **November 15, 2021** and will continue until the positions are filled
 - [Link to application](http://www.middlebury.edu/academics/cs/job)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="holyoke">[FT] Mount Holyoke College (Massachusetts)</a>
+_[Excerpt] The Mount Holyoke College Computer Science Department seeks a Lecturer to teach and inspire a vibrant community of students. This teaching-focused renewable position, to begin Fall 2022, is on a non-tenure-track path that culminates in the rank of Senior Lecturer. The teaching load is 5 courses per year, which may be divided between courses and lab sections. We are searching broadly for candidates with a strong commitment to excellence in teaching computer science and a passion for engaging a diverse population of undergraduate students... Candidates should have a demonstrated record of strong teaching at the undergraduate level and experience mentoring students who are broadly diverse with regard to race, ethnicity, socioeconomic status, gender, nationality, sexual orientation, and religion._
+- We will begin reviewing applications **immediately** and continue until the position is filled (posted on Oct 13th)
+- [Link to application](https://careers.pageuppeople.com/1024/cw/en-us/job/492768/lecturer-in-computer-science)
 
 _[back to deadlines](#deadlines)_
 
