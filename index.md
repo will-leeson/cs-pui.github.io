@@ -52,6 +52,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Colorado College](#colorado) - October 25
 - [Ohio Wesleyan University](#owu) - October 25 (open until filled)
 - [Reed College](#reed) - October 25
+- [University of Minnesota Duluth - Swenson College](#umds) - October 27
 - [Oberlin College](#oberlin) - October 31
 - [Spelman College](#spelman) - October 31
 
@@ -216,6 +217,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Middlebury College invites applications for a full-time tenure-track faculty position and a three-year visiting position in computer science, beginning in Fall 2022. All areas of computer science will be considered, including applied areas with interdisciplinary focus. Teaching responsibilities will include courses throughout the undergraduate computer science curriculum with an emphasis on the candidate’s areas of expertise; as well as regular contributions to the college-wide curriculum, including the first-year seminar program and winter term. Appointment will be made at the rank of Assistant Professor (Ph.D.) or Instructor (ABD). Candidates should provide evidence of commitment to excellent teaching and scholarly potential._
 - Review of applications will begin on **November 15, 2021** and will continue until the positions are filled
 - [Link to application](http://www.middlebury.edu/academics/cs/job)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="umds">[P] University of Minnesota Duluth - Swenson College (Minnesota)</a>
+_[Excerpt] The Department of Computer Science in the Swenson College of Science and Engineering at the University of Minnesota Duluth (UMD) invites applications for a tenure-track Assistant Professor that will begin on August 22, 2022. This is a full time, 9 month position. The successful candidate will establish an independent, externally funded research program, which includes mentorship of undergraduates and graduate students. The area of research specialization for this position is open. They will have teaching responsibilities in our lecture and laboratory courses. They will also contribute to graduate and undergraduate teaching, advising, and mentoring, while supporting diversity and inclusion and a commitment to justice. Service to the Department, College, and University is also expected. Candidates must have a Ph.D. in computer science or a related discipline by July 1, 2022. Experience with effective and innovative teaching methods, such as active learning, is preferred._
+- Review of complete applications will start **October 27, 2021**, and continue until the position is filled
+- [Link to application](https://scse.d.umn.edu/about/faculty-searches)
 
 _[back to deadlines](#deadlines)_
 
