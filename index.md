@@ -70,7 +70,6 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
 
-
 - [Westmont College](#westmont) - February 1 (rolling)
 
 
@@ -79,6 +78,10 @@ _You should know that this category includes a wide diversity of positions in te
 - [Mount Holyoke College](#holyoke) - reviewing begins immediately
 - [Bowdoin College](#bowdoin) - November 1
 - [Middlebury College](#middlebury) - November 15
+
+
+- [The College of New Jersey](#tcnj) - January 18, 2022 (open until filled)
+
 
 ------------
 
@@ -146,6 +149,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Computer Science at Colgate University invites applications for **two** tenure-stream positions at the rank of Assistant Professor, beginning fall semester 2022 ... We expect applicants to be committed to excellence in undergraduate teaching and in research. We encourage candidates from all areas of computer science to apply. We are interested in candidates who are enthusiastic to teach in our computer science curriculum at all levels and to develop new courses in their area(s) of expertise. We welcome applications from candidates with cross-disciplinary expertise related to the Middle Campus Initiative for Arts, Creativity, and Innovation and/or related to the Robert H. N. Ho Mind, Brain, and Behavior Initiative, which are part of Colgate's Third-Century Plan. We seek applicants that complement and broaden the department program, through teaching, research or service. Teaching responsibilities for each semester consist of two course sections plus one or two labs (for a total of three labs over the academic year)._
 - Review of applications will begin **October 20, 2021.** Applications will continue to be accepted after this date until both positions are filled
 - [Link to application](https://academicjobsonline.org/ajo/jobs/19581)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="tcnj">[FT] The College of New Jersey</a>
+_[Excerpt] The Department of Computer Science at The College of New Jersey (TCNJ) invites applications for a ten-month, renewable, non-tenure track faculty Lecturer position in computer science starting August 2022. The position is offered for an initial two-year appointment, with potential for renewal for a second two-year appointment and subsequent three-year appointments based on performance. We are seeking broadly trained applicants from all areas of computer science, who are passionate about teaching computer science in a primarily undergraduate, residential, liberal arts-centered institution. The successful candidate will teach computer science courses at all levels of the curriculum (introductory-, mid-, and advanced-level) and help to develop innovative, upper-level courses that complement and diversify the department’s offerings. Expertise in cybersecurity or data science is beneficial. The successful candidate will also display dedication to inclusive excellence in STEM and higher education. Candidates should have a doctorate or master’s degree in Computer Science, or a closely related field; demonstrated excellence in teaching; and a strong commitment to the education of undergraduates. Candidates with equivalent experiences – from industry or other backgrounds – will also be considered._
+- Review of complete applications will begin on **January 18, 2022** and continue until the position is filled. 
+- [Link to application](https://tcnj.taleo.net/careersection/00_ex_faculty/jobdetail.ftl?job=21002194&tz=GMT-04%3A00&tzname=America%2FNew_York)
 
 _[back to deadlines](#deadlines)_
 
