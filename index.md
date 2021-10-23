@@ -78,8 +78,6 @@ _You should know that this category includes a wide diversity of positions in te
 - [Mount Holyoke College](#holyoke) - reviewing begins immediately
 - [Bowdoin College](#bowdoin) - November 1
 - [Middlebury College](#middlebury) - November 15
-
-
 - [The College of New Jersey](#tcnj) - January 18, 2022 (open until filled)
 
 
