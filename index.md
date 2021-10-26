@@ -67,6 +67,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 
 - [Swarthmore College (Engineering)](#swarthmore) - December 1
 - [Wesleyan University](#wesleyan) - December 1
+- [Washington and Jefferson College](#washington-jefferson) - December 6 (open until filled)
 - [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
 
@@ -352,6 +353,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Computer Science at Vassar College invites applications for a tenure-track position at the rank of Assistant Professor starting in the 2022-23 academic year. We seek creative individuals who are able to teach undergraduate courses in the department, maintain an active research program, and engage undergraduates in their research. The ideal candidate would be able to develop our core courses in theory and algorithms, while also offering higher-level courses in their area of expertise. Candidates with expertise in Data Science are especially encouraged to apply.  A PhD in Computer Science or related field is expected by the start of the Fall 2022 semester. A typical teaching load is one lab course and one non-lab course each semester._
 - Complete applications received by **October 18, 2021** will receive full consideration
 - [Link to application](https://employment.vassar.edu/postings/2125)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="washington-jefferson"> [P] Washington and Jefferson College (Pennsylvania)</a>
+_[Excerpt] The Department of Computing and Information Studies (CIS) at Washington & Jefferson College is searching for a colleague with interdisciplinary interests in the field of computing for a tenure-track Assistant Professor position. The CIS program offers an interdisciplinary computing major with tracks in data science, digital media, computer science, interaction design, and web and mobile technologies. We especially welcome applicants with expertise in data analytics, digital humanities, or mobile or media development to support these current tracks or grow the program in new directions. The CIS program at W&J views computing as a liberal arts discipline and is committed to providing inclusive classroom experiences and collaborating with other disciplines and programs including Gender and Women's Studies, Professional Writing, Art, Music, Environmental Studies, History, Communication Arts, Economics, and other social and natural sciences. We actively invite applications from women and members of other historically underrepresented groups._
+- Review of applications will begin on **December 6 ** and continue until the position is filled
+- [Link to application](https://www.washjeff.edu/applicantpro/job/Pennsylvania/Washington/Assistant-Professor-of-Computing-and-Information-Studies/2027646/)
 
 _[back to deadlines](#deadlines)_
 
