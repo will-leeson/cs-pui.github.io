@@ -71,6 +71,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
 
+- [Cal Poly, San Luis Obispo](#cal-poly-slo) - January 1
 - [Connecticut College](#conn) - January 20
 - [Westmont College](#westmont) - February 1 (rolling)
 
@@ -165,6 +166,12 @@ _[Excerpt] The Department of Mathematics and Computer Science at Colorado Colleg
 - [Link to application](https://employment.coloradocollege.edu/postings/5424)
 
 _[back to deadlines](#deadlines)_
+
+### <a name="cal-poly-slo"> [P] Cal Poly, San Luis Obispo (California)</a>
+
+_[Excerpt] The Department of Computer Science and Software Engineering at California Polytechnic State University in San Luis Obispo (Cal Poly) invites applications for a full-time tenure-track faculty position at the Assistant Professor rank beginning Fall Quarter 2022. Salary is commensurate with qualifications and experience. Duties include teaching undergraduate and master's level courses in line with Cal Poly’s Learn by Doing pedagogy which involves extensive lab work and projects, supporting and expanding curricular development in Computer Science or Software Engineering, pursuing research in these areas, and providing service to the department, the university, and the community. Particular areas of interest include: all areas of computing including computer science education, with a focus on candidates who can direct efforts related to broadening participation in computer science across campus along with a focus on engaging with underrepresented students in research, teaching, service, advising, mentoring or community engagement in computing._
+- Review of applicants will start on **January 1, 2022**
+- [Link to application](https://careers.pageuppeople.com/873/cisl/en-us/job/506129/assistant-professor-computer-science)
 
 ### <a name="conn"> [P] Connecticut College (Connecticut)</a>
 _[Excerpt] Connecticut College is seeking to expand its Computer Science Department and continue to develop its growing interdisciplinary collaborations with other departments. The College invites applications for a tenure-track position at the rank of Assistant Professor to begin in Fall 2022. The Computer Science Department currently consists of six permanent faculty members and has established research programs in algorithms, robotics/AI, music/audio processing, educational technology, graphics/VR, computer vision, bioinformatics, and machine learning. We seek a new member to join our department whose research focuses on various aspects of data science and related fields in Computer Science. Research of interest includes, but is not limited to, data analytics, intelligent cloud, big data, data mining, and machine learning. Candidates should have completed a Ph.D. in Computer Science or related field by the time of the appointment, have an active research program in one or more of our areas of interest, a strong commitment to excellence in undergraduate teaching and to the mission of the College, and the potential to conduct research in a liberal arts setting._
