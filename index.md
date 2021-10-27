@@ -71,6 +71,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
 
+- [Connecticut College](#conn) - January 20
 - [Westmont College](#westmont) - February 1 (rolling)
 
 
@@ -162,6 +163,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Mathematics and Computer Science at Colorado College invites applications for a tenure-track position at the Assistant Professor level to begin in August of 2022.  We encourage candidates from all areas of computer science to apply.  We seek a computer scientist with broad teaching interests who can teach introductory as well as advanced computer science courses to a diverse community of undergraduate students and mentor computer science majors who are completing a capstone experience.  All candidates should be able to teach our introductory sequence, currently taught in Java, and a variety of advanced computer science courses including a CS elective in their primary field of study.  The successful candidate should also be able to develop and maintain a rigorous research program that can engage undergraduate students.  Mentoring and advising students interested in computer science both at the introductory and more senior level is expected.  Finally, the successful candidate will be expected to contribute to the department and the college through service._
 - Applications received by **October 25, 2021** will receive full consideration.
 - [Link to application](https://employment.coloradocollege.edu/postings/5424)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="conn"> [P] Connecticut College (Connecticut)</a>
+_[Excerpt] Connecticut College is seeking to expand its Computer Science Department and continue to develop its growing interdisciplinary collaborations with other departments. The College invites applications for a tenure-track position at the rank of Assistant Professor to begin in Fall 2022. The Computer Science Department currently consists of six permanent faculty members and has established research programs in algorithms, robotics/AI, music/audio processing, educational technology, graphics/VR, computer vision, bioinformatics, and machine learning. We seek a new member to join our department whose research focuses on various aspects of data science and related fields in Computer Science. Research of interest includes, but is not limited to, data analytics, intelligent cloud, big data, data mining, and machine learning. Candidates should have completed a Ph.D. in Computer Science or related field by the time of the appointment, have an active research program in one or more of our areas of interest, a strong commitment to excellence in undergraduate teaching and to the mission of the College, and the potential to conduct research in a liberal arts setting._
+- Review of applications will start on **January 20, 2022** 
+- [Link to application](https://apply.interfolio.com/95554)
 
 _[back to deadlines](#deadlines)_
 
