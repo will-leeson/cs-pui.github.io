@@ -65,6 +65,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Williams College](#williams) - November 15
 
 
+- [Olin College](#olin) - December 1
 - [Swarthmore College (Engineering)](#swarthmore) - December 1
 - [Wesleyan University](#wesleyan) - December 1
 - [Washington and Jefferson College](#washington-jefferson) - December 6 (open until filled)
@@ -269,6 +270,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Ohio Wesleyan University’s Department of Mathematics and Computer Science invites applications for a tenure track Assistant Professor position in computer science to begin in August 2022. We seek an enthusiastic instructor with a demonstrated interest in teaching a wide variety of computer science courses across the curriculum. Candidates who have experience in databases, software engineering, data mining, network security, or other applied computer science fields are especially encouraged to apply. Qualified candidates will (1) be excellent teachers, able to teach a variety of undergraduate computer science courses at all levels, (2) be eager to participate in the department’s efforts to engage in mentored research opportunities with students in mathematics, statistics, computer science, and data analytics, (3) maintain a productive, ongoing research program, and (4) contribute actively to the growth of the department and its efforts to attract and retain a diverse student body. Ideal candidates will have experience teaching and mentoring students of all backgrounds, including those who are traditionally underrepresented in computer science. We will also look favorably on candidates who can effectively teach courses in which students possess a range of skill levels. For more information, please see our postings on https://www.mathjobs.org/jobs/list/18174. This job is part of a cluster of positions with which Ohio Wesleyan seeks to further diversify its curriculum and faculty. For more information about the cluster, please visit https://owu.edu/joinOWUfaculty_
 - Review of applications will begin on **October 25, 2021** and will continue until the position is filled
 - [Link to application](https://www.mathjobs.org/jobs/list/18174)
+
+_[back to deadlines](#deadlines)_
+
+### <a name = "olin">[P] Olin College (Massachusetts)</a>
+_[Excerpt] Are you passionate about equity and access? Do you want to join us in reframing who can be engineers and what counts as engineering? Do you want to mentor students to better integrate engineering and other fields as they study and tackle complex technical systems and societal challenges? Come join our team. We are looking for individuals (at all ranks) with expertise and experience in engineering (all disciplines) and/or adjacent fields (e.g., applied mathematics, computer science, applied physics). Olin is committed to becoming an increasingly inclusive and diverse learning community that supports equitable learning opportunities for everyone, and we strongly encourage women and individuals from historically underrepresented communities to apply._
+- First consideration will be given to applications received by **December 1, 2021**, but applications will be considered until the position is filled
+- [Link to application](https://www.olin.edu/join-community/faculty/engineering/)
 
 _[back to deadlines](#deadlines)_
 
