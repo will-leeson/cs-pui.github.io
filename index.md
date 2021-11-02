@@ -204,7 +204,7 @@ _[Excerpt] The Computer Science Department at Hamilton College invites applicati
 
 _[back to deadlines](#deadlines)_
 
-### <a name="hamilton"> [FT] Haverford College (PA)</a>
+### <a name="haverford"> [FT] Haverford College (PA)</a>
 _[Excerpt] The Department of Computer Science of Haverford College welcomes applications for **Vfull-time, multi-year Visiting Assistant Professor** for the 2022-2023 academic year. Responsibilities will include teaching five-course units over two semesters - often an effective load of 2-2 or 2-1 once lab supervision is taken into account.   Courses could include introductory CS (CS1 and CS2), discrete mathematics, and/or upper-level elective courses, including supervising lab or discussion sections. There may also be opportunities to advise a set of senior thesis projects, which would count towards the overall teaching units. While there is no research required for this position, active researchers are encouraged to apply and research funding is available to help visitors continue their research activities. Candidates in all areas of Computer Science, Mathematics, and connected fields are encouraged to apply. The successful candidate will have a Ph.D. (ABD considered) and excellent teaching skills and experience. The College and the Department seek candidates who are well prepared to engage students from diverse backgrounds, and equipped to use varied pedagogies in the classroom._
 - Applications received by **February 15, 2022**, will be given full consideration
 - [Link to application](https://www.haverford.edu/provost/news/visiting-assistant-professor-computer-science-2022-2023)
