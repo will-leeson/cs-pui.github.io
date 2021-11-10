@@ -68,6 +68,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Olin College](#olin) - December 1
 - [Swarthmore College (Engineering)](#swarthmore) - December 1
 - [Wesleyan University](#wesleyan) - December 1
+- [Valparaiso University](#valpo) - December 3 (open until filled)
 - [Washington and Jefferson College](#washington-jefferson) - December 6 (open until filled)
 - [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
@@ -377,6 +378,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Transylvania University (www.transy.edu), a top-tier, independent, residential liberal arts college in Lexington, Kentucky, invites applications for the position of Assistant Professor of Computer Science. This is a tenure-track position beginning August 26, 2022.  The ideal candidate will have expertise in database management systems, cybersecurity, data analytics, or graphics. Applicants with an interest in interdisciplinary elements of Computer Science are particularly encouraged, especially regarding racial and gender biases in computer technology. We are looking for applicants who are passionate about attracting, teaching, and mentoring historically underrepresented groups in Computer Science. Occasional contributions to First-Year programing and service as an academic adviser are also expected. The teaching load consists of three courses per semester, plus one short-term course in May (3-3-1) that offers additional opportunities for travel courses, team-taught courses and other more experimental classroom endeavors. Other responsibilities include academic scholarship/professional activity, preferably involving undergraduate students, and service to the university through various committee appointments. The university also has an excellent faculty development program that competitively funds faculty (and student) scholarly research and artistic projects._
 - Review of applications will begin **November 1st, 2021**
 - [Link to application](https://www.joblinkapply.com/Joblink/4637/Job/Index/494158/)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="valpo">[P] Valparaiso University (Indiana)</a>
+_[Excerpt] Valparaiso University invites applications for the position of Assistant Professor, in the Department Computing and Information Sciences, beginning in Fall of 2022.  Valparaiso University (“Valpo”), a community of learning grounded in the Lutheran tradition of scholarship, freedom, and faith, prepares students to lead and serve both church and society.  Located one hour southeast of Chicago on a 310-acre campus, Valpo is a comprehensive university with an enrollment of over 3,100 undergraduate and graduate students.  Valpo is consistently recognized as one of the best private universities in the Midwest and is located in Valparaiso, Indiana, a county seat of 30,000 residents with high quality schools and an active social community._
+- Applicants are encouraged to apply by **December 3, 2021** but the position will be open until filled.
+- [Link to application](http://apply.interfolio.com/97111)
 
 _[back to deadlines](#deadlines)_
 
