@@ -77,6 +77,8 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Connecticut College](#conn) - January 20
 - [Westmont College](#westmont) - February 1 (rolling)
 
+- Whitman College - 2 positions TBA
+
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. And while they are at institutions in which the tenure-track faculty have research resources, it's possible that these positions do not carry the same benefits. Ask lots of questions!_
