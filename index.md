@@ -77,6 +77,8 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Connecticut College](#conn) - January 20
 - [Westmont College](#westmont) - February 1 (rolling)
 
+- [Whitman College](#whitman) - 2 positions TBA
+
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. And while they are at institutions in which the tenure-track faculty have research resources, it's possible that these positions do not carry the same benefits. Ask lots of questions!_
@@ -413,6 +415,11 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] We seek a faculty member with a PhD in computer science who demonstrates professional and personal interests that extend beyond computer science, to include a commitment to life-long learning in the liberal arts and an ability to cultivate such learning in undergraduate students.  As a college rooted in the worldwide, evangelical Protestant Christian tradition, we are seeking candidates personally committed to this heritage.  Applicants should also share our commitment to greater inclusion of underrepresented groups in a field that sorely needs such diversity. The computer science program at Westmont reflects our assumption that a solid theoretical understanding provides the necessary basis for elegantly and efficiently solving problems – whether in research or development. With this pedagogical perspective in mind, the new faculty member will have opportunities to make significant contributions to the content and structure of the program._
 - Applications are reviewed as received until **February 1st, 2022**
 - [Link to application](https://www.westmont.edu/office-provost/open-positions)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="whitman"> [P] Whitman College (Washington)</a>
+_[Excerpt] Hiring is approved for **2** positions - ad is expected soon_
 
 _[back to deadlines](#deadlines)_
 
