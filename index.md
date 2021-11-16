@@ -71,6 +71,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Washington and Jefferson College](#washington-jefferson) - December 6 (open until filled)
 - [San Francisco State University](#sfsu) - December 15 (open until filled)
 - [University of San Francisco](#usfca) - December 15
+- [University of Mary Washington](#umw) - December 31
 
 - [Cal Poly, San Luis Obispo](#cal-poly-slo) - January 1
 - [Union College](#union) - January 15
@@ -387,6 +388,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Electrical, Computer and Biomedical Engineering at Union College invites applications for the Mary H. '80 and Richard K. '80 Templeton tenure-track position in Computer Engineering at the rank of Assistant Professor to begin September 1, 2022... This is an endowed position that benefits from an assigned annual allowance to support research and travel and is part of a broader initiative to further strengthen and integrate engineering and computer science with the liberal arts at Union. Excellent candidates in all areas of Computer Engineering will be considered. Preference will be given to candidates with backgrounds or research interests in robotics, cyber-physical systems and applications, embedded systems, novel actuator and sensor technology, or hardware architectures for machine learning. Applicants with a strong background in collaborative undergraduate teaching and/or with interdisciplinary research interests that intersect with arts and humanities are strongly encouraged to apply._
 - Review of complete applications will **begin January 15** and continue until the position is filled
 - [Link to application](https://jobs.union.edu/en-us/job/493010/assistant-professor-computer-engineering)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="umw"> [P] University of Mary Washington (Virginia)</a>
+_[Excerpt] The University of Mary Washington (UMW) invites applications for a tenure-track position at the assistant or associate professor level in computer science to begin August 16, 2022. Our close-knit team of ten faculty specializes in working with eager undergraduate students in small classes and one-on-one mentoring settings.  Candidates for the position must either have earned a Ph.D. in Computer Science or a closely related field or have made substantial progress toward completing their dissertation. An earned terminal degree will be required for continuation in the tenure-track position. Passionate teachers in all subdisciplines of computer science will be considered. Successful applicants will demonstrate an enthusiasm for teaching at the undergraduate level, the ability to teach a variety of computer science topics, an interest in involving undergraduates in research, and demonstrate dedication to effective teaching and high-impact learning in an inclusive environment that embraces diverse talents and backgrounds. The normal teaching load is three sections per semester in small classes._
+- The preferred deadline for applications is **December 31, 2021**.
+- [Link to application](https://careers.umw.edu/postings/11108)
 
 _[back to deadlines](#deadlines)_
 
