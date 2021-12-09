@@ -74,11 +74,10 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [University of Mary Washington](#umw) - December 31
 
 - [Cal Poly, San Luis Obispo](#cal-poly-slo) - January 1
+- [Whitman College](#whitman) - January 12 (2 positions)
 - [Union College](#union) - January 15
 - [Connecticut College](#conn) - January 20
 - [Westmont College](#westmont) - February 1 (rolling)
-
-- [Whitman College](#whitman) - 2 positions TBA
 
 
 ### Fixed-Term Positions
@@ -434,7 +433,10 @@ _[Excerpt] We seek a faculty member with a PhD in computer science who demonstra
 _[back to deadlines](#deadlines)_
 
 ### <a name="whitman"> [P] Whitman College (Washington)</a>
-_[Excerpt] Hiring is approved for **2** positions - ad is expected soon_
+_[Excerpt] The Department of Computer Science seeks applicants for two Tenure-track positions beginning August 2022, rank open. ... We seek candidates who will strive for excellence in teaching as well as scholarship, including those who currently hold industry positions. The successful candidate will offer a range of computer science courses at all levels, supervise senior capstone projects, and offer courses that contribute to the College’s general education requirements. The standard annual teaching load is five courses. The College provides a generous pre-tenure sabbatical leave program and professional development support for both research and teaching._
+- Area open
+- Review of applications will begin **January 12th, 2022**
+- [Link to application](https://whitman.bamboohr.com/jobs/view.php?id=133)
 
 _[back to deadlines](#deadlines)_
 
