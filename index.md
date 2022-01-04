@@ -77,6 +77,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Whitman College](#whitman) - January 12 (2 positions)
 - [Union College](#union) - January 15
 - [Connecticut College](#conn) - January 20
+- [Grinnell College](#grinnell) - January 28
 - [Westmont College](#westmont) - February 1 (rolling)
 
 
@@ -186,9 +187,9 @@ _[Excerpt] Connecticut College is seeking to expand its Computer Science Departm
 _[back to deadlines](#deadlines)_
 
 ### <a name="grinnell"> [P] Grinnell College (Iowa)</a>
-_[Excerpt] The Department of Computer Science invites applications for a tenure-track appointment beginning Fall 2022. Assistant Professor (Ph.D.) preferred; Instructor (ABD) or Associate Professor possible. Candidates with research and teaching interests in any area of Computer Science are encouraged to apply, but preference may be given to candidates with interest in teaching systems or theory courses. Candidates with degrees in closely-related fields who have relevant experience will also be considered. Candidates are expected to describe the ways they can support and engage with students and colleagues from historically underrepresented or marginalized groups._
-- Applications received by **October 17, 2021** will receive full consideration.
-- [Link to application](https://jobs.grinnell.edu/postings/3904)
+_[Excerpt] The Department of Computer Science invites applications for a tenure-track appointment beginning Fall 2022. Assistant Professor (Ph.D.) preferred; Instructor (ABD) or Associate Professor possible. The Department will prioritize candidates interested in teaching systems courses, but we are eager to consider candidates who conduct research in any area of Computer Science. Candidates with degrees in closely-related fields who have relevant experience will also be considered. Candidates are expected to describe the ways they can support and engage with students and colleagues from historically underrepresented or marginalized groups._
+- Applications received by **January 28, 2022** will receive full consideration.
+- [Link to application](https://jobs.grinnell.edu/postings/4111)
 
 _[back to deadlines](#deadlines)_
 
