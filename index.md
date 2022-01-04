@@ -51,7 +51,6 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Lafayette College](#lafayette) - October 22
 - [Colorado College](#colorado) - October 25
 - [Ohio Wesleyan University](#owu) - October 25 (open until filled)
-- [Reed College](#reed) - October 25
 - [University of Minnesota Duluth - Swenson College](#umds) - October 27
 - [Oberlin College](#oberlin) - October 31
 - [Spelman College](#spelman) - October 31
@@ -77,6 +76,8 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Whitman College](#whitman) - January 12 (2 positions)
 - [Union College](#union) - January 15
 - [Connecticut College](#conn) - January 20
+- [Reed College](#reed) - January 31
+
 - [Westmont College](#westmont) - February 1 (rolling)
 
 
@@ -307,9 +308,9 @@ _[Excerpt] The University of Puget Sound seeks applications for a Tenure-Track A
 _[back to deadlines](#deadlines)_
 
 ### <a name="reed">[P] Reed College (Oregon)</a>
-_[Excerpt] The Department of Computer Science at Reed College invites applications for an open rank tenure-track faculty position beginning in the fall of 2022. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in undergraduate teaching and in research. The successful applicant will teach in the core computer science curriculum at all levels, will develop one or more courses in the applicant’s area(s) of expertise, and will work to foster a welcoming and engaged community. They will maintain an active research program, ideally providing opportunities for student involvement, and they will advise several year-long senior thesis projects. Applicants from all areas of computer science are encouraged to apply_
-- Applications submitted by **October 25th, 2021** are guaranteed full consideration
-- [Link to application](https://apply.interfolio.com/91565)
+_[Excerpt] The Department of Computer Science at Reed College invites applications for an open rank tenure-track faculty position beginning in the fall of 2022. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in undergraduate teaching and in research. The successful applicant will teach in the core computer science curriculum at all levels, will develop one or more courses in the applicant’s area(s) of expertise, and will work to foster a welcoming and engaged community. They will maintain an active research program, ideally providing opportunities for student involvement, and they will advise several year-long senior thesis projects. Applicants from all areas of computer science are encouraged to apply._
+- Applications submitted by **January 31, 2022** are guaranteed full consideration
+- [Link to application](http://apply.interfolio.com/100862)
 
 _[back to deadlines](#deadlines)_
 
