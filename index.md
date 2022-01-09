@@ -87,9 +87,10 @@ _You should know that this category includes a wide diversity of positions in te
 - [Mount Holyoke College](#holyoke) - reviewing begins immediately
 - [Bowdoin College](#bowdoin) - November 1
 - [Middlebury College](#middlebury) - November 15
+- [Colby College](#colby) - January 15 (open until filled)
 - [The College of New Jersey](#tcnj) - January 18, 2022 (open until filled)
-- [Haverford College](#haverford) - February 15, 2022
-
+- [Haverford College](#haverford) - February 15, 2022 
+- [Reed College](#reed-ft) - February 28, 2022
 
 ------------
 
@@ -150,6 +151,14 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Computer Science at Canisius College located in Buffalo, NY, invites applications for a tenure-track Assistant Professor of computer science and cybersecurity, beginning Spring 2022 or Fall 2022. Candidates should show a strong commitment to undergraduate teaching and ability to establish and maintain a high-quality research program that involves undergraduate students. Teaching responsibilities, although flexible, will include courses in the field of cybersecurity as well as courses in computer science at all levels. Additional responsibilities include student advisement and a commitment to departmental and college-wide service._
 - Review of completed applications will begin **October 15, 2021** and will continue until the position is filled.
 - [Link to application](https://careers.canisius.edu/cw/en-us/job/494840/assistant-professor-of-computer-science)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="colby"> [FT] Colgate University (Maine)</a>
+_[Excerpt] The Department of Computer Science at Colby College, located in Waterville, ME, invites applicants for a 1-year Visiting Assistant Professor position, to begin on September 1, 2022. Applicants must hold, or be close to completing, a Ph.D. in computer science, computer engineering, or a related area. We welcome applications from all areas of computer science, but preference will be given to those who will support students interested in artificial intelligence, an area of focus at Colby with the new Davis Institute for AI. The teaching load is 5 courses for the year._
+- Review of completed applications will begin **January 15, 2022** and will continue until the position is filled.
+- [Link to full job ad](https://cs.colby.edu/Colby-CS-VAP-2022.pdf)
+- [Link to application](http://apply.interfolio.com/99556)
 
 _[back to deadlines](#deadlines)_
 
@@ -312,6 +321,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Computer Science at Reed College invites applications for an open rank tenure-track faculty position beginning in the fall of 2022. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in undergraduate teaching and in research. The successful applicant will teach in the core computer science curriculum at all levels, will develop one or more courses in the applicant’s area(s) of expertise, and will work to foster a welcoming and engaged community. They will maintain an active research program, ideally providing opportunities for student involvement, and they will advise several year-long senior thesis projects. Applicants from all areas of computer science are encouraged to apply._
 - Applications submitted by **January 31, 2022** are guaranteed full consideration
 - [Link to application](http://apply.interfolio.com/100862)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="reed-ft">[FT] Reed College (Oregon)</a>
+_[Excerpt] The Department of Computer Science at Reed College invites applications for a two-year visiting faculty position, rank open, beginning in the fall of 2022. Applicants are expected to have a Ph.D. in computer science or a related field by the time of their appointment and should be committed to excellence in their teaching and in their scholarship. The successful candidate would teach core and elective courses in computer science and will advise several year-long senior thesis projects._
+- Applications submitted by **February 28, 2022** are guaranteed full consideration
+- [Link to application](http://apply.interfolio.com/100866)
 
 _[back to deadlines](#deadlines)_
 
