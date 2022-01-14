@@ -84,6 +84,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. And while they are at institutions in which the tenure-track faculty have research resources, it's possible that these positions do not carry the same benefits. Ask lots of questions!_
+- [Dickinson College](#dickinson) - open until filled
 - [Mount Holyoke College](#holyoke) - reviewing begins immediately
 - [Bowdoin College](#bowdoin) - November 1
 - [Middlebury College](#middlebury) - November 15
@@ -193,6 +194,13 @@ _[Excerpt] The Department of Computer Science and Software Engineering at Califo
 _[Excerpt] Connecticut College is seeking to expand its Computer Science Department and continue to develop its growing interdisciplinary collaborations with other departments. The College invites applications for a tenure-track position at the rank of Assistant Professor to begin in Fall 2022. The Computer Science Department currently consists of six permanent faculty members and has established research programs in algorithms, robotics/AI, music/audio processing, educational technology, graphics/VR, computer vision, bioinformatics, and machine learning. We seek a new member to join our department whose research focuses on various aspects of data science and related fields in Computer Science. Research of interest includes, but is not limited to, data analytics, intelligent cloud, big data, data mining, and machine learning. Candidates should have completed a Ph.D. in Computer Science or related field by the time of the appointment, have an active research program in one or more of our areas of interest, a strong commitment to excellence in undergraduate teaching and to the mission of the College, and the potential to conduct research in a liberal arts setting._
 - Review of applications will start on **January 20, 2022** 
 - [Link to application](https://apply.interfolio.com/95554)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="dickinson"> [FT] Dickinson College (Pennsylvania)</a>
+_[Excerpt] Dickinson College invites applications for two Visiting Assistant Professor positions in Computer Science, beginning Fall 2022. Applicants should have an MS or higher degree in CS or a related field and an interest in innovative teaching in a liberal arts setting. One of the positions will be a two-year appointment and the other will be a one-year appointment. The College is committed to building a representative and diverse faculty, administrative staff, and student body. We encourage applications from all qualified persons_
+- Review of applications will begin immediately and continue until the position is filled.
+- [Link to application](https://jobs.dickinson.edu/postings/6183)
 
 _[back to deadlines](#deadlines)_
 
