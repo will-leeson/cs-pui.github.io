@@ -90,7 +90,8 @@ _You should know that this category includes a wide diversity of positions in te
 - [Middlebury College](#middlebury) - November 15
 - [Colby College](#colby) - January 15 (open until filled)
 - [The College of New Jersey](#tcnj) - January 18, 2022 (open until filled)
-- [Haverford College](#haverford) - February 15, 2022 
+- [Haverford College](#haverford) - February 15, 2022
+- [Wabash College](#wabash) - February 15, 2022 
 - [Reed College](#reed-ft) - February 28, 2022
 
 ------------
@@ -436,6 +437,13 @@ _[Excerpt] The Department of Computer Science at Vassar College invites applicat
 - [Link to application](https://employment.vassar.edu/postings/2125)
 
 _[back to deadlines](#deadlines)_
+
+### <a name="wabash"> [FT] Wabash College (Indiana)</a>
+_[Excerpt] Wabash College invites applications for a Visiting Assistant Professor of Computer Science, to start July 1, 2022. The initial appointment is for one year, with renewal for a second year possible based on a determination of college circumstances and needs.  Any specialization will be considered, but preference may be given to areas that expand the breadth of the department. Applicants must have a commitment to excellence in undergraduate teaching, an appreciation for the broad intellectual community of an excellent liberal arts college, and the ability to work with a diverse student body. Teaching duties are three courses per semester and include a wide range of courses, both upper and lower level ... Salary and benefits are competitive and include institutional support for professional development._
+- Review of complete applications will begin after **February 15, 2022**.
+- [Link to application](https://www.wabash.edu/employment/home.cfm?job_id=820)
+  
+_[back to deadlines](#deadlines)_  
 
 ### <a name="washington-jefferson"> [P] Washington and Jefferson College (Pennsylvania)</a>
 _[Excerpt] The Department of Computing and Information Studies (CIS) at Washington & Jefferson College is searching for a colleague with interdisciplinary interests in the field of computing for a tenure-track Assistant Professor position. The CIS program offers an interdisciplinary computing major with tracks in data science, digital media, computer science, interaction design, and web and mobile technologies. We especially welcome applicants with expertise in data analytics, digital humanities, or mobile or media development to support these current tracks or grow the program in new directions. The CIS program at W&J views computing as a liberal arts discipline and is committed to providing inclusive classroom experiences and collaborating with other disciplines and programs including Gender and Women's Studies, Professional Writing, Art, Music, Environmental Studies, History, Communication Arts, Economics, and other social and natural sciences. We actively invite applications from women and members of other historically underrepresented groups._
