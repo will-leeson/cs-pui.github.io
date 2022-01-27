@@ -92,6 +92,7 @@ _You should know that this category includes a wide diversity of positions in te
 - [The College of New Jersey](#tcnj) - January 18, 2022 (open until filled)
 - [Haverford College](#haverford) - February 15, 2022 
 - [Reed College](#reed-ft) - February 28, 2022
+- [Harvey Mudd College](#harvey-mudd) - March 4, 2022
 
 ------------
 
@@ -225,6 +226,15 @@ _[Excerpt] The Computer Science Department at Hamilton College invites applicati
 - [Link to application](https://apply.interfolio.com/92351)
 
 _[back to deadlines](#deadlines)_
+
+### <a name="harvey-mudd"> [FT] Harvey Mudd College (CA)</a>
+_[Excerpt] The Computer Science Department at Harvey Mudd College (HMC) invites applications for **Visiting Professor** one-year and two-year positions in computer science starting in the 2022-23 academic year. Candidates in all areas of computer science and at all ranks, including Associate or Full Professors planning a **sabbatical or retirement visit**, will be considered. HMC is a highly selective undergraduate liberal arts college (850 students) emphasizing science, mathematics, and engineering. HMC is part of the Claremont Colleges, a consortium that includes five colleges and two graduate schools. The Computer Science Department currently has sixteen tenure-track faculty members and anticipates searching for **additional tenure-track faculty during the 2022-23 academic year**. The department and the college place a high value on engaging students from traditionally underrepresented groups, and candidates from these groups are especially encouraged to apply. 
+
+- Review of applications will begin by **March 4, 2022** and continue until the search concludes.
+- [Link to application](https://academicjobsonline.org/ajo/jobs/20946)
+
+_[back to deadlines](#deadlines)_
+
 
 ### <a name="haverford"> [FT] Haverford College (PA)</a>
 _[Excerpt] The Department of Computer Science of Haverford College welcomes applications for **a full-time, multi-year Visiting Assistant Professor** for the 2022-2023 academic year. Responsibilities will include teaching five-course units over two semesters - often an effective load of 2-2 or 2-1 once lab supervision is taken into account.   Courses could include introductory CS (CS1 and CS2), discrete mathematics, and/or upper-level elective courses, including supervising lab or discussion sections. There may also be opportunities to advise a set of senior thesis projects, which would count towards the overall teaching units. While there is no research required for this position, active researchers are encouraged to apply and research funding is available to help visitors continue their research activities. Candidates in all areas of Computer Science, Mathematics, and connected fields are encouraged to apply. The successful candidate will have a Ph.D. (ABD considered) and excellent teaching skills and experience. The College and the Department seek candidates who are well prepared to engage students from diverse backgrounds, and equipped to use varied pedagogies in the classroom._
