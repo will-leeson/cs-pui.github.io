@@ -84,6 +84,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 
 ### Fixed-Term Positions
 _You should know that this category includes a wide diversity of positions in terms of resources, length, and university status. And while they are at institutions in which the tenure-track faculty have research resources, it's possible that these positions do not carry the same benefits. Ask lots of questions!_
+- [Carleton College](#carleton) - open until filled (2 positions)
 - [Dickinson College](#dickinson) - open until filled
 - [Mount Holyoke College](#holyoke) - reviewing begins immediately
 - [Bowdoin College](#bowdoin) - November 1
@@ -154,6 +155,13 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Computer Science at Canisius College located in Buffalo, NY, invites applications for a tenure-track Assistant Professor of computer science and cybersecurity, beginning Spring 2022 or Fall 2022. Candidates should show a strong commitment to undergraduate teaching and ability to establish and maintain a high-quality research program that involves undergraduate students. Teaching responsibilities, although flexible, will include courses in the field of cybersecurity as well as courses in computer science at all levels. Additional responsibilities include student advisement and a commitment to departmental and college-wide service._
 - Review of completed applications will begin **October 15, 2021** and will continue until the position is filled.
 - [Link to application](https://careers.canisius.edu/cw/en-us/job/494840/assistant-professor-of-computer-science)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="carleton"> [FT] Carleton College (Minnesota)</a>
+_[Excerpt] Carleton College invites applications for two one-year visiting faculty positions in computer science with the possibility of renewal, beginning September 1, 2022, at the rank of assistant professor or instructor (Ph.D. preferred). We are also open to part-time or part-year appointments.  We seek an enthusiastic computer scientist committed to excellence in teaching in a liberal arts environment. We are particularly interested in candidates committed to teaching a diverse student body. Appointees would be expected to teach a total of six courses over three ten-week trimesters, at a range of levels, from the introductory level to advanced undergraduate courses._
+- Review of completed applications will occur on a rolling basis and will continue until the positions are filled.
+- [Link to application](https://careers.carleton.edu/en-us/job/492813/visiting-assistant-professor-of-computer-science)
 
 _[back to deadlines](#deadlines)_
 
