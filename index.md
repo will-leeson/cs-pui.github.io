@@ -94,7 +94,7 @@ _You should know that this category includes a wide diversity of positions in te
 - [Haverford College](#haverford) - February 15, 2022
 - [Wabash College](#wabash) - February 15, 2022 
 - [Reed College](#reed-ft) - February 28, 2022
-- [Union College (Computer Science)](#union-cs) - May 1
+- [Union College (Computer Science)](#union-cs) - May 1, 2022
 - [Harvey Mudd College](#harvey-mudd) - March 4, 2022
 
 ------------
