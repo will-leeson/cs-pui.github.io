@@ -74,7 +74,8 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 
 - [Cal Poly, San Luis Obispo](#cal-poly-slo) - January 1
 - [Whitman College](#whitman) - January 12 (2 positions)
-- [Union College](#union) - January 15
+- [Union College (Electrical, Computer, Biomedical Engineering)](#union) - January 15
+- [Union College (Computer Science)](#union) - May 1
 - [Connecticut College](#conn) - January 20
 - [Grinnell College](#grinnell) - January 28
 - [Reed College](#reed) - January 31
@@ -432,6 +433,12 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Electrical, Computer and Biomedical Engineering at Union College invites applications for the Mary H. '80 and Richard K. '80 Templeton tenure-track position in Computer Engineering at the rank of Assistant Professor to begin September 1, 2022... This is an endowed position that benefits from an assigned annual allowance to support research and travel and is part of a broader initiative to further strengthen and integrate engineering and computer science with the liberal arts at Union. Excellent candidates in all areas of Computer Engineering will be considered. Preference will be given to candidates with backgrounds or research interests in robotics, cyber-physical systems and applications, embedded systems, novel actuator and sensor technology, or hardware architectures for machine learning. Applicants with a strong background in collaborative undergraduate teaching and/or with interdisciplinary research interests that intersect with arts and humanities are strongly encouraged to apply._
 - Review of complete applications will **begin January 15** and continue until the position is filled
 - [Link to application](https://jobs.union.edu/en-us/job/493010/assistant-professor-computer-engineering)
+
+
+_[Excerpt] Union College invites applications for a three-year faculty position in Computer Science at the rank of Visiting Assistant Professor, beginning September 2022. The Department offers a B.S. in computer science, supports an ABET accredited B.S. in computer engineering with the Electrical, Computer, and Biomedical Engineering Department, and a digital art program with the Visual Arts department. We participate in data analytics and digital media minors and the computational track of the neuroscience major. We offer introductory courses that engage students with a variety of interests. Current faculty research areas include robotics, HCI, NLP, databases, computational complexity, and software design.  At Union, institutional expectations and support are balanced between teaching and research; the ideal candidate will be enthusiastic about teaching, supervising undergraduate research, and sustaining an independent research program. Furthermore, Union recognizes the rich possibilities of interdisciplinary studies by offering opportunities for faculty and students to engage with multiple disciplines - and each other - in collaborative classroom settings, innovative majors, and unique research initiatives. We are therefore particularly interested in candidates who can teach not only core computer science classes but also interdisciplinary courses that connect computing to the arts, humanities, and/or social sciences. The position typically involves teaching two courses in each of our three ten-week trimesters.
+
+- Review of complete applications will **begin March 1** and continue until the position is filled
+- [Link to application](https://cs.union.edu/jobs/ad.html)
 
 _[back to deadlines](#deadlines)_
 
