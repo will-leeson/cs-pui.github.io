@@ -96,6 +96,7 @@ _You should know that this category includes a wide diversity of positions in te
 - [Reed College](#reed-ft) - February 28, 2022
 - [Union College (Computer Science)](#union-cs) - May 1, 2022
 - [Harvey Mudd College](#harvey-mudd) - March 4, 2022
+- [Grinnell College](#grinnell) - March 25, 2022
 
 ------------
 
@@ -216,9 +217,9 @@ _[Excerpt] Dickinson College invites applications for two Visiting Assistant Pro
 _[back to deadlines](#deadlines)_
 
 ### <a name="grinnell"> [P] Grinnell College (Iowa)</a>
-_[Excerpt] The Department of Computer Science invites applications for a tenure-track appointment beginning Fall 2022. Assistant Professor (Ph.D.) preferred; Instructor (ABD) or Associate Professor possible. The Department will prioritize candidates interested in teaching systems courses, but we are eager to consider candidates who conduct research in any area of Computer Science. Candidates with degrees in closely-related fields who have relevant experience will also be considered. Candidates are expected to describe the ways they can support and engage with students and colleagues from historically underrepresented or marginalized groups._
-- Applications received by **January 28, 2022** will receive full consideration.
-- [Link to application](https://jobs.grinnell.edu/postings/4111)
+_[Excerpt] The Department of Computer Science invites applications for a 2-year appointment beginning Fall 2022. Assistant Professor (Ph.D.) preferred; Instructor (ABD) or Associate Professor possible. Candidates with research and teaching interests in any area of Computer Science are encouraged to apply. Candidates with degrees in closely-related fields who have relevant experience will also be considered. The teaching load is five courses (or equivalent; some classes with a significant lab component are credited as 1.5 courses) over two semesters._
+- Applications received by **March 25, 2022** will receive full consideration.
+- [Link to application](https://jobs.grinnell.edu/postings/4240)
 
 _[back to deadlines](#deadlines)_
 
