@@ -80,6 +80,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Reed College](#reed) - January 31
 
 - [Westmont College](#westmont) - February 1 (rolling)
+- [Colby College](#colby-tt) - April 1
 
 
 ### Fixed-Term Positions
@@ -167,11 +168,19 @@ _[Excerpt] Carleton College invites applications for two one-year visiting facul
 
 _[back to deadlines](#deadlines)_
 
-### <a name="colby"> [FT] Colgate University (Maine)</a>
+### <a name="colby"> [FT] Colby College (Maine)</a>
 _[Excerpt] The Department of Computer Science at Colby College, located in Waterville, ME, invites applicants for a 1-year Visiting Assistant Professor position, to begin on September 1, 2022. Applicants must hold, or be close to completing, a Ph.D. in computer science, computer engineering, or a related area. We welcome applications from all areas of computer science, but preference will be given to those who will support students interested in artificial intelligence, an area of focus at Colby with the new Davis Institute for AI. The teaching load is 5 courses for the year._
 - Review of completed applications will begin **January 15, 2022** and will continue until the position is filled.
 - [Link to full job ad](https://cs.colby.edu/Colby-CS-VAP-2022.pdf)
 - [Link to application](http://apply.interfolio.com/99556)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="colby-tt"> [P] Colby College (Maine)</a>
+_[Excerpt] The Department of Computer Science at Colby College, located in Waterville, ME, invites applications for an open rank Tenure-Track position in Computer Science, to start on September 1, 2022. Applicants must hold, or be close to completing, a Ph.D. in computer science, computer engineering, or a related area.  We welcome applications from all research and teaching areas of expertise, but preference will be given to applicants who teach in areas related to artificial intelligence, computer vision, or embedded systems._
+- Review of completed applications will begin **April 1, 2022** and will continue until the position is filled.
+- [Link to full job ad](https://cs.colby.edu/Colby-CS-TT-2122.pdf)
+- [Link to application](https://apply.interfolio.com/103643)
 
 _[back to deadlines](#deadlines)_
 
