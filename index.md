@@ -97,6 +97,7 @@ _You should know that this category includes a wide diversity of positions in te
 - [Reed College](#reed-ft) - February 28, 2022
 - [Union College (Computer Science)](#union-cs) - May 1, 2022
 - [Harvey Mudd College](#harvey-mudd) - March 4, 2022
+- [Barnard College](#barnard) - March 25, 2022
 - [Grinnell College](#grinnell) - March 25, 2022
 - [Williams College](#williams-ft) - March 28, 2022
 
@@ -112,10 +113,10 @@ _[Excerpt] The Amherst College Department of Computer Science invites applicatio
 
 _[back to deadlines](#deadlines)_
 
-### <a name="barnard">[P] Barnard College (New York)</a>
-_[Excerpt] Barnard College invites applications for a tenure-track assistant professor in Computer Science to start July 1, 2022.  Barnard faculty are expected to engage in teaching, research, curriculum and program development, undergraduate advising, and mentoring of undergraduate research.  There is opportunity to collaborate with faculty and students at both Barnard and at Columbia.  The position is open to all areas of computer science as well as to multidisciplinary scholars with a significant computational focus.  We encourage candidates who take a multidisciplinary approach, whether across multiple subareas of computer science, or with research connections to another discipline.  Candidates must have a PhD in Computer Science or a related discipline, and should have a promising research agenda and record of scholarship, as well as a demonstrated commitment to undergraduate teaching, mentoring, and increasing diversity in computer science._
-- Applications received by **October 22, 2021**, will be assured of full consideration
-- [Link to application](https://cs.barnard.edu/assistant-professor-computer-science-2022)
+### <a name="barnard">[FT] Barnard College (New York)</a>
+_[Excerpt] Barnard seeks to hire a recent Ph.D. graduate as an endowed Roman Family Teaching and Research Fellow in Computer Science at Barnard for the academic year beginning July 1, 2022. The Roman Family Teaching and Research Fellow in Computer Science position is a full-time two-year faculty position with the option of extending for a third year. Fellows will engage in teaching (two courses per year) and in research, and will be expected to participate in curriculum and program development, undergraduate advising, and mentoring of undergraduate research. The position is open to all areas of computer science as well as to multidisciplinary scholars with a significant computational focus. We encourage candidates who take a multidisciplinary approach, whether across multiple subareas of computer science, or with another discipline. Candidates must have a PhD in Computer Science or a related discipline by the start date, and should have a promising research agenda and record of scholarship and a demonstrated commitment to undergraduate teaching, mentoring, and increasing diversity in computer science._
+- Applications received by **March 25, 2022**, will be assured of full consideration
+- [Link to application](https://cs.barnard.edu/roman-fellow)
 
 _[back to deadlines](#deadlines)_
 
