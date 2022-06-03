@@ -1,0 +1,64 @@
+:root {
+    /* ---- COLORS ---- */
+    --title-link-color: rgb(145,20,20);
+    --title-link-hover-color: rgb(249, 71, 55);
+    --author-text-color: #474747;
+    --me-text-color: black;
+    --desc-text-color: rgb(87, 87, 87);
+    --other-link-color: rgb(145,20,20);
+    --other-link-hover-color: rgb(249, 71, 55);
+    --venue-text-color: rgb(87, 87, 87);
+
+    /* ---- FONT SIZES ---- */
+    --type-size: 0.7em;
+    --title-size: 0.95em;
+    --award-size: 0.85em;
+    --author-size: 0.75em;
+    --desc-size: 0.75em;
+    --supp-size: 0.75em;
+    --venue-size: 0.75em;
+
+    /* ---- ICON/IMG SIZES ---- */
+    --award-icon-size: 1em;
+    --thumbnail-size: 4em;
+}
+
+
+div.jobs h3 {
+    font-weight: 400;
+    margin-bottom: 0.25em;
+}
+
+div.jobs h3::before {
+    content: "🎓  ";
+    margin-right: 0.5em;
+}
+
+
+
+div.jobs p {
+    font-weight: 200;
+    font-size: 0.85em;
+}
+
+div.jobs ul {
+    list-style: none;
+    margin-left: 0em;
+    font-weight: 200;
+    font-size: 0.9em;
+}
+
+div.jobs li:first-child::before {
+    content: "🗓️  ";
+    margin-right: 1em;
+}
+
+div.jobs li:nth-child(2)::before {
+    content: "🌎  ";
+    margin-right: 1em;
+}
+
+div.jobs li:nth-child(3)::before {
+    content: "👉  ";
+    margin-right: 1em;
+}
