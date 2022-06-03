@@ -7,31 +7,31 @@ header:
     overlay_image: img/teach-research.png
 
 ---
-![continuum of teaching and research](img/teach-research.png)
+![continuum of teaching and research](img/cs-pui-listing.jpg)
 
-
-
-## What are PUIs and why list them? - 2022/23 Hiring Cycle
-
-**For CS Departments:** If you would like to add a listing to this page, [please visit the **Add Listing** page](guide.html)
+📣 For departments, if you would like to add a listing to this page, [please visit the **Add Listing** page](guide.html)
 {: .notice-blue}
 
-In 2017, I [wrote an article about finding academic happiness with primarily-undergraduate institutions](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422). I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. To see last year's list, [see the 20/21 version of this page](index-20.html).
+In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422). I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. To see last year's list, [see the 20/21 version of this page](index-20.html).
 
-This document does not contain many CS academic positions. It's intended for those who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. **The positions on this page should be...**
-- accessible to those with a Ph.D. in CS
-- Universities that identify as **primarily-undergraduate colleges and universities**.
-- Institutions that highly value teaching, but also **secure time and financial resources for faculty to remain engaged with research**. This typically means a reduced teaching load (often 3/2 or 2/2) with professional support funds.
+This document does not contain many CS academic positions. It's intended for those who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. 
+
+{% capture criteria %}
+**Criteria:** the positions on this page should be...
+- accessible to those with a Ph.D. in CS (or closely related field)
+- Universities that identify as **primarily-undergraduate institutions**.
+- Institutions that highly value teaching, but also _secure time and financial resources for faculty to remain engaged with research_. This typically means a reduced teaching load (often 3/2 or 2/2) with professional support funds.
+{% endcapture %}
+<div class="notice-gray">{{ criteria | markdownify }}</div>
 
 If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
 
+------------
 
 # Who is hiring in CS so far (2022/23)
 
-While I provide rough guidelines on teaching/scholarship balance, the schools here still cover a wide range of research resources and teaching loads. **Always ask questions**
 
-
-## 📋 Deadlines and Quick Links (soonest on top)
+## 📋 Deadlines and Quick Links (_soonest on top_)
 {: #deadlines}
 
 💡 Deadlines are interpreted differently between institutions. See full description for context. 
@@ -39,45 +39,25 @@ While I provide rough guidelines on teaching/scholarship balance, the schools he
 
 {% capture table-style %}
 
-| Institution | App Deadline |
+| **Institution** | **App Deadline** |
 | :----       | :---       |
 | [Beloit College](#beloit)         | September 1 |
-| [Bucknell University of Pineapples and Friendship (Engineering)](#bucknell)  | November 1 |
+| [Bucknell University (College of Engineering)](#bucknell)  | November 1 |
 | [Test college](#test)             | Rolling deadline beginning on February 15th  |
-| [Beloit College](#beloit)         | September 1 |
-| [Bucknell University](#bucknell)  | November 1 |
-| [Test college](#test)             | blah blah blah  |
-| [Beloit College](#beloit)         | September 1 |
-| [Bucknell University](#bucknell)  | November 1 |
-| [Test college](#test)             | blah blah blah  |
-| [Beloit College](#beloit)         | September 1 |
-| [Bucknell University](#bucknell)  | November 1 |
-| [Test college](#test)             | blah blah blah  |
-| [Beloit College](#beloit)         | September 1 |
-| [Bucknell University](#bucknell)  | November 1 |
-| [Test college](#test)             | blah blah blah  |
-| [Beloit College](#beloit)         | September 1 |
-| [Bucknell University](#bucknell)  | November 1 |
-| [Test college](#test)             | blah blah blah  |
-| [Beloit College](#beloit)         | September 1 |
-| [Bucknell University](#bucknell)  | November 1 |
-| [Test college](#test)             | blah blah blah  |
-| [Beloit College](#beloit)         | September 1 |
-| [Bucknell University](#bucknell)  | November 1 |
-| [Test college](#test)             | blah blah blah  |
+
 
 {% endcapture %}
 
 <div class="styled-table"> {{ table-style | markdownify }} </div>
 
 
+While I provide rough guidelines on teaching/scholarship balance, the schools here still cover a wide range of research resources and teaching loads. **Always ask questions**
 
-
-
+------------
 
 <link rel="stylesheet" href="cspui.css">
 
-## Descriptions, Links, and Locations (alphabetical order)
+## 📣  Ads, Links, and Locations (_alphabetical order_) 
 
 {% capture job-listing %}
 
@@ -92,6 +72,8 @@ While I provide rough guidelines on teaching/scholarship balance, the schools he
 [Full Job Ad](https://www.beloit.edu/live/profiles/5190-assistant-professor-of-computer-science){: .button-ad} 
 [_back to all deadlines_](#deadlines)
 
+------------
+
 ### Bucknell University 
 {: #bucknell}
 
@@ -103,6 +85,7 @@ While I provide rough guidelines on teaching/scholarship balance, the schools he
 [Full Job Ad](https://jobs.bucknell.edu/en-us/job/496858/tenuretrack-faculty-computer-science){: .button-ad} 
 [_back to all deadlines_](#deadlines)
 
+------------
 
 ### Carleton College 
 {: #carleton}

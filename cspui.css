@@ -1,46 +1,41 @@
-:root {
-    /* ---- COLORS ---- */
-    --title-link-color: rgb(145,20,20);
-    --title-link-hover-color: rgb(249, 71, 55);
-    --author-text-color: #474747;
-    --me-text-color: black;
-    --desc-text-color: rgb(87, 87, 87);
-    --other-link-color: rgb(145,20,20);
-    --other-link-hover-color: rgb(249, 71, 55);
-    --venue-text-color: rgb(87, 87, 87);
 
-    /* ---- FONT SIZES ---- */
-    --type-size: 0.7em;
-    --title-size: 0.95em;
-    --award-size: 0.85em;
-    --author-size: 0.75em;
-    --desc-size: 0.75em;
-    --supp-size: 0.75em;
-    --venue-size: 0.75em;
 
-    /* ---- ICON/IMG SIZES ---- */
-    --award-icon-size: 1em;
-    --thumbnail-size: 4em;
+p {
+    font-weight: 300;
+    font-size: 1em;
 }
 
+h2 {
+    font-weight: 400;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+hr {
+    border: 0px;
+    border-top: 2px dotted lightgrey;
+}
 
 /* ---------- Listing Title -------*/
 div.jobs h3 {
-    margin-top: 2em;
     font-weight: 500;
     margin-bottom: 0.25em;
+    margin-top: 1em;
 }
 
 div.jobs h3::before {
     content: "🎓  ";
     margin-right: 0.5em;
+
 }
 
 
 /* ---------- Listing Text -------*/
 div.jobs p {
     font-weight: 200;
-    font-size: 0.95em;
+    font-size: 1em;
     margin-bottom: 0.5em;
 }
 
@@ -93,6 +88,7 @@ div.jobs li:nth-child(3)::before {
   line-height: 1.15385;
   margin: 0;
   margin-right: 2em;
+  margin-bottom: 1em;
   outline: none;
   padding: 8px .8em;
   position: relative;
@@ -150,22 +146,34 @@ p.notice-blue {
     
 }
 
-p.notice-gray {
+.notice-gray p{
     font-size: 0.9em;
     font-weight: 300;
+    margin-bottom: 0.5em;
 }
+
+.notice-gray ul{
+    list-style: none;
+    font-size: 0.9em;
+    font-weight: 300;
+    margin-bottom: 0em;
+    margin-left: 0em;
+}
+
+div.notice-gray li::before {
+    content: "✅  ";
+    margin-right: 1em;
+}
+
 
 
 /* --------- STYLED TABLE --------------- */
 
 .styled-table {
     border-collapse: collapse;
-    /* margin: 25px 0; */
-    font-size: 0.9em;
-    /* font-family: sans-serif; */
     min-width: 400px;
     /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
-    width: 75%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -175,6 +183,8 @@ p.notice-gray {
 .styled-table th,
 .styled-table td {
     padding: 2px 15px;
+    font-size: 0.9em;
+    font-weight: 300;
 }
 
 .styled-table tbody tr {
@@ -186,11 +196,11 @@ p.notice-gray {
 } */
 
 .styled-table tbody tr:last-of-type {
-    border-bottom: 2px solid #009879;
+    border-bottom: 2px solid #000398;
 }
 
 div.styled-table table thead tr th {
-    background-color: #009879;
+    background-color: #000398;
     color: #ffffff;
     text-align: left;
 }
