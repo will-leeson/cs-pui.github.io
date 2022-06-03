@@ -24,8 +24,10 @@
 }
 
 
+/* ---------- Listing Title -------*/
 div.jobs h3 {
-    font-weight: 400;
+    margin-top: 2em;
+    font-weight: 500;
     margin-bottom: 0.25em;
 }
 
@@ -35,22 +37,33 @@ div.jobs h3::before {
 }
 
 
-
+/* ---------- Listing Text -------*/
 div.jobs p {
     font-weight: 200;
-    font-size: 0.85em;
+    font-size: 0.95em;
+    margin-bottom: 0.5em;
 }
 
+/* ---------- Listing list info -------*/
 div.jobs ul {
     list-style: none;
     margin-left: 0em;
+    margin-top: 0.5em;
     font-weight: 200;
-    font-size: 0.9em;
+    font-size: 1em;
 }
 
 div.jobs li:first-child::before {
     content: "🗓️  ";
     margin-right: 1em;
+}
+
+div.jobs li:first-child strong {
+    background-color: #1f5ce9be;
+    color: white;
+    border-radius: 3px;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
 }
 
 div.jobs li:nth-child(2)::before {
@@ -61,4 +74,123 @@ div.jobs li:nth-child(2)::before {
 div.jobs li:nth-child(3)::before {
     content: "👉  ";
     margin-right: 1em;
+}
+
+
+/* --------- BUTTON CSS --------------- */
+.button-ad {
+  background-color: #e1ecf4;
+  border-radius: 3px;
+  border: 1px solid #7aa7c7;
+  box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+  box-sizing: border-box;
+  color: #39739d;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.15385;
+  margin: 0;
+  margin-right: 2em;
+  outline: none;
+  padding: 8px .8em;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+.button-ad:hover,
+.button-ad:focus {
+  background-color: #b3d3ea;
+  color: #2c5777;
+}
+
+.button-ad:focus {
+  box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.button-ad:active {
+  background-color: #a0c7e4;
+  box-shadow: none;
+  color: #2c5777;
+}
+
+
+/* --------- NOTICE CSS --------------- */
+
+.notice-blue {
+    margin: 1em 0 !important;
+    padding: 1em;
+    text-indent: initial; /* override*/
+    background-color: #52acc827;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px #31677785;
+    
+}
+
+p.notice-blue {
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+
+.notice-gray {
+    margin: 1em 0 !important;
+    padding: 1em;
+    text-indent: initial; /* override*/
+    background-color: #f3f3f3;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px #d3d2d2;
+    
+}
+
+p.notice-gray {
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+
+/* --------- STYLED TABLE --------------- */
+
+.styled-table {
+    border-collapse: collapse;
+    /* margin: 25px 0; */
+    font-size: 0.9em;
+    /* font-family: sans-serif; */
+    min-width: 400px;
+    /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.styled-table th,
+.styled-table td {
+    padding: 2px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+/* .styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+} */
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+div.styled-table table thead tr th {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
 }
