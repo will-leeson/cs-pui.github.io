@@ -1,6 +1,6 @@
 
 
-p {
+p, ul {
     font-weight: 300;
     font-size: 1em;
 }
@@ -133,6 +133,23 @@ div.jobs li:nth-child(3)::before {
 p.notice-blue {
     font-size: 0.9em;
     font-weight: 300;
+}
+
+
+.notice-red {
+    margin: 1em 0 !important;
+    padding: 1em;
+    text-indent: initial; /* override*/
+    background-color: #f48f8f58;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px #d3d2d2;
+    
+}
+
+.notice-red p{
+    font-size: 0.9em;
+    font-weight: 300;
+    margin-bottom: 0.5em;
 }
 
 
