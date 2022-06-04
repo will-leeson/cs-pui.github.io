@@ -11,22 +11,22 @@ header:
 
 ![continuum of teaching and research](img/cs-pui-listing.jpg)
 
-📣 **This website is currently under revision in preparation for the 2022-23 hiring cycle.** Don't be surprised if you stumble on some errors here and there. If you want to see previous versions, check our [archived listings from previous years](faq/#archive)
+📣 **This website is currently under revision in preparation for the 2022-23 hiring cycle.** Don't be surprised if you stumble on some errors here and there. If you want to see previous versions, check our [archived listings from previous years](faq#archive)
 {: .notice-red}
 
 <!-- 📣 For departments, if you would like to add a listing to this page, [please visit the **Add Listing** page](guide.html)
 {: .notice-blue} -->
 
-In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422). I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. [See archived listings from previous years](faq/#archive).
+In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422). I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. [See archived listings from previous years](faq#archive).
 
 This document does _not_ contain most CS academic positions. It's intended for those who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. 
 
 {% capture criteria %}
 **Criteria:** the positions on this page should be...
 - accessible to those with a Ph.D. in CS (or a closely related field)
-- permanent positions (mostly likely tenure-track) [_why?_](faq/#scope)
-- Universities that identify as **primarily-undergraduate institutions** [_why?_](faq/#scope)
-- Institutions that highly value teaching, but also _secure time and financial resources for faculty to remain engaged with research_. [_what does this mean?_](faq/#research)
+- permanent positions (mostly likely tenure-track) [_why?_](faq#scope)
+- Universities that identify as **primarily-undergraduate institutions** [_why?_](faq#scope)
+- Institutions that highly value teaching, but also _secure time and financial resources for faculty to remain engaged with research_. [_what does this mean?_](faq#research)
 {% endcapture %}
 <div class="notice-gray">{{ criteria | markdownify }}</div>
 
