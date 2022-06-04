@@ -40,7 +40,7 @@ If you are considering entering the job market, I'd encourage you to visit the [
 {: .notice-blue}
 
 {% capture table-style %}
-{% include_relative deadlines.md %}
+{% include deadlines.md %}
 {% endcapture %}
 <div class="styled-table"> {{ table-style | markdownify }} </div>
 
@@ -52,6 +52,6 @@ While I provide rough guidelines on teaching/scholarship balance, the schools he
 ## 📣  Ads, Links, and Locations (_alphabetical order_) 
 
 {% capture job-listing %}
-{% include_relative descriptions.md %}
+{% include descriptions.md %}
 {% endcapture %}
 <div class="jobs"> {{ job-listing | markdownify }} </div>
