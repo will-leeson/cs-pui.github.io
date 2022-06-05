@@ -25,10 +25,11 @@ This document does _not_ contain most CS academic positions. It's intended for t
 **Criteria:** the positions on this page should be...
 - accessible to those with a Ph.D. in CS (or a closely related field)
 - permanent positions (mostly likely tenure-track) [_why?_](faq#scope)
-- Universities that identify as **primarily-undergraduate institutions** [_why?_](faq#scope)
-- Institutions that highly value teaching, but also _secure time and financial resources for faculty to remain engaged with research_. [_what does this mean?_](faq#research)
+- universities that identify as **primarily-undergraduate institutions** [_why?_](faq#scope)
+- institutions that highly value teaching, but also _secure time and financial resources for faculty to remain engaged with research_. [_what does this mean?_](faq#research)
 {% endcapture %}
 <div class="notice-gray">{{ criteria | markdownify }}</div>
+{: #criteria}
 
 If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
 

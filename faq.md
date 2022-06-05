@@ -1,10 +1,9 @@
 ---
 layout: page
+title: FAQ
 ---
 <link rel="stylesheet" href="../cspui.css">
 
-
-# Frequently Asked Questions (FAQ)
 
 ------------
 
@@ -67,5 +66,5 @@ There really isn't a hard set of rules here. However, many schools on our list h
 #### ❓ Can I put my school on the list if we have some grad students?  
 {: #grad}
 
-There is a lot of muddy ground here. In general, I don't include programs that graduate Ph.D. students.Most of the schools here either don't have Masters students _or_ graduate so few each year that they qualify as a liberal arts college. That being said, there are some schools on this list each year that are intensely undergraduate-focused even with larger Masters programs (and seem to have many other characteristics that look like a PUI). I'm happy to include those institutions. 
+There is a lot of muddy ground here. In general, I don't include programs that graduate Ph.D. students. Most of the schools here either don't have Masters students _or_ graduate so few each year that they qualify as a liberal arts college. That being said, there are some schools on this list each year that are intensely undergraduate-focused even with larger Masters programs (and seem to have many other characteristics that look like a PUI). I'm happy to include those institutions. 
   
