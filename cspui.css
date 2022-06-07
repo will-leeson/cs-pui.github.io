@@ -193,7 +193,7 @@ div.notice-gray li::before {
     border-collapse: collapse;
     min-width: 400px;
     /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
-    width: 80%;
+    width: 95%;
     margin-left: auto;
     margin-right: auto;
 }
