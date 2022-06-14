@@ -4,9 +4,6 @@ title: FAQ
 ---
 <link rel="stylesheet" href="../cspui.css">
 
-
-------------
-
 #### ❓ Who maintains this site? 
 {: #who}
 
@@ -14,7 +11,7 @@ The website is primarily run by [Evan Peck (Associate Prof of Computer Science a
 
 ------------
 
-#### ❓ How much does this cost for departments to post? 
+#### ❓ How much does it cost for departments to post? 
 {: #cost}
 
 Nothing. It's free. 
@@ -40,6 +37,32 @@ I'd like to think that's pretty good impact-per-dollar-spent.
 - [2018-2019 Hiring Cycle](https://mobile.twitter.com/EvanMPeck/status/1040402908657934336) - job ads were kept track in a running Twitter thread this year
 
 ------------
+
+#### ❓ When are ads typically posted? 
+{: #posted}
+
+Below, you can see the distribution of when ads were _first_ posted during the 2021-2022 hiring season. 
+
+![Bar graph showing distribution of ad postings from last year - there is an early cluster at the beginning of August, and with some exceptions, another larger cluster starting in mid-September through the beginning of October... then sporadic additions until December.](img/adsByDate-21.jpg)
+
+Some nuance to the data: 
+- Dates are based on when they appeared on this website and may not reflet the official date the ad was released. 
+- While ads typically appear here pretty quickly, there is occasionally some lag, so it's better to look for general trends with this chart. 
+- Some CS departments post 'ad forthcoming' here weeks before their official ad is live
+
+-------------
+#### ❓ When do most schools set deadlines? 
+{: #deadlines}
+
+Below, you can see the distribution of when application deadlines from the 2021-2022 hiring season. You can see that the center of gravity seems to fall in the 2nd half of october. 
+
+![Bar graph showing the distribution of job ads posted by date - while postings are as early as Sept 1 and as late as Feb 1, there is a strong cluster between October 15 and November 1st](img/deadlinesByDate-21.jpg)
+
+Some nuance to the data: 
+- Dates are based on the **final** deadlines at [cs-pui.github.io/index-21](https://cs-pui.github.io/index-21). A couple of the later dates are pretty misleading. They were initially set much earlier in the fall, but shifted later at some point (for a variety of reasons)
+- Quite a few departments still consider applications submitted after deadlines
+
+-------------
 
 #### ❓ Why limit the website to just permanent/tenure-track positions - what about _teaching-track faculty_ or _fixed-term positions_? We need those too! 
 {: #scope}
