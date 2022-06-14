@@ -19,7 +19,7 @@ header:
 
 In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422). I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. [See archived listings from previous years](faq#archive).
 
-This document does _not_ contain most CS academic positions. It's intended for those who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. 
+This document does _not_ contain most CS faculty positions. It's specifically intended for people who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. 
 
 {% capture criteria %}
 **Criteria:** the positions on this page should be...
@@ -31,7 +31,7 @@ This document does _not_ contain most CS academic positions. It's intended for t
 <div class="notice-gray">{{ criteria | markdownify }}</div>
 {: #criteria}
 
-If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
+While I provide rough guidelines on teaching/scholarship balance, the schools here still cover a wide range of research resources and teaching loads. If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
 
 ------------
 
@@ -41,7 +41,7 @@ If you are considering entering the job market, I'd encourage you to visit the [
 ## 📋 Deadlines and Quick Links (_soonest on top_)
 {: #deadlines}
 
-💡 Deadlines are interpreted differently between institutions. See full description for context. 
+💡 **Deadlines are treated very differently between institutions**. For example, many departments accept applications well after their posted deadlines. I _strongly_ encourage you to email search chairs if you're interested in positions that appear to have passed (they might still be open!).
 {: .notice-blue}
 
 {% capture table-style %}
@@ -49,8 +49,6 @@ If you are considering entering the job market, I'd encourage you to visit the [
 {% endcapture %}
 <div class="styled-table"> {{ table-style | markdownify }} </div>
 
-
-While I provide rough guidelines on teaching/scholarship balance, the schools here still cover a wide range of research resources and teaching loads. **Always ask questions**
 
 ------------
 
