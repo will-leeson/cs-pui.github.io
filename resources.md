@@ -11,3 +11,4 @@ While I don't expect to have a lengthy resources list here, there are a couple I
 
 
 _If you come across other resources, [submit a pull request on this page](https://github.com/cs-pui/cs-pui.github.io/blob/master/resources.md) or email me at `evan.peck@bucknell.edu`_
+
