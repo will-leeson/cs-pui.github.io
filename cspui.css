@@ -124,19 +124,18 @@ div.jobs li:nth-child(3)::before {
 
 /* --------- NOTICE CSS --------------- */
 
-.notice-blue {
+.notice {
     margin: 1em 0 !important;
     padding: 1em;
     text-indent: initial; /* override*/
-    background-color: #52acc827;
     border-radius: 4px;
-    box-shadow: 0 1px 1px #31677785;
-    
-}
-
-p.notice-blue {
     font-size: 0.9em;
     font-weight: 300;
+}
+
+.notice-blue {
+    background-color: #52acc827;
+    box-shadow: 0 1px 1px #31677785;
 }
 
 
@@ -147,15 +146,9 @@ p.notice-blue {
     background-color: #f48f8f58;
     border-radius: 4px;
     box-shadow: 0 1px 1px #d3d2d2;
-    
-}
-
-p.notice-red {
     font-size: 0.9em;
     font-weight: 300;
-    /* margin-bottom: 0.5em; */
 }
-
 
 .notice-gray {
     margin: 1em 0 !important;
