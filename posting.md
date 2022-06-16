@@ -1,37 +1,83 @@
 ---
 layout: page
+title: Post an Ad
 ---
 <link rel="stylesheet" href="cspui.css">
 
-### Adding your position to CS-PUI
+<!-- ## Adding your position to CS-PUI (2022/23) -->
+{% capture help %}
+💡 Feel free to email me at `evan.peck@bucknell.edu` if you run into any problems or need help.
+{% endcapture %}
+<div class="notice notice-blue">{{ help | markdownify }}</div>
 
-While I often try to post positions quickly after they go live, 
+While I often try to post positions quickly after they go live on popular job-posting website (CRA, higheredjobs), departments can also add their own advertisements to the site. **Make sure your department and university aligns with the website criteria**. [See the criteria](index#criteria)
 
-If you belong to a CS department (or just happen to catch a listing before I do), you can [**submit pull requests to add your own information.**](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+**There are two options:** 
+1. You can add your information by editing our Github repository (and eventually creating a pull request). To do this, follow the instructions on the page below. 
+2. You can [fill out a Google Form with the required information](https://forms.gle/FedftNPjrULwYrFu8) and I can modify our home page for you. 
 
+------------
+### Adding your position via Github
+This is the preferred way for you to add positions because it gives you full control. 
 
-**Steps:** the positions on this page should be...
-1. _Make sure your department and university aligns with the criteria_. I'd prefer to give everyone the benefit of the doubt and not act as a filter. [see the criteria](index#criteria)
-2. Edit [`deadlines.md`](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/deadlines.md) with your application deadline [see more instructions](faq#scope)
-3. Edit [`descriptions.md`](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/descriptions.md) with an excerpt from your ad, location, link, and deadline. 
+{% capture worry %}
+💡 **Don't worry about breaking things.** If you're a little worried about messing up the website accidentally, _don't_! We have to approve all additions before they go live (that's how pull requests on Github work), and try to double-check all additions. 
+{% endcapture %}
+<div class="notice notice-blue">{{ worry | markdownify }}</div>
 
-Feel free to email me at `evan.peck@bucknell.edu` if you run into any problems or need help with the process. I'm happy to add information for people who don't feel comfortable with the pull request process.
+1. Edit [`deadlines.md`](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/deadlines.md) with your app deadline, anchor link, and location (instructions below)
+2. Edit [`descriptions.md`](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/descriptions.md) with an excerpt from your ad, location, link, and deadline (instructions below)
 
 ----------------
 
-### ✅ Add your Deadline
+#### ✅ 1. Add your deadline
 
-1. [Edit the `deadlines.md` files linked here](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/deadlines.md) by clicking the `Edit this file` button (a small pencil)
-2. 
+👉 Edit the [`deadlines.md` file](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/deadlines.md) linked here. 
+
+The [table presented on the front page](/#deadlines) is represented in markdown in the following format: 
+
+```markdown
+| **Institution** | **Location** | **App Deadline** |
+| :----       | :---       | :--- |
+| [Lorem College](#lorem)   | Arpinum, Italy | 09/01/2022 |
+| [Me University](#me)      | Center of the universe, USA | 10/15/2022 (open until filled) |
+| [Ipsum University](#ipsum) | Lewisburg, PA  | 11/01/2022 |
+```
+
+_add your institution, preferred anchor name, location, and date_ to the table, keeping the table sorted such that earlier dates are on top. 
+
+**Example 1**: If you wanted to add `Bucknell University` with an app date of `10/16/2022`, the table should look like this: 
+
+```markdown
+| **Institution** | **Location** | **App Deadline** |
+| :----       | :---       | :--- |
+| [Lorem College](#lorem)   | Arpinum, Italy | 09/01/2022 |
+| [Me University](#me)      | Center of the universe, USA | 10/15/2022 (open until filled) |
+| [Bucknell University](#bucknell) | Lewisburg, PA | 10/16/2022 |
+| [Ipsum University](#ipsum) | Lewisburg, PA  | 11/01/2022 |
+```
+
+**Example 2**: Forthcoming ads should be placed at the bottom of the list. So if I wanted to create a forthcoming adverstisement for Hogwarts, it would look like this: 
+
+```markdown
+| **Institution** | **Location** | **App Deadline** |
+| :----       | :---       | :--- |
+| [Lorem College](#lorem)   | Arpinum, Italy | 09/01/2022 |
+| [Me University](#me)      | Center of the universe, USA | 10/15/2022 (open until filled) |
+| [Bucknell University](#bucknell) | Lewisburg, PA | 10/16/2022 |
+| [Ipsum University](#ipsum) | Lewisburg, PA  | 11/01/2022 |
+| [Hogwarts School of Witchcraft and Wizardry](#hogwarts) | Scotland Highlands | forthcoming |
+```
 
 ----------------
 
-### ✅ Adding your Description 
+#### ✅ 2. Add your description 
 
-[Access the `descriptions.md` files linked here](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/descriptions.md)
+👉 Edit the [`descriptions.md`](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/descriptions.md) file linked here
 
 Given the following template, modify it with your advertisement's information (see [worked example below](#desc-example)), and then copy-paste it into [`descriptions.md`](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/descriptions.md), making sure that it is in correct alphabetical order with respect to other institutions. 
-```
+
+```markdown
 ### University Name
 {: #university-anchor}
 
@@ -47,12 +93,32 @@ Given the following template, modify it with your advertisement's information (s
 ```
 
 {% capture formatting %}
-💡 **The spacing and ordering is important for a correct CSS interpretation**. For example:
+🚨 **The spacing and ordering is important for a correct CSS interpretation**. For example:
 -  the `**` bold markers in the 1st bullet point will style your date with a blue box. 
-- Keeping no line spacing between the `Full Job Ad` and `_back to all deadlines_` will ensure the buttons are next to each other
+- Keep no line spacing between the `Full Job Ad` and `_back to all deadlines_`. This will ensure the buttons are next to each other (see example below)
 {% endcapture %}
-<div class="notice-blue">{{ formatting | markdownify }}</div>
+<div class="notice notice-red">{{ formatting | markdownify }}</div>
 
+
+
+If you would like to add a _forthcoming position_, just leave out most of the information like this: 
+
+```markdown
+### University Name
+{: #university-anchor}
+
+[Excerpt] Ad is forthcoming
+
+- Ad is forthcoming - TBA
+- 2nd bullet should include your location
+
+[_back to all deadlines_](#deadlines)
+
+------------
+```
+
+
+--------- 
 
 #### _Example: Ipsum University_
 {: #desc-example}

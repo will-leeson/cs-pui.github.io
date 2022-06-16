@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Add Listing
 ---
 
 This website is manually updated. 

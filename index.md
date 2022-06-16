@@ -11,13 +11,13 @@ header:
 
 ![continuum of teaching and research](img/cs-pui-listing.jpg)
 
-📣 **This website is currently under revision in preparation for the 2022-23 hiring cycle.** Don't be surprised if you stumble on some errors here and there. If you want to see previous versions, check our [archived listings from previous years](faq#archive)
-{: .notice-red}
+<!-- 📣 **This website is currently under revision in preparation for the 2022-23 hiring cycle.** Don't be surprised if you stumble on some errors here and there. If you want to see previous versions, check our [archived listings from previous years](faq#archive)
+{: .notice .notice-red} -->
 
-<!-- 📣 For departments, if you would like to add a listing to this page, [please visit the **Add Listing** page](guide.html)
-{: .notice-blue} -->
+📣 **If you would like to add your department's position**, it's free as long as you meet the criteria listed below. [Please visit the **Post an Ad** page](/posting) for logistical details or the [**FAQ**](/faq) for more info about this site. 
+{: .notice .notice-blue}
 
-In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422). I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. [See archived listings from previous years](faq#archive).
+In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) because of the compelling balance they offer between teaching and research. I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. [See archived listings from previous years](faq#archive).
 
 This document does _not_ contain most CS faculty positions. It's specifically intended for people who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. 
 
@@ -28,7 +28,7 @@ This document does _not_ contain most CS faculty positions. It's specifically in
 - universities that identify as **primarily-undergraduate institutions** [_why?_](faq#scope)
 - institutions that highly value teaching, but also _secure time and financial resources for faculty to remain engaged with research_. [_what does this mean?_](faq#research)
 {% endcapture %}
-<div class="notice-gray">{{ criteria | markdownify }}</div>
+<div class="notice notice-gray">{{ criteria | markdownify }}</div>
 {: #criteria}
 
 While I provide rough guidelines on teaching/scholarship balance, the schools here still cover a wide range of research resources and teaching loads. If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
@@ -42,7 +42,7 @@ While I provide rough guidelines on teaching/scholarship balance, the schools he
 {: #deadlines}
 
 💡 **Deadlines are treated very differently between institutions**. For example, many departments accept applications well after their posted deadlines. I _strongly_ encourage you to email search chairs if you're interested in positions that appear to have passed (they might still be open!).
-{: .notice-blue}
+{: .notice .notice-blue}
 
 {% capture table-style %}
 {% include deadlines.md %}

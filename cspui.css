@@ -3,6 +3,7 @@
 p, ul, ol {
     font-weight: 300;
     font-size: 1em;
+    margin-bottom: 15px;
 }
 
 code {
@@ -14,7 +15,7 @@ h2 {
 }
 
 h1 {
-    font-weight: 700;
+    font-weight: 500;
 }
 
 hr {
@@ -34,7 +35,6 @@ div.jobs h3::before {
     margin-right: 0.5em;
 
 }
-
 
 /* ---------- Listing Text -------*/
 div.jobs p {
@@ -133,43 +133,28 @@ div.jobs li:nth-child(3)::before {
     font-weight: 300;
 }
 
+.notice ul, .notice p {
+    margin-bottom:0em;
+}
+
 .notice-blue {
     background-color: #52acc827;
     box-shadow: 0 1px 1px #31677785;
 }
 
-
 .notice-red {
-    margin: 1em 0 !important;
-    padding: 1em;
-    text-indent: initial; /* override*/
     background-color: #f48f8f58;
-    border-radius: 4px;
     box-shadow: 0 1px 1px #d3d2d2;
-    font-size: 0.9em;
-    font-weight: 300;
 }
 
+/* notice-gray is used for checkbox lists */
 .notice-gray {
-    margin: 1em 0 !important;
-    padding: 1em;
-    text-indent: initial; /* override*/
     background-color: #f3f3f3;
-    border-radius: 4px;
     box-shadow: 0 1px 1px #d3d2d2;
-}
-
-.notice-gray p{
-    font-size: 0.9em;
-    font-weight: 300;
-    margin-bottom: 0.5em;
 }
 
 .notice-gray ul{
     list-style: none;
-    font-size: 0.9em;
-    font-weight: 300;
-    margin-bottom: 0em;
     margin-left: 0em;
 }
 
