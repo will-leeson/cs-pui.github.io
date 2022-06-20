@@ -11,10 +11,10 @@ The website is primarily run by [Evan Peck (Associate Prof of Computer Science a
 
 ------------
 
-#### ❓ How much does it cost for departments to post? 
+#### ❓ How much does it cost for departments to post? How do I post?
 {: #cost}
 
-Nothing. It's free. 
+It costs _nothing_. Please visit [our posting page](/posting) for more information about listing your advertisement. 
 
 ------------
 

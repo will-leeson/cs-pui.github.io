@@ -31,7 +31,7 @@ This document does _not_ contain most CS faculty positions. It's specifically in
 <div class="notice notice-gray">{{ criteria | markdownify }}</div>
 {: #criteria}
 
-While I provide rough guidelines on teaching/scholarship balance, the schools here still cover a wide range of research resources and teaching loads. If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
+If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
 
 ------------
 

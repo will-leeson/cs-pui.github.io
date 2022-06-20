@@ -5,25 +5,24 @@ title: Post an Ad
 <link rel="stylesheet" href="cspui.css">
 
 <!-- ## Adding your position to CS-PUI (2022/23) -->
-{% capture help %}
-💡 Feel free to email me at `evan.peck@bucknell.edu` if you run into any problems or need help.
-{% endcapture %}
-<div class="notice notice-blue">{{ help | markdownify }}</div>
 
-While I often try to post positions quickly after they go live on popular job-posting website (CRA, higheredjobs), departments can also add their own advertisements to the site. **Make sure your department and university aligns with the website criteria**. [See the criteria](index#criteria)
+💡 You can email me at `evan.peck@bucknell.edu` if you run into any problems or need help.
+{: .notice .notice-blue}
 
-**There are two options:** 
-1. You can add your information by editing our Github repository (and eventually creating a pull request). To do this, follow the instructions on the page below. 
-2. You can [fill out a Google Form with the required information](https://forms.gle/FedftNPjrULwYrFu8) and I can modify our home page for you. 
+While I often post positions quickly after they are publicized, departments can also add their own advertisements to the site. **Make sure your department and university aligns with the website criteria**. [See the criteria](index#criteria)
+
+There are two options: 
+1. You can add your information by **editing our Github repository** (and eventually creating a pull request). _Follow the instructions on the page below._
+2. Or if you're uncomfortable about making changes here, you can [**fill out a Google Form with your information**](https://forms.gle/FedftNPjrULwYrFu8) and I can modify our home page for you. 
 
 ------------
 ### Adding your position via Github
 This is the preferred way for you to add positions because it gives you full control. 
 
-{% capture worry %}
+
 💡 **Don't worry about breaking things.** If you're a little worried about messing up the website accidentally, _don't_! We have to approve all additions before they go live (that's how pull requests on Github work), and try to double-check all additions. 
-{% endcapture %}
-<div class="notice notice-blue">{{ worry | markdownify }}</div>
+{: .notice .notice-blue}
+
 
 1. Edit [`deadlines.md`](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/deadlines.md) with your app deadline, anchor link, and location (instructions below)
 2. Edit [`descriptions.md`](https://github.com/cs-pui/cs-pui.github.io/blob/master/_includes/descriptions.md) with an excerpt from your ad, location, link, and deadline (instructions below)
