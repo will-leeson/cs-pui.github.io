@@ -71,7 +71,7 @@ I agree! Unfortunately, this site is curated on top of my normal faculty duties,
 
 I've found that widening the site's scope isn't as simple as increasing the quantity of ads, but expands the months of the year I need to keep close attention on the market, and brings significant new challenges to curation (_e.g. does a visiting prof position at a liberal arts school practically have time for scholarship? How should we articulate the immense diversity of teaching-track positions, which can range from a reality that isn't too distant from adjuncting to institutions that offer tenure?_). All of this is time-intensive.
 
-Until I can find resources for the site (if you have any leads, [let me know](http://bucknell.edu/)!, I have to keep the scope narrow. 
+Until I can find resources for the site (if you have any leads, [let me know](mailto:evan.peck@bucknell.edu)!, I have to keep the scope narrow. 
 
 ------------
 
