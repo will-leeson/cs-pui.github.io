@@ -11,10 +11,8 @@ header:
 
 ![continuum of teaching and research](img/cs-pui-listing.jpg)
 
-<!-- 📣 **This website is currently under revision in preparation for the 2022-23 hiring cycle.** Don't be surprised if you stumble on some errors here and there. If you want to see previous versions, check our [archived listings from previous years](faq#archive)
-{: .notice .notice-red} -->
 
-📣 **If you would like to add your department's position**, it's free as long as you meet the criteria listed below. [Please visit the **Post an Ad** page](/posting) for logistical details or the [**FAQ**](/faq) for more info about this site. 
+📣 **If you would like to add your position,** [please visit the **Post an Ad** page](/posting) for logistical details or the [**FAQ**](/faq) for more info about this site (it's free!). 
 {: .notice .notice-blue}
 
 In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) because of the compelling balance they offer between teaching and research. I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. [See archived listings from previous years](faq#archive).
@@ -41,7 +39,7 @@ If you are considering entering the job market, I'd encourage you to visit the [
 ## 📋 Deadlines and Quick Links (_soonest on top_)
 {: #deadlines}
 
-💡 **Deadlines are treated very differently between institutions**. For example, many departments accept applications well after their posted deadlines. I _strongly_ encourage you to email search chairs if you're interested in positions that appear to have passed (they might still be open!).
+💡 **Deadlines are treated very differently between institutions**. Read carefully. For example, I _strongly_ encourage you to email search chairs if you're interested in positions that appear to have passed - they might still be open!
 {: .notice .notice-blue}
 
 {% capture table-style %}
