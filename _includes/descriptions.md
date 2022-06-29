@@ -1,5 +1,17 @@
 
 
+### Whitman College 
+{: #whitman}
+
+_Placeholder_ Whitman College will again invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+
+- Applications will be reviewed beginning in December (deadline TBA).
+- Walla Walla, Washington. USA.
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Willamette University 
 {: #willamette}
 
