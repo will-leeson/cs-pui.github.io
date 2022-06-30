@@ -1,4 +1,16 @@
 
+### Lafayette College
+{: #lafayette}
+
+_Excerpt_ The Lafayette College Computer Science Department invites applications for two full-time, tenure-track Assistant Professor positions commencing in July 2023.  Candidates from all computing related research areas including interdisciplinary ones are encouraged to apply. Candidates should have earned a Ph.D. in computer science or a related field by the start of their appointment. The department especially welcomes applications from candidates who will contribute to Lafayette's commitment to diversity and inclusion. Candidates with credentials meriting an initial appointment at the associate professor level will also be considered.
+
+- Review of applications will begin on **October 24, 2022**
+- Easton, Pennsylvania. USA.
+
+[Full Job Ad](https://apply.interfolio.com/108985){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
 
 ### Whitman College 
 {: #whitman}
