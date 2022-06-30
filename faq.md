@@ -79,7 +79,7 @@ Until I can find resources for the site (if you have any leads, [let me know](ma
 {: #research}
 
 There really isn't a hard set of rules here. However, many schools on our list have: 
-- _Reduced teaching load_ (in comparison to full-teaching colleges): The average teaching load is probably somewhere between a 2-2 or 3-2 (depending on how they define it). With only rare exceptions, 3-3 is a good rule-of-thumb upper limit.  
+- _Reduced teaching load_ (in comparison to full-teaching colleges): The average teaching load is probably somewhere between a 2-2 or 3-2 (depending on how they define it). With only rare exceptions, 3-3 is a good guideline for an upper limit.  
 - _Startup packages:_ While packages in PUIs are nowhere near those in R1s, most institutions offer funds to kick-start research.
 - _Untenured leave:_ Most offer a pre-tenure leave of 1 or 2 semesters to help faculty invest in research 
 - _Internal research resources:_ This often includes some travel support for conferences and significant internal support for summer undergraduate research. 
