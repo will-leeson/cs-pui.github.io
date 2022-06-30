@@ -46,6 +46,8 @@ div.jobs p {
 /* ---------- Listing list info -------*/
 div.jobs ul {
     list-style: none;
+    text-indent: -2.2em;
+    padding-left: 2em;
     margin-left: 0em;
     margin-top: 0.5em;
     font-weight: 200;
