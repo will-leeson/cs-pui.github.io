@@ -1,4 +1,17 @@
 
+### Carleton College
+{: #carleton}
+
+_Excerpt_ Carleton College invites applications for a tenure-track position in computer science, to begin September 1, 2023. A Ph.D. completed by the start date is required. We expect to make an appointment at the Assistant Professor level, but we are also happy to consider applications from qualified candidates at any rank. We welcome candidates with any specialization in computer science or a closely related field. Candidates interested in teaching our introductory systems course or courses in related subfields such as green/energy-aware computing, robotics, security, networks, operating systems, etc. are especially encouraged to apply.
+
+- Applications completed by **September 28, 2022** will receive full consideration
+- Northfield, Minnesota. USA.
+
+[Full Job Ad](https://careers.carleton.edu/en-us/job/492888/assistant-professor-of-computer-science){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Lafayette College
 {: #lafayette}
 
