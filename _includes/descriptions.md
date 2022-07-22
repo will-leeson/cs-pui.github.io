@@ -25,6 +25,18 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Grinnell College 
+{: #grinnell}
+
+_Placeholder_ Grinnell College will invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+
+- Applications will be reviewed at the beginning of November (deadline TBA).
+- Grinnell, Iowa. USA.
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Lafayette College
 {: #lafayette}
 
