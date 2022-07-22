@@ -38,6 +38,18 @@ _Excerpt_ The Lafayette College Computer Science Department invites applications
 
 ------------
 
+### Grinnell College 
+{: #grinnell}
+
+_Placeholder_ Grinnell College will invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+
+- Applications will be reviewed at the beginning of November (deadline TBA).
+- Grinnell, Iowa. USA.
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### University of Richmond
 {: #richmond}
 
