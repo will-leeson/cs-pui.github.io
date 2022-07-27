@@ -50,6 +50,19 @@ _Excerpt_ The Lafayette College Computer Science Department invites applications
 
 ------------
 
+### Occidental College
+{: #oxy}
+
+_Excerpt_ Occidental faculty are committed teacher-scholars who bring research and creative discovery to life for students in classrooms, labs, and mentored projects. As a faculty member in the Department of Computer Science, you will be teaching broadly in our curriculum, advising students, carrying out research, and providing department and college-wide service. The Department was formed relatively recently in 2017, and you will have a strong voice in the ongoing development of our curriculum and policies. We are committed to supporting and mentoring faculty for success, in teaching, research, and beyond, and will work with various other Centers at Occidental to do so... We especially welcome faculty interested in collaborating with the social sciences, the humanities, and the arts, and who may contribute to existing and developing partnerships with other departments such as Music and Media Arts & Culture.
+
+- To be assured full consideration, your application materials must be received by **10/02/2022**
+- Los Angeles, California. USA.
+
+[Full Job Ad](https://www.higheredjobs.com/faculty/details.cfm?JobCode=178030035&Title=Open%2DRank%2C%20Tenure%2DTrack%20Professor%20of%20Computer%20Science){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### University of Richmond
 {: #richmond}
 
