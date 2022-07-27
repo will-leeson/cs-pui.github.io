@@ -50,6 +50,18 @@ _Excerpt_ The Lafayette College Computer Science Department invites applications
 
 ------------
 
+### Lawrence University 
+{: #lawrence}
+
+_Placeholder_ Lawrence University will invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+
+- Applications will be reviewed at the beginning of October (deadline TBA).
+- Appleton, WI. USA.
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Occidental College
 {: #oxy}
 
