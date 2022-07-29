@@ -62,6 +62,18 @@ _Placeholder_ Lawrence University will invite applications for a tenure-track po
 
 ------------
 
+### Loyola University Maryland
+{: #lum}
+
+_Placeholder_ Loyola University Maryland will invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+
+- Applications will be reviewed starting **10/07/2022**, and continue until the post is filled. We expect to be making offers by December.
+- Baltimore, MD. USA.
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Occidental College
 {: #oxy}
 
