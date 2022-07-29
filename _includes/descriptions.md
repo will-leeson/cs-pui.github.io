@@ -87,6 +87,19 @@ _Placeholder_ Loyola University Maryland will invite applications for a tenure-t
 
 ------------
 
+### Mount Holyoke College 
+{: #holyoke}
+
+_Excerpt_ The Mount Holyoke College Computer Science Department invites applications for an open rank tenure-track faculty position, to begin in the fall of 2023. We are searching broadly for candidates with a strong commitment to excellence in teaching, a vibrant research program that can engage undergraduates, and a passion for working with a diverse population of students. Mount Holyoke's teaching load is 4 courses per year. We welcome applications in all specialties, particularly systems, theory and data science. 
+
+- Review of applications to begin **October 17, 2022**
+- South Hadley, MA. USA.
+
+[Full Job Ad](https://careers.pageuppeople.com/1024/cw/en-us/job/493080/open-rank-professor-of-computer-science){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Occidental College
 {: #oxy}
 
