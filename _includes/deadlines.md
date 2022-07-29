@@ -6,6 +6,7 @@
 | [Denison University](#denison) | Granville, OH | 10/10/2022 |
 | [University of Richmond](#richmond) | Richmond, VA | 10/14/2022 |
 | [Berea College](#berea) | Berea, KY | 10/15/2022 |
+| [Wellesley College](#wellesley) | Wellesley, MA | 10/15/2022 |
 | [Mount Holyoke College](#holyoke) | South Hadley, MA | 10/17/2022 |
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |

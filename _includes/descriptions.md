@@ -126,6 +126,19 @@ _Excerpt_ The University of Richmond Department of Computer Science invites appl
 
 ------------
 
+### Wellesley College
+{: #wellesley}
+
+_Excerpt_ Wellesley College seeks candidates for faculty positions in computer science at all levels (Professor/Associate Professor/Assistant Professor), starting in July 2023. The Computer Science Department is strongly committed to outstanding teaching and scholarship, and to providing students with the best possible research experiences. We are especially interested in candidates whose teaching, scholarship, service, or personal experience has prepared them to successfully attract, retain, and mentor underrepresented students in computing.
+
+- Applications will be reviewed starting on **October 15, 2022** and will continue until the position is filled
+- Wellesley, MA. USA.
+
+[Full Job Ad](https://wellesley.wd1.myworkdayjobs.com/en-US/wellesley-staff/job/Wellesley-College/Assistant-Professor-of-Computer-Science_R0002367){: .button-ad} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Whitman College 
 {: #whitman}
 
