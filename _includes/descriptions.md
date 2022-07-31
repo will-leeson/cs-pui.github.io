@@ -113,17 +113,6 @@ _Excerpt_ Occidental faculty are committed teacher-scholars who bring research a
 
 ------------
 
-### Union College
-{: #union}
-
-_Placeholder_ Union College expects to invite applications for a tenure-track position starting in Fall 2023.
-
-- Schenectady, NY. USA
-
-[_back to all deadlines_](#deadlines)
-
-------------
-
 ### University of Richmond
 {: #richmond}
 
@@ -133,6 +122,17 @@ _Excerpt_ The University of Richmond Department of Computer Science invites appl
 - Richmond, Virginia. USA.
 
 [Full Job Ad](https://richmond.csod.com/ats/careersite/JobDetails.aspx?site=1&id=2621){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Union College
+{: #union}
+
+_Placeholder_ Union College expects to invite applications for a tenure-track position starting in Fall 2023.
+
+- Schenectady, NY. USA
+
 [_back to all deadlines_](#deadlines)
 
 ------------
