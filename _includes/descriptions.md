@@ -126,6 +126,17 @@ _Excerpt_ The University of Richmond Department of Computer Science invites appl
 
 ------------
 
+### Union College
+{: #union}
+
+_Placeholder_ Union College expects to invite applications for a tenure-track position starting in Fall 2023.
+
+- Schenectady, NY. USA
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Wellesley College
 {: #wellesley}
 
