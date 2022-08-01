@@ -5,6 +5,7 @@
 | [Loyola University Maryland](#lum) | Baltimore, MD | 10/07/2022 |
 | [Denison University](#denison) | Granville, OH | 10/10/2022 |
 | [University of Richmond](#richmond) | Richmond, VA | 10/14/2022 |
+| [Smith College](#smith) | Northampton, MA | 10/14/2022 |
 | [Berea College](#berea) | Berea, KY | 10/15/2022 |
 | [Wellesley College](#wellesley) | Wellesley, MA | 10/15/2022 |
 | [Mount Holyoke College](#holyoke) | South Hadley, MA | 10/17/2022 |

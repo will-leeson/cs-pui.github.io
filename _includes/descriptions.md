@@ -126,6 +126,18 @@ _Excerpt_ The University of Richmond Department of Computer Science invites appl
 
 ------------
 
+### Smith College
+{: #smith}
+
+_Excerpt_ The Department of Computer Science at Smith College invites applications for **two** positions, one Open Rank position and one at the rank of Associate or Full Professor to begin on July 1, 2023.   Dedicated teacher-scholars from all areas of computer science or closely related fields are encouraged to apply. Qualifications for both positions include a Ph.D. in Computer Science or a related field (such as Electrical and Computer Engineering), a strong commitment to teaching, and a high potential for research.  We seek candidates with scholarly interests that contribute to the diversity of research specialties within the department; especially wellcome are hardware, systems, robotics, bioinformatics or theory. Applications should highlight  experience and interest in undergraduate teaching and ability to actively engage diverse student populations across the liberal arts. For the Associate/Full Professor position, we welcome candidates who show qualities and experience that will enable them, after a short period of adaptation, to take on leadership roles in the governance of the department.
+- Review of applications will begin on **October 14, 2022**
+- Northampton, MA. USA.
+
+[Full Job Ad](https://apply.interfolio.com/110749){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Union College
 {: #union}
 
