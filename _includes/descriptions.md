@@ -87,6 +87,19 @@ _Placeholder_ Loyola University Maryland will invite applications for a tenure-t
 
 ------------
 
+### Middlebury College
+{: #midd}
+
+_Excerpt_ Middlebury College invites applications for **two** full-time tenure-track faculty positions in computer science, beginning in Fall 2023. Middlebury College is a top-tier liberal arts college with a demonstrated commitment to excellence in faculty teaching and research. The teaching load at Middlebury College is 4-5 courses per year, depending on the sizes of the classes, number of contact hours, labs, etc. Middlebury College provides broad support for such endeavors including competitive start-up funds, internal student research scholarships, faculty professional development funds, and state-of-the-art research facilities and equipment. Teaching expertise in areas such as databases, machine learning, software development, applied areas, and interdisciplinary connections is of particular interest.
+
+- Review of applications will begin **October 1st**, and continue until the positions are filled.
+- Middlebury, Vermont. USA.
+
+[Full Job Ad](https://www.middlebury.edu/college/academics/computer-science/open-faculty-positions){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Mount Holyoke College 
 {: #holyoke}
 
