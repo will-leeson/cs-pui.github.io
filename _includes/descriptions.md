@@ -126,6 +126,18 @@ _Excerpt_ Occidental faculty are committed teacher-scholars who bring research a
 
 ------------
 
+### Pomona College
+{: #pomona}
+
+_Placeholder_ Pomona College expects to invite applications for a tenure-track position starting in Fall 2023.
+
+- TBA - ad forthcoming
+- Claremont, California. USA
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### University of Richmond
 {: #richmond}
 

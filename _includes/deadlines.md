@@ -12,9 +12,8 @@
 | [Mount Holyoke College](#holyoke) | South Hadley, MA | 10/17/2022 |
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
-| [Whitman College](#whitman) | Walla Walla, WA  | TBA |
 | [Grinnell College](#grinnell) | Grinnell, IA | TBA |
 | [Lawrence University](#lawrence) | Appleton, WI | TBA |
+| [Pomona College](#pomona) | Claremont, CA | TBA |
 | [Union College](#union) | Schenectady, NY | TBA | 
-
-
+| [Whitman College](#whitman) | Walla Walla, WA  | TBA |
