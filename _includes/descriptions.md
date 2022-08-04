@@ -50,6 +50,19 @@ _Placeholder_ Grinnell College will invite applications for a tenure-track posit
 
 ------------
 
+### Harvey Mudd College
+{: #hmc-climate}
+
+_Excerpt_ Harvey Mudd College invites applications for a tenure-track faculty position at the rank of Assistant Professor, beginning fall 2023. Exceptional candidates at higher ranks will also be considered. The position is jointly held through the Hixon Center for Climate and the Environment (HCCE) and the Department of Computer Science. All areas in computer science that align with the HCCE goals will be considered, with preference given to candidates who can significantly contribute to our course offerings and build a shared vision for climate and environmental studies at a liberal arts college of science and engineering ... The successful candidate will have a demonstrated commitment to developing excellence in teaching undergraduates and building a strong, independent research program.
+
+- All applications received by **September 19, 2022** will receive full consideration
+- Claremont, California. USA.
+
+[Full Job Ad](https://academicjobsonline.org/ajo/HMC/HCCE/22245){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Lafayette College
 {: #lafayette}
 
