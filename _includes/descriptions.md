@@ -91,11 +91,12 @@ _Placeholder_ Lawrence University will invite applications for a tenure-track po
 ### Loyola University Maryland
 {: #lum}
 
-_Placeholder_ Loyola University Maryland will invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+_Excerpt_ Loyola University Maryland is hiring **two tenure-track positions at either Assistant or Associate** starting in Fall 2023. We are seeking individuals committed to excellence in undergraduate education at a vibrant liberal arts university who can continue a productive research program. The hired faculty members will be joining a collaborative and supportive small department of eight full-time faculty, with a teaching load of 8-9 credits during each of the fall and spring semesters (either 2 courses with labs, or 3 without labs), no required summer teaching, and research support (travel funding, startup funds, equipment funds, student research support, etc.). We support a B.S., B.A., and Interdisciplinary computer science degrees, in addition to a B.S. and M.S. in data science. The successful candidate will primarily teach in the undergraduate programs ranging from introductory to advanced level, and will have the opportunity to teach in the Data Science Masters program as well. Candidates in all areas of specialization will be considered. We are particularly interested in applicants with an interest in teaching first- and second-year students, computer science theory courses, or data science courses; and who are aware of high impact practices and how to teach a diverse study body. See our job ad for full details.
 
 - Applications will be reviewed starting **10/07/2022**, and continue until the post is filled. We expect to be making offers by December.
 - Baltimore, MD. USA.
 
+[Full Job Ad](https://www.loyola.edu/academics/computer-science/hiring){: .button-ad}
 [_back to all deadlines_](#deadlines)
 
 ------------
