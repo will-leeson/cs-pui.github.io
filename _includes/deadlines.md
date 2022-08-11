@@ -5,6 +5,7 @@
 | [Middlebury College](#midd) | Middlebury, VT | 10/01/2022 |
 | [Occidental College](#oxy) | Los Angelos, CA | 10/02/2022 |
 | [Loyola University Maryland](#lum) | Baltimore, MD | 10/07/2022 |
+| [University of San Francisco](#usf) | San Francisco, CA | 10/07/2022 |
 | [Denison University](#denison) | Granville, OH | 10/10/2022 |
 | [University of Richmond](#richmond) | Richmond, VA | 10/14/2022 |
 | [Smith College](#smith) | Northampton, MA | 10/14/2022 |

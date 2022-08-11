@@ -165,6 +165,18 @@ _Excerpt_ The University of Richmond Department of Computer Science invites appl
 
 ------------
 
+### University of San Francisco
+{: #usf}
+
+_Excerpt_ The Department of Computer Science at the University of San Francisco is accepting applications for up to **two** tenure-track positions at the Assistant Professor level starting in August 2023, contingent upon funding approval. We are particularly interested in candidates with an interest in supporting a diverse student population. All areas of Computer Science will be considered, but expertise in machine learning, cybersecurity, and human-computer interaction is particularly desirable.
+- To receive full consideration, applications must be complete (including letters of reference) and submitted by **October 7, 2022**
+- San Francisco, CA. USA.
+
+[Full Job Ad](https://usfca.wd5.myworkdayjobs.com/en-US/USF_Full-Time_Faculty/details/Assistant-Professor--Tenure-Track--Department-of-Computer-Science_R0006503){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Smith College
 {: #smith}
 
