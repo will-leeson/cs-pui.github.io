@@ -127,6 +127,18 @@ _Excerpt_ The Mount Holyoke College Computer Science Department invites applicat
 
 ------------
 
+### Oberlin College
+{: #oberlin}
+
+_Placeholder_ Oberlin expects to invite applications for 1-2 tenure-track positions starting in Fall 2023. Anticipated open hire(s), with a special interest in Theory, Systems, and AI.
+
+- Ad is forthcoming - TBA
+- Oberlin, OH. USA
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Occidental College
 {: #oxy}
 
