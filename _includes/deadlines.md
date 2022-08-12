@@ -10,6 +10,7 @@
 | [University of Richmond](#richmond) | Richmond, VA | 10/14/2022 |
 | [Smith College](#smith) | Northampton, MA | 10/14/2022 |
 | [Berea College](#berea) | Berea, KY | 10/15/2022 |
+| [Pomona College](#pomona) | Claremont, CA | 10/15/2022 |
 | [Wellesley College](#wellesley) | Wellesley, MA | 10/15/2022 |
 | [Mount Holyoke College](#holyoke) | South Hadley, MA | 10/17/2022 |
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
@@ -17,6 +18,5 @@
 | [Grinnell College](#grinnell) | Grinnell, IA | TBA |
 | [Lawrence University](#lawrence) | Appleton, WI | TBA |
 | [Oberlin College](#oberlin) | Oberlin, OH | TBA |
-| [Pomona College](#pomona) | Claremont, CA | TBA |
 | [Union College](#union) | Schenectady, NY | TBA | 
 | [Whitman College](#whitman) | Walla Walla, WA  | TBA |
