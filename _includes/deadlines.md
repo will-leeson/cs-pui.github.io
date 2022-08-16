@@ -7,6 +7,7 @@
 | [Loyola University Maryland](#lum) | Baltimore, MD | 10/07/2022 |
 | [University of San Francisco](#usfca) | San Francisco, CA | 10/07/2022 |
 | [Denison University](#denison) | Granville, OH | 10/10/2022 |
+| [Reed College](#reed) | Portland, OR | 10/14/2022 |
 | [University of Richmond](#richmond) | Richmond, VA | 10/14/2022 |
 | [Smith College](#smith) | Northampton, MA | 10/14/2022 |
 | [Berea College](#berea) | Berea, KY | 10/15/2022 |

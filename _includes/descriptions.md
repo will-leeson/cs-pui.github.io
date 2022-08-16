@@ -155,12 +155,25 @@ _Excerpt_ Occidental faculty are committed teacher-scholars who bring research a
 ### Pomona College
 {: #pomona}
 
-_Excerpt_ Pomona College seeks applications for two Open-Rank (assistant, associate, or full) Professor of Computer Science positions, to begin on July 1, 2023. All subfields of computer science will be considered. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research. The teaching load is two courses a semester for the two semesters a year. Faculty are expected to teach across all levels of the curriculum. Candidates should have a Ph.D. in hand by the start date... We value candidates who have experience working with students from diverse backgrounds and who are able to demonstrate a commitment to improving higher education for underrepresented students through their teaching, scholarship, or service.
+_Excerpt_ Pomona College seeks applications for **two** Open-Rank (assistant, associate, or full) Professor of Computer Science positions, to begin on July 1, 2023. All subfields of computer science will be considered. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research. The teaching load is two courses a semester for the two semesters a year. Faculty are expected to teach across all levels of the curriculum. Candidates should have a Ph.D. in hand by the start date... We value candidates who have experience working with students from diverse backgrounds and who are able to demonstrate a commitment to improving higher education for underrepresented students through their teaching, scholarship, or service.
 
 - Review of applications will begin on **October 15, 2022** and will continue until the position is filled.
 - Claremont, California. USA
 
 [Full Job Ad](https://academicjobsonline.org/ajo/jobs/22190){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Reed College
+{: #reed}
+
+_Excerpt_ The Department of Computer Science at Reed College invites applications for **two** open rank tenure-track faculty positions beginning in the fall of 2023. Applicants should have a Ph.D. in computer science or a closely related field by the time of the appointment and should be committed to excellence in undergraduate teaching and in research. The successful applicant will teach in the core computer science curriculum at all levels, will develop one or more courses in the applicant’s area(s) of expertise, and will work to foster a welcoming and engaged community. They will maintain an active research program, ideally providing opportunities for student involvement, and they will advise several year-long senior thesis projects. Applicants from all areas of computer science are encouraged to apply.
+
+- Applications submitted by **October 14, 2022** are guaranteed full consideration
+- Portland, Oregon. USA
+
+[Full Job Ad](https://www.reed.edu/computer-science/faculty-search.html){: .button-ad}
 [_back to all deadlines_](#deadlines)
 
 ------------
