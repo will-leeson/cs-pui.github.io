@@ -13,7 +13,9 @@
 | [Berea College](#berea) | Berea, KY | 10/15/2022 |
 | [Pomona College](#pomona) | Claremont, CA | 10/15/2022 |
 | [Wellesley College](#wellesley) | Wellesley, MA | 10/15/2022 |
+| [Wesleyan University](#wesleyan) | Middleton, CT | 10/15/2022 |
 | [Mount Holyoke College](#holyoke) | South Hadley, MA | 10/17/2022 |
+| [College of the Holy Cross](#holy-cross) | Worcester, MA | 10/21/2022 |
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
 | [Grinnell College](#grinnell) | Grinnell, IA | TBA |

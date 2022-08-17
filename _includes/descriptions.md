@@ -63,6 +63,19 @@ _Excerpt_ Harvey Mudd College invites applications for a tenure-track faculty po
 
 ------------
 
+### College of the Holy Cross
+{: #holy-cross}
+
+_Excerpt_ The Department of Mathematics and Computer Science at the College of the Holy Cross invites applications for a full-time tenure-track faculty appointment to begin in August 2023. All research specialties will be considered. This position carries a 3-2 teaching load with a full-salary one-semester research leave prior to tenure review, and generous sabbatical and fellowship leaves for tenured faculty. Tenure-track faculty are eligible for travel support and reimbursement of relocation costs within the College’s published policies. All full-time appointments offer competitive salaries and include full benefits. 
+
+- Review of applications will begin on **October 21, 2022**, and continue until the position has been filled
+- Worcester, Massachusetts. USA.
+
+[Full Job Ad](https://apply.interfolio.com/111756){: .button-ad}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Lafayette College
 {: #lafayette}
 
@@ -248,6 +261,20 @@ _Placeholder_ Whitman College will again invite applications for a tenure-track 
 - Walla Walla, Washington. USA.
 
 [_back to all deadlines_](#deadlines)
+
+------------
+
+### Wesleyan University
+{: #wesleyan}
+
+_Excerpt_ The Department of Mathematics and Computer Science at Wesleyan University invites applications for a tenure track assistant professorship in Computer Science to begin July 1, 2023 ... We encourage candidates in all areas of Computer Science to apply, including those who deepen or broaden our existing research strengths, and especially encourage candidates who can contribute to the diversity (broadly conceived) of the department. Theory, programming languages, algorithms, network science, networking, and privacy and security are well-represented in the department ... Tenure track faculty in Computer Science at Wesleyan teach three courses per year. Wesleyan values both research and teaching very highly, has a strong, diverse student body, and offers a substantial startup package, a generous sabbatical program, and competitive salaries and benefits.
+
+- We will begin reviewing applications on **October 15, 2022**, but will continue accepting applications until the position is filled
+- 	Middletown, Connecticut. USA.
+
+[Full Job Ad](https://academicjobsonline.org/ajo/Wesleyan/COMP/22300){: .button-ad} 
+[_back to all deadlines_](#deadlines)
+
 
 ------------
 
