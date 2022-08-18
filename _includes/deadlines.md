@@ -2,6 +2,7 @@
 | :----       | :---       | :--- |
 | [Harvey Mudd College](#hmc-climate) | Claremont, CA | 09/19/2022 |
 | [Carleton College](#carleton) | Northfield, MN | 09/28/2022 |
+| [Macalester College](#macalester) | Saint Paul, MN | 10/01/2022 |
 | [Middlebury College](#midd) | Middlebury, VT | 10/01/2022 |
 | [Occidental College](#oxy) | Los Angelos, CA | 10/02/2022 |
 | [Loyola University Maryland](#lum) | Baltimore, MD | 10/07/2022 |
