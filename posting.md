@@ -85,7 +85,7 @@ Given the following template, modify it with your advertisement's information (s
 - 1st bullet should be about your app deadline. **date in bold**
 - 2nd bullet should include your location
 
-[Full Job Ad](https://this-should-be-the-link-to-your-ad.edu){: .button-ad} 
+[Full Job Posting](https://this-should-be-the-link-to-your-ad.edu){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -94,7 +94,7 @@ Given the following template, modify it with your advertisement's information (s
 {% capture formatting %}
 🚨 **The spacing and ordering is important for a correct CSS interpretation**. For example:
 -  the `**` bold markers in the 1st bullet point will style your date with a blue box. 
-- Keep no line spacing between the `Full Job Ad` and `_back to all deadlines_`. This will ensure the buttons are next to each other (see example below)
+- Keep no line spacing between the `Full Job Posting` and `_back to all deadlines_`. This will ensure the buttons are next to each other (see example below)
 {% endcapture %}
 <div class="notice notice-red">{{ formatting | markdownify }}</div>
 

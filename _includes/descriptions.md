@@ -7,7 +7,7 @@ _Excerpt_ Berea College seeks applications for a full-time, tenure-track opening
 - Review of applications will begin **October 15**, and continue until the position is filled
 - Berea, Kentucky. USA.
 
-[Full Job Ad](https://myberea.csod.com/ats/careersite/JobDetails.aspx?site=3&id=1128){: .button-ad}
+[Full Job Posting](https://myberea.csod.com/ats/careersite/JobDetails.aspx?site=3&id=1128){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -20,7 +20,7 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 - Applications completed by **September 28, 2022** will receive full consideration
 - Northfield, Minnesota. USA.
 
-[Full Job Ad](https://careers.carleton.edu/en-us/job/492888/assistant-professor-of-computer-science){: .button-ad}
+[Full Job Posting](https://careers.carleton.edu/en-us/job/492888/assistant-professor-of-computer-science){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -33,7 +33,7 @@ _Excerpt_ The Computer Science program at Denison University invites application
 - We will begin reviewing applications on a rolling basis beginning on **October 10, 2022**
 - Granville, Ohio. USA.
 
-[Full Job Ad](https://apply.interfolio.com/109002){: .button-ad}
+[Full Job Posting](https://apply.interfolio.com/109002){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -58,7 +58,7 @@ _Excerpt_ Harvey Mudd College invites applications for a tenure-track faculty po
 - All applications received by **September 19, 2022** will receive full consideration
 - Claremont, California. USA.
 
-[Full Job Ad](https://academicjobsonline.org/ajo/HMC/HCCE/22245){: .button-ad}
+[Full Job Posting](https://academicjobsonline.org/ajo/HMC/HCCE/22245){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -71,7 +71,7 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 - Review of applications will begin on **October 21, 2022**, and continue until the position has been filled
 - Worcester, Massachusetts. USA.
 
-[Full Job Ad](https://apply.interfolio.com/111756){: .button-ad}
+[Full Job Posting](https://apply.interfolio.com/111756){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -84,7 +84,7 @@ _Excerpt_ The Lafayette College Computer Science Department invites applications
 - Review of applications will begin on **October 24, 2022**
 - Easton, Pennsylvania. USA.
 
-[Full Job Ad](https://apply.interfolio.com/108985){: .button-ad}
+[Full Job Posting](https://apply.interfolio.com/108985){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -104,12 +104,12 @@ _Placeholder_ Lawrence University will invite applications for a tenure-track po
 ### Loyola University Maryland
 {: #lum}
 
-_Excerpt_ Loyola University Maryland is hiring **two tenure-track positions at either Assistant or Associate** starting in Fall 2023. We are seeking individuals committed to excellence in undergraduate education at a vibrant liberal arts university who can continue a productive research program. The hired faculty members will be joining a collaborative and supportive small department of eight full-time faculty, with a teaching load of 8-9 credits during each of the fall and spring semesters (either 2 courses with labs, or 3 without labs), no required summer teaching, and research support (travel funding, startup funds, equipment funds, student research support, etc.). We support a B.S., B.A., and Interdisciplinary computer science degrees, in addition to a B.S. and M.S. in data science. The successful candidate will primarily teach in the undergraduate programs ranging from introductory to advanced level, and will have the opportunity to teach in the Data Science Masters program as well. Candidates in all areas of specialization will be considered. We are particularly interested in applicants with an interest in teaching first- and second-year students, computer science theory courses, or data science courses; and who are aware of high impact practices and how to teach a diverse study body. See our job ad for full details.
+_Excerpt_ Loyola University Maryland is hiring **two tenure-track positions at either Assistant or Associate** starting in Fall 2023. We are seeking individuals committed to excellence in undergraduate education at a vibrant liberal arts university who can continue a productive research program. The hired faculty members will be joining a collaborative and supportive small department of eight full-time faculty, with a teaching load of 8-9 credits during each of the fall and spring semesters (either 2 courses with labs, or 3 without labs), no required summer teaching, and research support (travel funding, startup funds, equipment funds, student research support, etc.). We support a B.S., B.A., and Interdisciplinary computer science degrees, in addition to a B.S. and M.S. in data science. The successful candidate will primarily teach in the undergraduate programs ranging from introductory to advanced level, and will have the opportunity to teach in the Data Science Masters program as well. Candidates in all areas of specialization will be considered. We are particularly interested in applicants with an interest in teaching first- and second-year students, computer science theory courses, or data science courses; and who are aware of high impact practices and how to teach a diverse study body. See our job Posting for full details.
 
 - Applications will be reviewed starting **10/07/2022**, and continue until the post is filled. We expect to be making offers by December.
 - Baltimore, MD. USA.
 
-[Full Job Ad](https://www.loyola.edu/academics/computer-science/hiring){: .button-ad}
+[Full Job Posting](https://www.loyola.edu/academics/computer-science/hiring){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -122,7 +122,7 @@ _Excerpt_ Middlebury College invites applications for **two** full-time tenure-t
 - Review of applications will begin **October 1st**, and continue until the positions are filled.
 - Middlebury, Vermont. USA.
 
-[Full Job Ad](https://www.middlebury.edu/college/academics/computer-science/open-faculty-positions){: .button-ad}
+[Full Job Posting](https://www.middlebury.edu/college/academics/computer-science/open-faculty-positions){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -135,7 +135,7 @@ _Excerpt_ The Mount Holyoke College Computer Science Department invites applicat
 - Review of applications to begin **October 17, 2022**
 - South Hadley, MA. USA.
 
-[Full Job Ad](https://careers.pageuppeople.com/1024/cw/en-us/job/493080/open-rank-professor-of-computer-science){: .button-ad}
+[Full Job Posting](https://careers.pageuppeople.com/1024/cw/en-us/job/493080/open-rank-professor-of-computer-science){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -160,7 +160,7 @@ _Excerpt_ Occidental faculty are committed teacher-scholars who bring research a
 - To be assured full consideration, your application materials must be received by **10/02/2022**
 - Los Angeles, California. USA.
 
-[Full Job Ad](https://www.higheredjobs.com/faculty/details.cfm?JobCode=178030035&Title=Open%2DRank%2C%20Tenure%2DTrack%20Professor%20of%20Computer%20Science){: .button-ad}
+[Full Job Posting](https://www.higheredjobs.com/faculty/details.cfm?JobCode=178030035&Title=Open%2DRank%2C%20Tenure%2DTrack%20Professor%20of%20Computer%20Science){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -173,7 +173,7 @@ _Excerpt_ Pomona College seeks applications for **two** Open-Rank (assistant, as
 - Review of applications will begin on **October 15, 2022** and will continue until the position is filled.
 - Claremont, California. USA
 
-[Full Job Ad](https://academicjobsonline.org/ajo/jobs/22190){: .button-ad}
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/22190){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -186,7 +186,7 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 - Applications submitted by **October 14, 2022** are guaranteed full consideration
 - Portland, Oregon. USA
 
-[Full Job Ad](https://www.reed.edu/computer-science/faculty-search.html){: .button-ad}
+[Full Job Posting](https://www.reed.edu/computer-science/faculty-search.html){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -199,7 +199,7 @@ _Excerpt_ The University of Richmond Department of Computer Science invites appl
 - Review of applications will commence **October 14, 2022** and continue until the position is filled
 - Richmond, Virginia. USA.
 
-[Full Job Ad](https://richmond.csod.com/ats/careersite/JobDetails.aspx?site=1&id=2621){: .button-ad}
+[Full Job Posting](https://richmond.csod.com/ats/careersite/JobDetails.aspx?site=1&id=2621){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -211,7 +211,7 @@ _Excerpt_ The Department of Computer Science at the University of San Francisco 
 - To receive full consideration, applications must be complete (including letters of reference) and submitted by **October 7, 2022**
 - San Francisco, CA. USA.
 
-[Full Job Ad](https://usfca.wd5.myworkdayjobs.com/en-US/USF_Full-Time_Faculty/details/Assistant-Professor--Tenure-Track--Department-of-Computer-Science_R0006503){: .button-ad}
+[Full Job Posting](https://usfca.wd5.myworkdayjobs.com/en-US/USF_Full-Time_Faculty/details/Assistant-Professor--Tenure-Track--Department-of-Computer-Science_R0006503){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -223,7 +223,7 @@ _Excerpt_ The Department of Computer Science at Smith College invites applicatio
 - Review of applications will begin on **October 14, 2022**
 - Northampton, MA. USA.
 
-[Full Job Ad](https://apply.interfolio.com/110749){: .button-ad}
+[Full Job Posting](https://apply.interfolio.com/110749){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -247,7 +247,7 @@ _Excerpt_ Wellesley College seeks candidates for faculty positions in computer s
 - Applications will be reviewed starting on **October 15, 2022** and will continue until the position is filled
 - Wellesley, MA. USA.
 
-[Full Job Ad](https://wellesley.wd1.myworkdayjobs.com/en-US/wellesley-staff/job/Wellesley-College/Assistant-Professor-of-Computer-Science_R0002367){: .button-ad} 
+[Full Job Posting](https://wellesley.wd1.myworkdayjobs.com/en-US/wellesley-staff/job/Wellesley-College/Assistant-Professor-of-Computer-Science_R0002367){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -272,7 +272,7 @@ _Excerpt_ The Department of Mathematics and Computer Science at Wesleyan Univers
 - We will begin reviewing applications on **October 15, 2022**, but will continue accepting applications until the position is filled
 - 	Middletown, Connecticut. USA.
 
-[Full Job Ad](https://academicjobsonline.org/ajo/Wesleyan/COMP/22300){: .button-ad} 
+[Full Job Posting](https://academicjobsonline.org/ajo/Wesleyan/COMP/22300){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 
@@ -286,7 +286,7 @@ _Excerpt_ Willamette University invites applications for a tenure-track position
 - Applications will be reviewed beginning **November 1, 2022**
 - Salem, Oregon. USA.
 
-[Full Job Ad](https://willamette.wd1.myworkdayjobs.com/en-US/willametteuniversityjobs/job/Assistant-Professor--Computer-Science_R0004426){: .button-ad} 
+[Full Job Posting](https://willamette.wd1.myworkdayjobs.com/en-US/willametteuniversityjobs/job/Assistant-Professor--Computer-Science_R0004426){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
