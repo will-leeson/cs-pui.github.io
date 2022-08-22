@@ -117,12 +117,13 @@ _Excerpt_ Loyola University Maryland is hiring **two tenure-track positions at e
 ### Macalester College
 {: #macalester}
 
-_Excerpt_ The Department of Mathematics, Statistics, and Computer Science (MSCS) at Macalester College invites applications for a tenure-track assistant professor in Statistics to begin Fall 2023. Candidates must have or be completing a Ph.D. in Biostatistics or Statistics, or a closely related field such as Data Science, Computer Science, Engineering, Applied Mathematics, Bioinformatics, Epidemiology, etc. with a demonstrated interest and background in statistics and/or data science. They must have a strong commitment to and vision for excellence in teaching and research in an undergraduate liberal arts environment. We are especially interested in candidates who are enthusiastic to teach and develop a broad range of undergraduate statistics and data science courses, from the introductory to advanced level... We are open to scholarly interests from a wide range of areas, including but not limited to: machine learning, computational statistics, advanced statistical modeling, and data science. 
+_Excerpt_ The Department of Mathematics, Statistics, and Computer Science (MSCS) at Macalester College invites applications for one tenure-track assistant professor position in Computer Science to begin Fall 2023. Candidates who have, or are completing, a Ph.D. in Computer Science are preferred, but closely related fields with a demonstrated interest in Computer Science will also be considered. Candidates must have a strong commitment and vision for both teaching and research in an undergraduate liberal arts environment. They will contribute to the teaching of a broad range of courses, from introductory to advanced, and will mentor undergraduate research... Areas of highest priority include algorithms and theory, systems (including parallel / distributed, networks, or operating systems), programming languages, hardware, and data science.
 
-- Full consideration will be given to complete applications received by **October 1, 2022**
+ 
+- Full consideration will be given to complete applications received by **October 14, 2022**
 - Saint Paul, Minnesota. USA.
 
-[Full Job Posting](https://academicjobsonline.org/ajo/Macalester/MSCS/22065){: .button-job}
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/22390){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
