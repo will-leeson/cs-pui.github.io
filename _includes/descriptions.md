@@ -261,7 +261,7 @@ _Excerpt_ Wellesley College seeks candidates for faculty positions in computer s
 - Applications will be reviewed starting on **October 15, 2022** and will continue until the position is filled
 - Wellesley, MA. USA.
 
-[Full Job Posting](https://wellesley.wd1.myworkdayjobs.com/en-US/wellesley-staff/job/Wellesley-College/Assistant-Professor-of-Computer-Science_R0002367){: .button-job} 
+[Full Job Posting](https://wd1.myworkdaysite.com/en-US/recruiting/wellesley/wellesley-faculty/details/Professor-Associate-Professor-Assistant-Professor-of-Computer-Science_R0002367?q=computer+science){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
