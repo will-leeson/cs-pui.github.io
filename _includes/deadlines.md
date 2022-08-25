@@ -22,6 +22,7 @@
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
 | [Grinnell College](#grinnell) | Grinnell, IA | TBA |
 | [Lawrence University](#lawrence) | Appleton, WI | TBA |
+| [Mount St. Mary's University](#msmu) | Emmitsburg, MD | TBA |
 | [Oberlin College](#oberlin) | Oberlin, OH | TBA |
 | [Union College](#union) | Schenectady, NY | TBA | 
 | [Whitman College](#whitman) | Walla Walla, WA  | TBA |

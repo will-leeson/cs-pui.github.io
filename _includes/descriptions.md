@@ -162,6 +162,18 @@ _Excerpt_ The Mount Holyoke College Computer Science Department invites applicat
 
 ------------
 
+### Mount St. Mary's University
+{: #msmu}
+
+_Placeholder_ Mount St. Mary's University ad is forthcoming
+
+- Ad is forthcoming - TBA
+- Emmitsburg, MD. USA
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Oberlin College
 {: #oberlin}
 
