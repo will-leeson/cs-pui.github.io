@@ -26,3 +26,4 @@
 | [Oberlin College](#oberlin) | Oberlin, OH | TBA |
 | [Union College](#union) | Schenectady, NY | TBA | 
 | [Whitman College](#whitman) | Walla Walla, WA  | TBA |
+| [Colorado College](#colorado-college) | Colorado Springs, CO  | TBA |
