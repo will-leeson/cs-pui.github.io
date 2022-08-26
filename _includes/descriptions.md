@@ -25,6 +25,17 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Colorado College
+{: #colorado-college}
+
+_Placeholder_ Colorado College will again invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+
+- Applications will be reviewed beginning in November (deadline **October 21**).
+- Colorado Springs, Colorado. USA.
+
+[_back to all deadlines_](#deadlines)
+
+------------
 ### Denison University
 {: #denison}
 
