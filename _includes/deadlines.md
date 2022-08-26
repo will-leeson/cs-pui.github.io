@@ -20,10 +20,10 @@
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
 | [Harvey Mudd College (CS)](#hmc) | Claremont, CA | 11/01/2022 |
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
+| [Colorado College](#colorado-college) | Colorado Springs, CO  | TBA |
 | [Grinnell College](#grinnell) | Grinnell, IA | TBA |
 | [Lawrence University](#lawrence) | Appleton, WI | TBA |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | TBA |
 | [Oberlin College](#oberlin) | Oberlin, OH | TBA |
 | [Union College](#union) | Schenectady, NY | TBA | 
 | [Whitman College](#whitman) | Walla Walla, WA  | TBA |
-| [Colorado College](#colorado-college) | Colorado Springs, CO  | TBA |
