@@ -25,6 +25,17 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Colorado College
+{: #colorado-college}
+
+_Placeholder_ Colorado College will again invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+
+- Applications will be reviewed beginning in November (deadline **October 21**).
+- Colorado Springs, Colorado. USA.
+
+[_back to all deadlines_](#deadlines)
+
+------------
 ### Denison University
 {: #denison}
 
@@ -51,9 +62,17 @@ _Placeholder_ Grinnell College will invite applications for a tenure-track posit
 ------------
 
 ### Harvey Mudd College
-{: #hmc-climate}
+{: #hmc}
+**CS positions:** The Computer Science Department at Harvey Mudd College (HMC) has **multiple** tenure-track openings for assistant professors commencing July 1, 2023. (Exceptional candidates at higher ranks are also welcome to apply.) Candidates in all areas of computer science will be considered; candidates demonstrating interest and potential for teaching courses in the area of computer systems are especially encouraged to apply. 
 
-_Excerpt_ Harvey Mudd College invites applications for a tenure-track faculty position at the rank of Assistant Professor, beginning fall 2023. Exceptional candidates at higher ranks will also be considered. The position is jointly held through the Hixon Center for Climate and the Environment (HCCE) and the Department of Computer Science. All areas in computer science that align with the HCCE goals will be considered, with preference given to candidates who can significantly contribute to our course offerings and build a shared vision for climate and environmental studies at a liberal arts college of science and engineering ... The successful candidate will have a demonstrated commitment to developing excellence in teaching undergraduates and building a strong, independent research program.
+- Priority will be given to applications completed by **November 1, 2022**
+- Claremont, California. USA.
+
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/22228){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+**Climate and Environment:** _Excerpt_ Harvey Mudd College invites applications for a tenure-track faculty position at the rank of Assistant Professor, beginning fall 2023. Exceptional candidates at higher ranks will also be considered. The position is jointly held through the Hixon Center for Climate and the Environment (HCCE) and the Department of Computer Science. All areas in computer science that align with the HCCE goals will be considered, with preference given to candidates who can significantly contribute to our course offerings and build a shared vision for climate and environmental studies at a liberal arts college of science and engineering ... The successful candidate will have a demonstrated commitment to developing excellence in teaching undergraduates and building a strong, independent research program.
+{: #hmc-climate}
 
 - All applications received by **September 19, 2022** will receive full consideration
 - Claremont, California. USA.
@@ -117,12 +136,13 @@ _Excerpt_ Loyola University Maryland is hiring **two tenure-track positions at e
 ### Macalester College
 {: #macalester}
 
-_Excerpt_ The Department of Mathematics, Statistics, and Computer Science (MSCS) at Macalester College invites applications for a tenure-track assistant professor in Statistics to begin Fall 2023. Candidates must have or be completing a Ph.D. in Biostatistics or Statistics, or a closely related field such as Data Science, Computer Science, Engineering, Applied Mathematics, Bioinformatics, Epidemiology, etc. with a demonstrated interest and background in statistics and/or data science. They must have a strong commitment to and vision for excellence in teaching and research in an undergraduate liberal arts environment. We are especially interested in candidates who are enthusiastic to teach and develop a broad range of undergraduate statistics and data science courses, from the introductory to advanced level... We are open to scholarly interests from a wide range of areas, including but not limited to: machine learning, computational statistics, advanced statistical modeling, and data science. 
+_Excerpt_ The Department of Mathematics, Statistics, and Computer Science (MSCS) at Macalester College invites applications for one tenure-track assistant professor position in Computer Science to begin Fall 2023. Candidates who have, or are completing, a Ph.D. in Computer Science are preferred, but closely related fields with a demonstrated interest in Computer Science will also be considered. Candidates must have a strong commitment and vision for both teaching and research in an undergraduate liberal arts environment. They will contribute to the teaching of a broad range of courses, from introductory to advanced, and will mentor undergraduate research... Areas of highest priority include algorithms and theory, systems (including parallel / distributed, networks, or operating systems), programming languages, hardware, and data science.
 
-- Full consideration will be given to complete applications received by **October 1, 2022**
+ 
+- Full consideration will be given to complete applications received by **October 14, 2022**
 - Saint Paul, Minnesota. USA.
 
-[Full Job Posting](https://academicjobsonline.org/ajo/Macalester/MSCS/22065){: .button-job}
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/22390){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -149,6 +169,18 @@ _Excerpt_ The Mount Holyoke College Computer Science Department invites applicat
 - South Hadley, MA. USA.
 
 [Full Job Posting](https://careers.pageuppeople.com/1024/cw/en-us/job/493080/open-rank-professor-of-computer-science){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Mount St. Mary's University
+{: #msmu}
+
+_Placeholder_ Mount St. Mary's University ad is forthcoming
+
+- Ad is forthcoming - TBA
+- Emmitsburg, MD. USA
+
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -260,7 +292,7 @@ _Excerpt_ Wellesley College seeks candidates for faculty positions in computer s
 - Applications will be reviewed starting on **October 15, 2022** and will continue until the position is filled
 - Wellesley, MA. USA.
 
-[Full Job Posting](https://wellesley.wd1.myworkdayjobs.com/en-US/wellesley-staff/job/Wellesley-College/Assistant-Professor-of-Computer-Science_R0002367){: .button-job} 
+[Full Job Posting](https://wd1.myworkdaysite.com/en-US/recruiting/wellesley/wellesley-faculty/details/Professor-Associate-Professor-Assistant-Professor-of-Computer-Science_R0002367?q=computer+science){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
