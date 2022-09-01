@@ -25,17 +25,32 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
-### Colorado College
-{: #colorado-college}
+### Calvin University
+{: #calvin}
 
-_Placeholder_ Colorado College will again invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+_Excerpt_ The Department of Computer Science at Calvin University invites applications for two tenure-track faculty positions in computer science or data science to begin August 2023. Candidates at all levels of experience will be considered. We strongly encourage applications from women and other under-represented groups. Ideal candidates will hold a PhD in computer science, data science, or a related field. Candidates with a master’s degree and five years of relevant experience will also be considered. We are especially interested in further developing our expertise in the areas of data science and machine learning, but individuals from all computing-related areas are encouraged to apply. 
 
-- Applications will be reviewed beginning in November (deadline **October 21**).
-- Colorado Springs, Colorado. USA.
+- Applications completed by **November 1, 2022** will receive full consideration
+- Grand Rapids, MI, USA.
 
+[Full Job Posting](https://calvin.wd5.myworkdayjobs.com/en-US/CalvinUniversityCareers/job/Full-time-tenure-track-faculty-position-in-computer-science-department_R-1580){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
+
+### Colorado College
+{: #colorado-college}
+
+_Excerpt_ The Department of Mathematics and Computer Science at Colorado College invites applications for a tenure-track position at the Assistant Professor level to begin in August of 2023. We seek a computer scientist with broad teaching interests who can teach introductory as well as advanced computer science courses to a diverse community of undergraduate students and mentor computer science majors who are completing a capstone experience. We encourage candidates from all areas of computer science to apply. All candidates should be able to teach our introductory sequence, currently taught in Python and Java, and a variety of advanced computer science courses including a CS elective in their primary field of study. The successful candidate should also be able to maintain an active research program that can engage undergraduate students. Mentoring and advising students interested in computer science both at the introductory and more senior level is expected. Finally, the successful candidate will be expected to contribute to the department and the college through service.
+
+- Applications completed by **October 21** will receive full consideration).
+- Colorado Springs, Colorado. USA.
+
+[Full Job Posting](https://employment.coloradocollege.edu/postings/6352){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Denison University
 {: #denison}
 
