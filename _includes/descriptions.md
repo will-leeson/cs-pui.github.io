@@ -351,4 +351,17 @@ _Excerpt_ Willamette University invites applications for a tenure-track position
 
 ------------
 
+### Williams College
+{: #williams}
+
+_Excerpt_ The Department of Computer Science at Williams College invites applications for a tenured faculty position at the associate or full professor level beginning July 1, 2023.  We welcome candidates from all areas of computer science who can contribute to the vibrancy of our academic community through their research, teaching, and service. The successful candidate will join the department's thirteen current faculty in supporting a thriving undergraduate computer science major at a top-tier liberal arts college.  The annual teaching load is three courses, with associated labs, spread over the fall and spring semesters... Candidates should have a commitment to excellence in teaching, research, and leadership, as well as experience and interest in mentoring and departmental stewardship.  They must have a tenured faculty position or experience commensurate with such a position.  
+
+- Completed applications received by **December 1, 2022**, will receive full consideration
+- Williamstown, Massachusetts. USA.
+
+[Full Job Posting](https://apply.interfolio.com/111662){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 
