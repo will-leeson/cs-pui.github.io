@@ -41,11 +41,12 @@ _Excerpt_ The Department of Computer Science at Calvin University invites applic
 ### Colorado College
 {: #colorado-college}
 
-_Placeholder_ Colorado College will again invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+_Excerpt_ The Department of Mathematics and Computer Science at Colorado College invites applications for a tenure-track position at the Assistant Professor level to begin in August of 2023. We seek a computer scientist with broad teaching interests who can teach introductory as well as advanced computer science courses to a diverse community of undergraduate students and mentor computer science majors who are completing a capstone experience. We encourage candidates from all areas of computer science to apply. All candidates should be able to teach our introductory sequence, currently taught in Python and Java, and a variety of advanced computer science courses including a CS elective in their primary field of study. The successful candidate should also be able to maintain an active research program that can engage undergraduate students. Mentoring and advising students interested in computer science both at the introductory and more senior level is expected. Finally, the successful candidate will be expected to contribute to the department and the college through service.
 
-- Applications will be reviewed beginning in November (deadline **October 21**).
+- Applications completed by **October 21** will receive full consideration).
 - Colorado Springs, Colorado. USA.
 
+[Full Job Posting](https://employment.coloradocollege.edu/postings/6352){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
