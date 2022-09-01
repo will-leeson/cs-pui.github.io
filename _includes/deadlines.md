@@ -20,6 +20,7 @@
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
 | [Harvey Mudd College (CS)](#hmc) | Claremont, CA | 11/01/2022 |
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
+| [Calvin University](#calvin) | Grand Rapids, MI | 11/01/2022 |
 | [Colorado College](#colorado-college) | Colorado Springs, CO  | TBA |
 | [Grinnell College](#grinnell) | Grinnell, IA | TBA |
 | [Lawrence University](#lawrence) | Appleton, WI | TBA |
