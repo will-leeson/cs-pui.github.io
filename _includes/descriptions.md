@@ -25,6 +25,19 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Calvin University
+{: #calvin}
+
+_Excerpt_ The Department of Computer Science at Calvin University invites applications for two tenure-track faculty positions in computer science or data science to begin August 2023. Candidates at all levels of experience will be considered. We strongly encourage applications from women and other under-represented groups. Ideal candidates will hold a PhD in computer science, data science, or a related field. Candidates with a master’s degree and five years of relevant experience will also be considered. We are especially interested in further developing our expertise in the areas of data science and machine learning, but individuals from all computing-related areas are encouraged to apply. 
+
+- Applications completed by **November 1, 2022** will receive full consideration
+- Grand Rapids, MI, USA.
+
+[Full Job Posting](https://calvin.wd5.myworkdayjobs.com/en-US/CalvinUniversityCareers/job/Full-time-tenure-track-faculty-position-in-computer-science-department_R-1580){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Colorado College
 {: #colorado-college}
 
@@ -36,6 +49,7 @@ _Placeholder_ Colorado College will again invite applications for a tenure-track
 [_back to all deadlines_](#deadlines)
 
 ------------
+
 ### Denison University
 {: #denison}
 
