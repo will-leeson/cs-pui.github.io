@@ -2,6 +2,7 @@
 | :----       | :---       | :--- |
 | [Harvey Mudd College (Climate & Env)](#hmc-climate) | Claremont, CA | 09/19/2022 |
 | [Carleton College](#carleton) | Northfield, MN | 09/28/2022 |
+| [Lawrence University](#lawrence) | Appleton, WI | 10/01/2022 |
 | [Middlebury College](#midd) | Middlebury, VT | 10/01/2022 |
 | [Occidental College](#oxy) | Los Angelos, CA | 10/02/2022 |
 | [Loyola University Maryland](#lum) | Baltimore, MD | 10/07/2022 |
@@ -24,7 +25,6 @@
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
 | [Grinnell College](#grinnell) | Grinnell, IA | TBA |
-| [Lawrence University](#lawrence) | Appleton, WI | TBA |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | TBA |
 | [Oberlin College](#oberlin) | Oberlin, OH | TBA |
 | [Union College](#union) | Schenectady, NY | TBA | 
