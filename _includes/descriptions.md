@@ -229,7 +229,7 @@ _Excerpt_ Occidental faculty are committed teacher-scholars who bring research a
 ### Pomona College
 {: #pomona}
 
-_Excerpt_ Pomona College seeks applications for **two** Open-Rank (assistant, associate, or full) Professor of Computer Science positions, to begin on July 1, 2023. All subfields of computer science will be considered. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research. The teaching load is two courses a semester for the two semesters a year. Faculty are expected to teach across all levels of the curriculum. Candidates should have a Ph.D. in hand by the start date... We value candidates who have experience working with students from diverse backgrounds and who are able to demonstrate a commitment to improving higher education for underrepresented students through their teaching, scholarship, or service.
+_Excerpt_ Pomona College seeks applications for two Open-Rank (assistant, associate, or full) Professor of Computer Science positions, to begin on July 1, 2023. All subfields of computer science will be considered. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research. The teaching load is two courses a semester for the two semesters a year. Faculty are expected to teach across all levels of the curriculum. Candidates should have a Ph.D. in hand by the start date.
 
 - Review of applications will begin on **October 15, 2022** and will continue until the position is filled.
 - Claremont, California. USA
