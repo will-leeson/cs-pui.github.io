@@ -126,11 +126,12 @@ _Excerpt_ The Lafayette College Computer Science Department invites applications
 ### Lawrence University 
 {: #lawrence}
 
-_Placeholder_ Lawrence University will invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+_Excerpt_ Lawrence University, a liberal arts college and conservatory of music in Appleton, Wisconsin, invites applications for a full-time tenure track position as Assistant Professor of Computer Science to begin September 1, 2023. Appointment at the associate level may be considered commensurate with experience. A PhD in Computer Science or closely related field is required by job start date. The Department of Mathematics, Statistics, and Computer Science seeks an excellent teacher who is passionate about working with undergraduates in a liberal arts setting while actively engaging in high-quality research. Candidates should be enthusiastic to teach broadly, including introductory and core courses (e.g., programming, algorithms, data structures) as well as advanced offerings in their particular areas of interest and expertise. Computer scientists from all research areas are encouraged to apply.
 
-- Applications will be reviewed at the beginning of October (deadline TBA).
+- Review of applications will begin **October 1, 2022**, and continue until the position is filled.
 - Appleton, WI. USA.
 
+[Full Job Posting](https://lawrence.peopleadmin.com/postings/1039){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
