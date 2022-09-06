@@ -19,6 +19,7 @@
 | [Mount Holyoke College](#holyoke) | South Hadley, MA | 10/17/2022 |
 | [College of the Holy Cross](#holy-cross) | Worcester, MA | 10/21/2022 |
 | [Colorado College](#colorado-college) | Colorado Springs, CO  | 10/21/2022 |
+| [Bowdoin College](#bowdoin) | Brunswick, ME  | 10/22/2022 |
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
 | [Harvey Mudd College (CS)](#hmc) | Claremont, CA | 11/01/2022 |
 | [Calvin University](#calvin) | Grand Rapids, MI | 11/01/2022 |

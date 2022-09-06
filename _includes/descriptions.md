@@ -12,6 +12,19 @@ _Excerpt_ Berea College seeks applications for a full-time, tenure-track opening
 
 ------------
 
+### Bowdoin College
+{: #bowdoin}
+
+_Excerpt_ The Department of Computer Science at Bowdoin College invites applications for a full-time tenure-track position at the rank of assistant professor to begin July 1, 2023. We welcome applications from all areas of computer science, as well as areas that cross disciplinary boundaries. The teaching load is two courses per semester. The successful candidate will share responsibility for introductory and intermediate level courses, teach advanced courses in their area of specialization, and encourage student involvement in their research. A PhD in computer science is expected by the time of appointment... Applicants should demonstrate a promise of successful long-term research, a strong commitment to undergraduate liberal arts education, and a dedication to inclusive excellence in their teaching
+
+- Review of applications will begin **October 22, 2022**, and will continue until the position is filled
+- Brunswick, Maine. USA.
+
+[Full Job Posting](https://careers.bowdoin.edu/postings/9978){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Carleton College
 {: #carleton}
 
