@@ -13,6 +13,7 @@
 | [University of Richmond](#richmond) | Richmond, VA | 10/14/2022 |
 | [Smith College](#smith) | Northampton, MA | 10/14/2022 |
 | [Berea College](#berea) | Berea, KY | 10/15/2022 |
+| [Colgate University](#colgate) | Hamilton, NY | 10/15/2022 |
 | [Pomona College](#pomona) | Claremont, CA | 10/15/2022 |
 | [Wellesley College](#wellesley) | Wellesley, MA | 10/15/2022 |
 | [Wesleyan University](#wesleyan) | Middleton, CT | 10/15/2022 |

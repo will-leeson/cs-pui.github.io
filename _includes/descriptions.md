@@ -51,6 +51,19 @@ _Excerpt_ The Department of Computer Science at Calvin University invites applic
 
 ------------
 
+### Colgate University
+{: #colgate}
+
+_Excerpt_ The Department of Computer Science at Colgate University invites applications for **two** tenure-stream positions at the rank of Assistant Professor, beginning fall semester 2023. A Ph.D. in computer science or a related field is required at the time of appointment or shortly after the date of hire. We encourage candidates from all areas of computer science to apply. We welcome applications from individuals who are passionate about research, with a strong record of scholarly work and a promising trajectory of future research. In addition, successful applicants are expected to demonstrate the potential for excellence in teaching at the undergraduate level. We seek candidates with an interest and ability to teach required courses in our curriculum and elective courses in computer science.
+
+- Review of applications will begin on **October 15th, 2022**
+- Hamilton, New York. USA.
+
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/22748){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Colorado College
 {: #colorado-college}
 
