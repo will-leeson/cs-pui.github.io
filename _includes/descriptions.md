@@ -103,6 +103,19 @@ _Excerpt_ The Department of Computer Science invites applications for a tenure-t
 
 ------------
 
+### Hamilton College
+{: #hamilton}
+
+_Excerpt_ The Computer Science Department at Hamilton College invites applications for **two** tenure-track positions at the rank of Assistant Professor, beginning July 1, 2023. We seek candidates with expertise in an applied area of computer science. In particular, we are seeking candidates who can contribute new advanced courses in computer science (at the junior/senior level). We are seeking candidates who can demonstrate their experience in teaching or working with diverse student populations. Your cover letter should address the ways in which you would further the College's goal of building a diverse and inclusive educational environment. We expect an ongoing research program that could involve undergraduate researchers. Research support includes start-up funds, a summer student research program, annual conference travel, and a generous sabbatical leave program. The position requires institutional service including academic advising of undergraduate students after the first year.
+
+- Our review of applications will begin on **October 17, 2022**
+- Clinton, New York. USA.
+
+[Full Job Posting](https://apply.interfolio.com/112847){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Harvey Mudd College
 {: #hmc}
 **CS positions:** The Computer Science Department at Harvey Mudd College (HMC) has **multiple** tenure-track openings for assistant professors commencing July 1, 2023. (Exceptional candidates at higher ranks are also welcome to apply.) Candidates in all areas of computer science will be considered; candidates demonstrating interest and potential for teaching courses in the area of computer systems are especially encouraged to apply. 
