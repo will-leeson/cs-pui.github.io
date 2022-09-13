@@ -93,11 +93,12 @@ _Excerpt_ The Computer Science program at Denison University invites application
 ### Grinnell College 
 {: #grinnell}
 
-_Placeholder_ Grinnell College will invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+_Excerpt_ The Department of Computer Science invites applications for a tenure-track appointment beginning Fall 2023. Assistant Professor (Ph.D.) preferred; Instructor (ABD) or Associate Professor possible. The Department will prioritize candidates interested in teaching systems [and/or software engineering] courses, but we are eager to consider candidates who conduct research in any area of Computer Science. Candidates with degrees in closely related fields will also be considered. Candidates are expected to describe the ways they can support and engage with students and colleagues from historically underrepresented or marginalized groups. The teaching load is five courses (or equivalent; some classes with a significant lab component are credited as 1.5 courses) over two semesters; periodically one course will be Tutorial (a topical writing/critical thinking course for first-year students).
 
-- Applications will be reviewed at the beginning of November (deadline TBA).
+- To be assured of full consideration, all application materials should be received by **October 16, 2022**
 - Grinnell, Iowa. USA.
 
+[Full Job Posting](https://apply.interfolio.com/113103){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -311,6 +312,31 @@ _Excerpt_ The Department of Computer Science at Smith College invites applicatio
 - Northampton, MA. USA.
 
 [Full Job Posting](https://apply.interfolio.com/110749){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Spelman College
+{: #spelman}
+
+_Excerpt_ Spelman College invites applications for a tenure-track position at the rank Assistant Professor in all areas of Computer Science to begin in August 2023. Special consideration will be given to candidates in software engineering, machine learning, and artificial intelligence. The successful candidate will demonstrate not only potential for excellent undergraduate teaching, but also promise in sustained research with opportunities to involve undergraduates, mentoring, and service to the department and College. The ideal candidate should have a Ph.D. in Computer Science or related field and be able to teach courses within the core curriculum of computer science, including: data structures, software engineering, programming languages, and introductory programming courses.
+
+- Ad is currently open and has a close date of February 15, 2023. (_Note from Evan: I'm looking into this to see if there is more guidance._)
+- Atlanta, GA. USA.
+
+[Full Job Posting](https://spelman.peopleadmin.com/postings/4516){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Transylvania University
+{: #transy}
+
+_Excerpt_ Transylvania University (www.transy.edu), a top-tier, independent, residential liberal arts college in Lexington, Kentucky, invites applications for the position of Assistant Professor of Computer Science. This is a tenure-track position, teaching in-person classes, beginning September 1, 2023. Transylvania University recognizes that a diverse and inclusive community is essential to the fulfillment of our mission as a liberal arts institution. To that end, we seek to attract a diverse faculty skilled in the scholarship of teaching, research, and mentorship of students from a variety of backgrounds. Candidates are encouraged, in their cover letter, to identify their strengths and experiences in creating an inclusive academic community.
+- Review of applications will begin on **October 1, 2022**
+- Lexington, KY.  USA.
+
+[Full Job Posting](https://www.joblinkapply.com/Joblink/4637/Job/Index/579487/assistant-professor-of-computer-science){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
