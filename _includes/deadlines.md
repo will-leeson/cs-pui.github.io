@@ -15,6 +15,7 @@
 | [Smith College](#smith) | Northampton, MA | 10/14/2022 |
 | [Berea College](#berea) | Berea, KY | 10/15/2022 |
 | [Colgate University](#colgate) | Hamilton, NY | 10/15/2022 |
+| [Oberlin College](#oberlin) | Oberlin, OH | 10/15/2022 |
 | [Pomona College](#pomona) | Claremont, CA | 10/15/2022 |
 | [Wellesley College](#wellesley) | Wellesley, MA | 10/15/2022 |
 | [Wesleyan University](#wesleyan) | Middleton, CT | 10/15/2022 |
@@ -30,7 +31,6 @@
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | TBA |
-| [Oberlin College](#oberlin) | Oberlin, OH | TBA |
 | [Spelman College](#spelman) | Atlanta, GA | TBA |
 | [Union College](#union) | Schenectady, NY | TBA | 
 | [Whitman College](#whitman) | Walla Walla, WA  | TBA |
