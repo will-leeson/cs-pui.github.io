@@ -244,7 +244,11 @@ _Placeholder_ Mount St. Mary's University ad is forthcoming
 ### Oberlin College
 {: #oberlin}
 
-_Excerpt_  The Computer Science Department at Oberlin College invites applications for two full-time tenure track faculty positions in the College of Arts and Sciences. We seek candidates with teaching and research interests in any area of Computer Science, and especially encourage candidates with interest in theory, systems and machine learning/data science to apply. Initial appointment to this position will be for a term of four years, beginning fall semester of year 2023, and will carry the rank of Assistant Professor.
+_Excerpt_  The Computer Science Department at Oberlin College invites applications for two full-time,
+tenure track faculty positions in the College of Arts and Sciences to begin Fall 2023. We especially
+encourage applicants with research interests in Theory, Systems, or Machine Learning/Data Science to
+apply. To be assured of consideration, submit required application materials for this position found at
+https://jobs.oberlin.edu/ by October 15, 2022.
 
 - Completed applications received by the **October 15, 2022** deadline will be guaranteed full consideration. 
 - Oberlin, OH. USA
