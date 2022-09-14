@@ -244,11 +244,16 @@ _Placeholder_ Mount St. Mary's University ad is forthcoming
 ### Oberlin College
 {: #oberlin}
 
-_Placeholder_ Oberlin expects to invite applications for 1-2 tenure-track positions starting in Fall 2023. Anticipated open hire(s), with a special interest in Theory, Systems, and AI.
+_Excerpt_  The Computer Science Department at Oberlin College invites applications for **two** full-time,
+tenure track faculty positions in the College of Arts and Sciences to begin Fall 2023. We especially
+encourage applicants with research interests in Theory, Systems, or Machine Learning/Data Science to
+apply. To be assured of consideration, submit required application materials for this position found at
+https://jobs.oberlin.edu/ by October 15, 2022.
 
-- Ad is forthcoming - TBA
+- Completed applications received by the **October 15, 2022** deadline will be guaranteed full consideration. 
 - Oberlin, OH. USA
 
+[Full Job Posting](https://jobs.oberlin.edu/postings/12946){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
