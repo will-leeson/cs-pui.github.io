@@ -310,6 +310,19 @@ _Excerpt_ The University of Richmond Department of Computer Science invites appl
 
 ------------
 
+### University of the Pacific
+{: #pacific}
+
+_Excerpt_ The Department of Computer Science at the University of the Pacific School of Engineering and Computer Science invites applications for one or more tenure-track positions at the rank of Assistant Professor, to start in Fall 2023. This is a unique opportunity for a faculty position in a great location. ... The School of Engineering and Computer Science takes pride in providing a superior, student-centered learning environment that emphasizes close faculty-student interaction and cooperative education. This combination of personal attention and professional practice prepares graduates who excel in the engineering and computing professions and are qualified to pursue advanced degrees. ... We will consider applicants from any area of Computer Science. Applicants interested in software engineering and interdisciplinary fields of study are encouraged to apply.
+
+- Position will remain open until filled
+- Stockton, CA. USA.
+
+[Full Job Posting](https://pacific.peopleadmin.com/postings/23648){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### University of San Francisco
 {: #usfca}
 
