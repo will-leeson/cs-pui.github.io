@@ -90,6 +90,19 @@ _Excerpt_ The Computer Science program at Denison University invites application
 
 ------------
 
+### University of St. Thomas 
+{: #stthomas}
+
+_Excerpt_ The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for a tenure-track assistant professor position in computer science. The appointment will begin in fall 2023, and the search committee welcomes applicants with expertise in any area of computer science. We are seeking outstanding candidates who are dedicated to innovative undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty.
+
+- To be assured of full consideration, all application materials should be received by **October 16, 2022**
+- Grinnell, Iowa. USA.
+
+[Full Job Posting](https://facultyemployment-stthomas.icims.com/jobs/6513/tenure-track%2c-assistant-professor%2c-computer-and-information-sciences/job){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Grinnell College 
 {: #grinnell}
 
