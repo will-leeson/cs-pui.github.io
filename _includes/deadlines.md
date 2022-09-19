@@ -30,6 +30,7 @@
 | [Calvin University](#calvin) | Grand Rapids, MI | 11/01/2022 |
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
+| [University of the Pacific](#pacific) | Stockton, CA | open until filled |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | TBA |
 | [Spelman College](#spelman) | Atlanta, GA | TBA |
 | [Union College](#union) | Schenectady, NY | TBA | 
