@@ -77,6 +77,19 @@ _Excerpt_ The Department of Mathematics and Computer Science at Colorado College
 
 ------------
 
+### Creighton University
+{: #creighton}
+
+_Excerpt_ Creighton University invites applications for a Clare Boothe Luce Faculty Chair in Computer Science. The Department of Computer Science, Design & Journalism is seeking an individual with the potential to be an excellent teacher-scholar and an exemplary mentor for undergraduate women interested in STEM careers. The appointment begins in August 2023 and is tenure-track at the Assistant Professor level. The position is a rotating chair, established under the terms of the Luce Foundation to increase the representation of women in STEM careers.  The chair oversees the Clare Boothe Luce Undergraduate Scholarship program and receives salary and research support, a reduced teaching load, and a substantial budget for student mentoring and outreach activities. After an appointment of up to five (5) years, the recipient is eligible for tenure and advancement as a regular member of the Department of Computer Science, Design & Journalism.  
+
+- Review of completed applications will begin **October 22nd, 2022** and continue until the position is filled.
+- Omaha, Nebraska. USA.
+
+[Full Job Posting](https://creighton.referrals.selectminds.com/jobs/assistant-professor-of-computer-science-clare-boothe-luce-faculty-chair-3273){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Denison University
 {: #denison}
 
