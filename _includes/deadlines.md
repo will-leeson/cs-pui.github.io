@@ -23,6 +23,7 @@
 | [Wesleyan University](#wesleyan) | Middleton, CT | 10/15/2022 |
 | [University of St. Thomas](#stthomas) | Saint Paul, MN | 10/16/2022 |
 | [Grinnell College](#grinnell) | Grinnell, IA | 10/16/2022 |
+| [Colby College](#colby-env) | Watervill, ME | 10/17/2022 |
 | [Hamilton College](#hamilton) | Clinton, NY | 10/17/2022 |
 | [Mount Holyoke College](#holyoke) | South Hadley, MA | 10/17/2022 |
 | [College of the Holy Cross](#holy-cross) | Worcester, MA | 10/21/2022 |

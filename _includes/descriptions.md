@@ -77,6 +77,19 @@ _Excerpt_ The Department of Computer Science at Calvin University invites applic
 
 ------------
 
+### Colby College
+{: #colby-env}
+
+_Excerpt_ The Environmental Studies (ES) Department and the Davis Institute for Artificial Intelligence at Colby College invite applicants for a tenure track assistant professor position in Environmental Artificial Intelligence to begin September 1, 2023. We invite candidates who develop and use artificial intelligence (AI) to harness environmental, ecological, technical or social data to address complex environmental problems. We are particularly interested in scholars who are able to collaborate across disciplinary boundaries with colleagues from the natural sciences, social sciences, or the humanities. Candidates should have a Ph.D. in a related discipline and a strong commitment to undergraduate education. The successful candidate will teach introductory and advanced courses in the development and application of AI in an environmental context as well as contribute to courses in the environmental studies curriculum. This candidate will contribute core courses to our interdisciplinary Environmental Computation major and have opportunities to participate in established collaborations with the Bigelow Laboratory for Ocean Sciences.
+
+- Review of applications will begin on **October 17, 2022** and will continue until the position is filled
+- Watervill, ME, USA.
+
+[Full Job Posting](https://apply.interfolio.com/113634){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Colgate University
 {: #colgate}
 
