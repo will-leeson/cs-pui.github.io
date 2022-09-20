@@ -360,6 +360,19 @@ _Excerpt_ Spelman College invites applications for a tenure-track position at th
 
 ------------
 
+### University of St. Thomas 
+{: #stthomas}
+
+_Excerpt_ The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for a tenure-track assistant professor position in computer science. The appointment will begin in fall 2023, and the search committee welcomes applicants with expertise in any area of computer science. We are seeking outstanding candidates who are dedicated to innovative undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty.
+
+- Review of applications will begin on **October 16, 2022**, and will continue until the position is filled.
+- Saint Paul, Minnesota. USA.
+
+[Full Job Posting](https://facultyemployment-stthomas.icims.com/jobs/6513/tenure-track%2c-assistant-professor%2c-computer-and-information-sciences/job){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Transylvania University
 {: #transy}
 
