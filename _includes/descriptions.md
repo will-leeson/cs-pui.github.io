@@ -1,4 +1,17 @@
 
+### Bard College
+{: #bard}
+
+_Excerpt_ Bard College invites applications for two full-time tenure-track assistant professor positions to begin fall 2023.  A Ph.D. in computer science or a related field is required.  The successful candidate will be committed to innovative undergraduate teaching at a liberal arts college; maintaining an active research program; contributing to the general education curriculum; and engaging with the life of the college... We seek candidates with scholarly pursuits that complement the current faculty specializations in computational biology, computer science education, artificial intelligence, natural language, spoken human/computer interfaces, and algebraic and symbolic computation.  We are also interested in candidates who can contribute to existing interdisciplinary connections on campus and help us establish new ones.
+
+- Review of applications will begin **October 15, 2022**
+- Annandale-on-Hudson, New York. USA.
+
+[Full Job Posting](https://apply.interfolio.com/113677){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Berea College
 {: #berea}
 
