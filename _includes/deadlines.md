@@ -17,6 +17,7 @@
 | [Colgate University](#colgate) | Hamilton, NY | 10/15/2022 |
 | [Oberlin College](#oberlin) | Oberlin, OH | 10/15/2022 |
 | [Pomona College](#pomona) | Claremont, CA | 10/15/2022 |
+| [Vassar College](#vassar) | Poughkeepsie, NY | 10/15/2022 |
 | [Wellesley College](#wellesley) | Wellesley, MA | 10/15/2022 |
 | [Wesleyan University](#wesleyan) | Middleton, CT | 10/15/2022 |
 | [University of St. Thomas](#stthomas) | Saint Paul, MN | 10/16/2022 |

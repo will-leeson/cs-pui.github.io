@@ -396,6 +396,20 @@ _Placeholder_ Union College expects to invite applications for a tenure-track po
 
 ------------
 
+### Vassar College
+{: #vassar}
+
+_Excerpt_ Vassar College’s Computer Science Department seeks to hire a tenure-track Assistant Professor starting in August 2023. We seek creative individuals who are able to teach undergraduate courses in the department, maintain an active research program, and engage undergraduates in their research. The ideal candidate would be able to teach courses at all levels of the curriculum, including an upper-level course they develop in their area of research. Candidates with expertise in Human-Computer Interaction (HCI) or a related area are especially encouraged to apply. A PhD in Computer Science or a related field is expected by the start of the Fall 2023 semester. A typical teaching load is one lab course and one non-lab course each semester.
+
+
+- Complete applications received by **October 15, 2022**, will receive full consideration
+- Poughkeepsie, NY. USA.
+
+[Full Job Posting](https://employment.vassar.edu/postings/2840){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Wellesley College
 {: #wellesley}
 
