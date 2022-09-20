@@ -1,4 +1,17 @@
 
+### Amherst College
+{: #amherst}
+
+_Excerpt_ The Amherst College Department of Computer Science invites applications for a full-time tenure-track position at the rank of assistant professor, beginning July 1, 2023.  Candidates in all areas of computer science are encouraged to apply.  The college is committed to cultivating an inclusive and critically engaging educational environment.  Nearly one-quarter of Amherst’s students are Pell Grant recipients; close to half are domestic students of color; 10 percent are international students; and 15 percent are the first members of their families to attend college.  Amherst is committed to providing financial aid that meets 100 percent of every student’s demonstrated need, and 57 percent of our students receive financial aid.  The expectation is that the successful candidate will excel at teaching and mentoring our extraordinarily talented students, who are broadly diverse with regard to race, ethnicity, socioeconomic status, gender, nationality, sexual identity, disability, and religion. 
+
+- Applications received by **October 24, 2022**, will be assured of full consideration
+- Amherst, Massachussetts. USA.
+
+[Full Job Posting](https://apply.interfolio.com/113839){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Bard College
 {: #bard}
 
