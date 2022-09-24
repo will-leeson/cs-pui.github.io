@@ -323,6 +323,19 @@ _Excerpt_ Occidental faculty are committed teacher-scholars who bring research a
 
 ------------
 
+### Olin College
+{: #olin}
+
+_Excerpt_ Are you passionate about equity and access? Do you want to join us in reframing who can be engineers and what counts as engineering? Do you want to mentor students to better integrate engineering and other fields as they study and tackle complex technical systems and societal challenges? Come join our team. We are particularly interested in candidates (all ranks) with computing backgrounds who demonstrate a commitment to engaging students in real-world and transdisciplinary contexts and whose work is aligned with Olin’s strategic priorities. “Computing” includes traditional computing fields like computer science, computer engineering, software engineering, and data science but also may include the use of computational techniques in the natural sciences, social sciences, arts, or humanities. Olin is committed to becoming an increasingly inclusive and diverse learning community that supports equitable learning opportunities for everyone, and we strongly encourage women and individuals from historically underrepresented communities to apply 
+
+- First consideration will be given to applications received by **November 1, 2022**, but applications will be considered until **December 15**
+- Needham, MA. USA.
+
+[Full Job Posting](https://www.olin.edu/about-employment-opportunities/faculty-openings-computing-will-consider-other-fields){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### University of the Pacific
 {: #pacific}
 

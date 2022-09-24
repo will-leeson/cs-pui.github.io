@@ -34,6 +34,7 @@
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
 | [Harvey Mudd College (CS)](#hmc) | Claremont, CA | 11/01/2022 |
 | [Calvin University](#calvin) | Grand Rapids, MI | 11/01/2022 |
+| [Olin College](#olin) | Needham, MA | 11/01/2022 |
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
