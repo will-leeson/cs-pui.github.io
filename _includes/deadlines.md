@@ -32,6 +32,7 @@
 | [Creighton University](#creighton) | Omaha, NE  | 10/22/2022 |
 | [Amherst College](#amherst) | Amherst, MA | 10/24/2022 |
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
+| [Kenyon College](#kenyon) | Gambier, OH | 10/31/2022 |
 | [Harvey Mudd College (CS)](#hmc) | Claremont, CA | 11/01/2022 |
 | [Calvin University](#calvin) | Grand Rapids, MI | 11/01/2022 |
 | [Olin College](#olin) | Needham, MA | 11/01/2022 |
