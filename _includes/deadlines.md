@@ -38,6 +38,7 @@
 | [Olin College](#olin) | Needham, MA | 11/01/2022 |
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
+| [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | TBA |
 | [Spelman College](#spelman) | Atlanta, GA | TBA |
