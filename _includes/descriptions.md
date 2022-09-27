@@ -62,6 +62,19 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 [Full Job Posting](https://careers.carleton.edu/en-us/job/492888/assistant-professor-of-computer-science){: .button-job}
 [_back to all deadlines_](#deadlines)
 
+------
+
+### Cal Poly, San Luis Obispo
+{: #cal-poly}
+
+_Excerpt_ The Computer Science and Software Engineering Department within the College of Engineering at California Polytechnic State University in San Luis Obispo, California (Cal Poly) invites applications for a full-time, tenure-track Computer Science faculty position at the Assistant Professor rank beginning Fall Quarter 2023. Duties include teaching undergraduate and master's level courses, supporting and expanding curricular development in Computer Science and Software Engineering, pursuing research in one's area of expertise, and providing service to the department, the university, and the community. Qualified candidates with teaching interests in the department areas of need are strongly encouraged to apply. The Cal Poly College of Engineering strongly values diversity, equity, and inclusion (DEI), especially in the classroom and among its areas of study. This position is part of a college-wide cluster of faculty recruitment designed to promote inclusive and equity-minded teaching strategies as well as to increase curricular coverage of the intersection of engineering and computing with societal challenges, particularly around DEI issues. Successful candidates will be expected to contribute to the college’s goals in these areas.
+
+- Review begins on **December 5, 2022**. The application will be open until the position is filled.
+- San Luis Obispo, California. USA.
+
+[Full Job Posting](https://jobs.calpoly.edu/en-us/job/516677/assistant-professor-computer-science-and-software-engineering){: .button-job}
+[_back to all deadlines_](#deadlines)
+
 ------------
 
 ### Calvin University
@@ -553,16 +566,4 @@ _Excerpt_ The Department of Computer Science at Williams College invites applica
 [_back to all deadlines_](#deadlines)
 
 ------------
-
-### Cal Poly, San Luis Obispo
-{: #cal-poly}
-
-_Excerpt_ The Computer Science and Software Engineering Department within the College of Engineering at California Polytechnic State University in San Luis Obispo, California (Cal Poly) invites applications for a full-time, tenure-track Computer Science faculty position at the Assistant Professor rank beginning Fall Quarter 2023. Duties include teaching undergraduate and master's level courses, supporting and expanding curricular development in Computer Science and Software Engineering, pursuing research in one's area of expertise, and providing service to the department, the university, and the community. Qualified candidates with teaching interests in the department areas of need are strongly encouraged to apply. The Cal Poly College of Engineering strongly values diversity, equity, and inclusion (DEI), especially in the classroom and among its areas of study. This position is part of a college-wide cluster of faculty recruitment designed to promote inclusive and equity-minded teaching strategies as well as to increase curricular coverage of the intersection of engineering and computing with societal challenges, particularly around DEI issues. Successful candidates will be expected to contribute to the college’s goals in these areas.
-
-- Review begins on **December 5, 2022**. The application will be open until the position is filled.
-- San Luis Obispo, California. USA.
-
-[Full Job Posting](https://jobs.calpoly.edu/en-us/job/516677/assistant-professor-computer-science-and-software-engineering){: .button-job}
-[_back to all deadlines_](#deadlines)
-
 
