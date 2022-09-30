@@ -9,6 +9,7 @@
 | [Loyola University Maryland](#lum) | Baltimore, MD | 10/07/2022 |
 | [University of San Francisco](#usfca) | San Francisco, CA | 10/07/2022 |
 | [Denison University](#denison) | Granville, OH | 10/10/2022 |
+| [Colby College](#colby-cs) | Waterville, ME | 10/14/2022 |
 | [Macalester College](#macalester) | Saint Paul, MN | 10/14/2022 |
 | [Reed College](#reed) | Portland, OR | 10/14/2022 |
 | [University of Richmond](#richmond) | Richmond, VA | 10/14/2022 |
@@ -23,7 +24,7 @@
 | [Wesleyan University](#wesleyan) | Middleton, CT | 10/15/2022 |
 | [University of St. Thomas](#stthomas) | Saint Paul, MN | 10/16/2022 |
 | [Grinnell College](#grinnell) | Grinnell, IA | 10/16/2022 |
-| [Colby College](#colby-env) | Watervill, ME | 10/17/2022 |
+| [Colby College](#colby-env) | Waterville, ME | 10/17/2022 |
 | [Hamilton College](#hamilton) | Clinton, NY | 10/17/2022 |
 | [Mount Holyoke College](#holyoke) | South Hadley, MA | 10/17/2022 |
 | [The College of New Jersey] (#tcnj) | Ewing, NJ | 10/17/2022 |
