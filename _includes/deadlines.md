@@ -27,7 +27,7 @@
 | [Colby College](#colby-env) | Waterville, ME | 10/17/2022 |
 | [Hamilton College](#hamilton) | Clinton, NY | 10/17/2022 |
 | [Mount Holyoke College](#holyoke) | South Hadley, MA | 10/17/2022 |
-| [The College of New Jersey] (#tcnj) | Ewing, NJ | 10/17/2022 |
+| [The College of New Jersey](#tcnj) | Ewing, NJ | 10/17/2022 |
 | [College of the Holy Cross](#holy-cross) | Worcester, MA | 10/21/2022 |
 | [Colorado College](#colorado-college) | Colorado Springs, CO  | 10/21/2022 |
 | [Bowdoin College](#bowdoin) | Brunswick, ME  | 10/22/2022 |
