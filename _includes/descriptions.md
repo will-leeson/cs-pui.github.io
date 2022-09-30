@@ -116,6 +116,19 @@ _Excerpt_ The Department of Computer Science at Colgate University invites appli
 
 ------------
 
+### The College of New Jersey
+{: #tcnj}
+
+_Excerpt_ The Department of Computer Science at The College of New Jersey (TCNJ) invites applications for a tenure-track Assistant Professor position, to join our community starting in August 2023. We are seeking broadly trained applicants from all areas of computer science. We are especially interested in applicants whose scholarship and pedagogy can connect and integrate computer science with other disciplines and who have the potential to deeply engage with, and contribute to, either or both of the TCNJ’s two thematic clusters (broadly defined): Data-/Cyber-connected disciplines and Social/Racial Justice. The hires will build on and expand existing faculty strengths in these areas, bringing a cluster of 11 new teacher-scholars and practitioners across a range of academic disciplines to TCNJ. The CS faculty is diverse and enjoys great support from the institution with resources for innovative pedagogy, scholarship, and interdisciplinary collaborations.
+
+- Review of applications will begin on **October 17th, 2022** and continue until the position is filled
+- Ewing, New Jersey. USA.
+
+[Full Job Posting](https://computerscience.tcnj.edu/computer-science-assistant-professor-faculty-position/){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Colorado College
 {: #colorado-college}
 
