@@ -181,6 +181,20 @@ _Excerpt_ The Computer Science program at Denison University invites application
 
 ------------
 
+### Eastern Michigan University
+
+{: #emu-cs}
+
+_Excerpt_ Eastern Michigan University’s Department of Computer Science seeks applicants for tenure-track assistant professor positions to begin Fall 2023.  The successful applicant must have the ability to teach a variety of Computer Science courses at the undergraduate and graduate levels.  We are particularly interested in candidates specializing in one or more of these areas: IoT, robotics/hardware/embedded systems, machine learning, cyber security, software engineering, or computer game systems, but all areas will be considered. **About EMU.** _Transparent and straightforward tenure process_ friendly to assistant professors, strong faculty union, and _industry-leading retirement contribution levels_ make EMU a **fantastic place to work**. 
+
+- Review of applications will start **November 30 2022**, and will continue until the position is filled.
+- Ypsilanti, MI. USA
+
+[Full Job Posting](https://careers.emich.edu/jobs/assistant-professor-computer-science-ypsilanti-michigan-united-states){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Grinnell College 
 {: #grinnell}
 
