@@ -526,8 +526,6 @@ Union College invites applications for the tenure-track  Mary H. '80 and Richard
 - Schenectady, NY. USA
 
 [Full Job Posting](https://cs.union.edu/jobs/){: .button-job} 
-cs.union.edu/jobs
-
 [_back to all deadlines_](#deadlines)
 
 ------------
