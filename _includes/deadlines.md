@@ -44,6 +44,6 @@
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
 | [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
-| [Mount St. Mary's University](#msmu) | Emmitsburg, MD | TBA |
+| [Mount St. Mary's University](#msmu) | Emmitsburg, MD | open until filled |
 | [Spelman College](#spelman) | Atlanta, GA | TBA |
 | [Whitman College](#whitman) | Walla Walla, WA  | TBA |
