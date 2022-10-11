@@ -522,7 +522,7 @@ _Excerpt_ Transylvania University (www.transy.edu), a top-tier, independent, res
 
 Union College invites applications for the tenure-track  Mary H. '80 and Richard K. '80 Templeton Assistant Professor of Computer Science, beginning September 2023.  This endowed position is part of a broader initiative to further strengthen and integrate computer science and engineering with the liberal arts at Union, and it benefits from an assigned annual allowance to support research and travel. We are especially interested in candidates who are enthusiastic about providing undergraduate research opportunities, mentoring of students, and cultivating a diverse learning community. 
 
-- Review of applications will begin on **November 15, 2022**
+- Review of applications will begin on **November 21, 2022**
 - Schenectady, NY. USA
 
 [Full Job Posting](https://cs.union.edu/jobs/){: .button-job} 
