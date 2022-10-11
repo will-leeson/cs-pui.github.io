@@ -361,6 +361,19 @@ _Excerpt_ The Department of Mathematics and Computer Science in the School of Na
 
 ------------
 
+### Nazareth College
+{: #naz}
+
+_Excerpt_ Nazareth College invites accomplished leaders with technology sector experience to join the Institute for Technology, Artificial Intelligence, and Society (ITAS), a pioneering new initiative in Rochester, NY. Launched in 2021, the mission of ITAS is to build on Nazareth’s highly regarded, integrative approach to liberal arts and professional education to develop a pipeline of students well-prepared to help shape a future tech sector that embodies ethics, inclusion, and social justice. We seek a director to help chart this exciting path forward. This is a tenure-eligible position open to applicants from any applicable academic discipline and of any rank.
+
+- Applications received by **November 11, 2022** will receive full consideration.
+- Rochester, NY. USA
+
+[Full Job Posting](https://jobs.naz.edu/postings/3047){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Oberlin College
 {: #oberlin}
 

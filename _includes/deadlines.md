@@ -39,6 +39,7 @@
 | [Calvin University](#calvin) | Grand Rapids, MI | 11/01/2022 |
 | [Olin College](#olin) | Needham, MA | 11/01/2022 |
 | [Willamette University](#willamette) | Salem, OR  | 11/01/2022 |
+| [Nazareth College](#naz) | Rochester, NY | 11/11/2022|
 | [Union College](#union) | Schenectady, NY | 11/15/2022| 
 | [Eastern Michigan University](#emu-cs) | Ypsilanti, MI | 11/30/2022 |
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
