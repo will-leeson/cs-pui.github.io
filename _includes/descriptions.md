@@ -351,11 +351,25 @@ _Excerpt_ The Mount Holyoke College Computer Science Department invites applicat
 ### Mount St. Mary's University
 {: #msmu}
 
-_Placeholder_ Mount St. Mary's University ad is forthcoming
+_Excerpt_ The Department of Mathematics and Computer Science in the School of Natural Science and Mathematics at Mount St. Mary’s University is seeking a computer scientist with an interest in applied mathematics to join a growing department, shape undergraduate curriculum, and work closely with a passionate and diverse group of students. The Assistant Professor position is set to begin in August 2023. The successful candidate will possess a graduate degree in an area related to computer science or mathematics, a demonstrated commitment to excellent instruction, a record of contributions to their computer science or mathematics community, and a background in mentoring those underrepresented in STEM. Applicants with a PhD will be considered for a tenure track position; those with a master’s for a three-year renewable contract.
 
-- Ad is forthcoming - TBA
+- Open until filled
 - Emmitsburg, MD. USA
 
+[Full Job Posting](https://msmu.wd1.myworkdayjobs.com/MSMU/job/Emmitsburg-Campus/Assistant-Professor---Math---Computer-Science_R0000125){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Nazareth College
+{: #naz}
+
+_Excerpt_ Nazareth College invites accomplished leaders with technology sector experience to join the Institute for Technology, Artificial Intelligence, and Society (ITAS), a pioneering new initiative in Rochester, NY. Launched in 2021, the mission of ITAS is to build on Nazareth’s highly regarded, integrative approach to liberal arts and professional education to develop a pipeline of students well-prepared to help shape a future tech sector that embodies ethics, inclusion, and social justice. We seek a director to help chart this exciting path forward. This is a tenure-eligible position open to applicants from any applicable academic discipline and of any rank.
+
+- Applications received by **November 11, 2022** will receive full consideration.
+- Rochester, NY. USA
+
+[Full Job Posting](https://jobs.naz.edu/postings/3047){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
