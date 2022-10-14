@@ -6,6 +6,7 @@
 | [Middlebury College](#midd) | Middlebury, VT | 10/01/2022 |
 | [Transylvania University](#transy) | Lexington, KY | 10/01/2022 |
 | [Occidental College](#oxy) | Los Angelos, CA | 10/02/2022 |
+| [University of Minnesota Duluth](#umnd) | Duluth, MN | 10/03/2022 |
 | [Loyola University Maryland](#lum) | Baltimore, MD | 10/07/2022 |
 | [University of San Francisco](#usfca) | San Francisco, CA | 10/07/2022 |
 | [Denison University](#denison) | Granville, OH | 10/10/2022 |
