@@ -456,6 +456,19 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 
 ------------
 
+### University of Minnesota Duluth
+{: #umnd}
+
+[Excerpt] The Department of Computer Science in the Swenson College of Science and Engineering at the University of Minnesota Duluth (UMD) invites applications for a tenure-track Assistant Professor that will begin on August 21, 2023. This is a full time, 9 month position. The successful candidate will establish an independent, externally funded research program, which includes mentorship of undergraduates and graduate students. The area of research specialization for this position is open and all areas are encouraged to apply. We do have specific needs to strengthen our computer security, computer science education, and computer systems areas. Additionally, our department is interested in supporting research scholars whose research contributes to diversity, inclusivity, and equity. The successful candidate will have teaching responsibilities in our lecture and laboratory courses. They will also contribute to graduate and undergraduate teaching, advising, and mentoring, while supporting diversity and inclusion and a commitment to justice. Service to the Department, College, and University is also expected. Please see [https://z.umn.edu/scsecareers](https://z.umn.edu/scsecareers) for more information. 
+
+- Review will begin on **October 3, 2022**
+- Duluth, MN. USA
+
+[Full Job Posting](https://scse.d.umn.edu/about/swenson-college-faculty-searches/search-faq){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### University of Richmond
 {: #richmond}
 
