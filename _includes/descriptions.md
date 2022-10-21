@@ -168,6 +168,19 @@ _Excerpt_ Creighton University invites applications for a Clare Boothe Luce Facu
 
 ------------
 
+### Davidson College
+{: #davidson}
+
+_Excerpt_ The Department of Mathematics and Computer Science at Davidson College invites applications for a tenure-track appointment in Computer Science at the rank of Assistant Professor, beginning July 1, 2023. We seek candidates with a strong commitment to improving access to computer science for all students, enthusiasm for teaching all levels of undergraduate students, and a research program that can involve undergraduate researchers. The department is most interested in candidates who can expand our [curriculum](http://catalog.davidson.edu/preview_program.php?catoid=24&poid=1565), support courses in systems (broadly defined), and enhance research opportunities for students.
+
+- Applications received by **November 1, 2022** will receive full consideration.
+- Davidson, North Carolina. USA.
+
+[Full Job Posting](https://employment.davidson.edu/en-us/job/494271/assistant-professor-of-computer-science){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Denison University
 {: #denison}
 
