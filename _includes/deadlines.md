@@ -49,5 +49,5 @@
 | [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | open until filled |
-| [Spelman College](#spelman) | Atlanta, GA | 12/12/2022 |
+| [Spelman College](#spelman) | Atlanta, GA | TBA |
 
