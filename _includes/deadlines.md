@@ -45,8 +45,9 @@
 | [Union College](#union) | Schenectady, NY | 11/21/2022| 
 | [Eastern Michigan University](#emu-cs) | Ypsilanti, MI | 11/30/2022 |
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
+| [Whitman College](#whitman) | Walla Walla, WA  | 12/12/2022 |
 | [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | open until filled |
-| [Spelman College](#spelman) | Atlanta, GA | TBA |
-| [Whitman College](#whitman) | Walla Walla, WA  | TBA |
+| [Spelman College](#spelman) | Atlanta, GA | 12/12/2022 |
+
