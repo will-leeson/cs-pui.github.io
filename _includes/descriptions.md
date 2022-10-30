@@ -600,10 +600,12 @@ _Excerpt_ Wellesley College seeks candidates for faculty positions in computer s
 ### Whitman College 
 {: #whitman}
 
-_Placeholder_ Whitman College will again invite applications for a tenure-track position starting in Fall 2023. Ad forthcoming.
+_Excerpt_ The Department of Computer Science seeks applicants for a tenure-track position beginning August 2023, rank open. Applicants must have a Ph.D. by the start of the position. In addition to traditional areas of computer science research, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas. ... We seek candidates who will strive for excellence in teaching as well as scholarship, including those who currently hold industry positions. The successful candidate will offer core and elective computer science courses across all levels, supervise senior capstone projects, and contribute to the College’s general education program. The standard annual teaching load is five courses. The College provides a generous pre-tenure sabbatical leave program and professional development support for both research and teaching.
 
-- Applications will be reviewed beginning in December (deadline TBA).
-- Walla Walla, Washington. USA.
+- We will begin reviewing applications on **December 12, 2022**, but will continue accepting applications until the position is filled
+- 	Walla Walla, Washington. USA.
+
+[Full Job Posting](https://whitman.bamboohr.com/careers/240){: .button-job} 
 
 [_back to all deadlines_](#deadlines)
 
