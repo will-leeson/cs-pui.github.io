@@ -623,6 +623,20 @@ _Excerpt_ The Department of Mathematics and Computer Science at Wesleyan Univers
 
 ------------
 
+### Western Washington University
+{: #wwu}
+
+_Excerpt_ The Computer Science Department at Western Washington University invites applications for multiple tenure-track positions beginning September 16, 2023 at the rank of Assistant or Associate Professor. All areas of specialization will be considered, but the department is particularly seeking candidates with research expertise and teaching interests in **Computer Systems, Cybersecurity, Data Science, and Theory and Algorithms**. The department serves upwards of 500 CS majors, and student projects in classes as well as a year-long sr. capstone are a hallmark of the curriculum. Upwards of a dozen student-run clubs, tech talks, guest speakers, and outings to regional tech companies, further enhance the student experience. _The department is committed to a balanced approach for faculty where research is encouraged and supported, but above all high-quality engaged instructions is highly valued. Faculty teach either 1 or 2 classes each term, that enables them to pursue their scholarship interests via mentoring of undergraduate and graduate (MS) students_
+
+- Review will begin on **November 21, 2022**
+- Bellingham, Washington. USA.
+
+[Full Job Posting](https://hr.wwu.edu/careers-faculty?job=500314){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+
+------------
+
 ### Whitman College 
 {: #whitman}
 

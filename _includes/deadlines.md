@@ -44,6 +44,7 @@
 | [Nazareth College](#naz) | Rochester, NY | 11/11/2022|
 | [Kean University](#kean) | Union, NJ | 11/15/2022 |
 | [Union College](#union) | Schenectady, NY | 11/21/2022| 
+| [Western Washington University](#wwu) | Bellingham, WA | 11/21/2022 |
 | [Eastern Michigan University](#emu-cs) | Ypsilanti, MI | 11/30/2022 |
 | [Williams College](#williams) | Williamstown, MA  | 12/01/2022 |
 | [Whitman College](#whitman) | Walla Walla, WA  | 12/12/2022 |
