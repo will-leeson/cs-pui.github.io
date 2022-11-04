@@ -268,6 +268,19 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 
 ------------
 
+### Kean University
+{: #kean}
+
+_Excerpt_ The Department of Computer Science and Technology at Kean University invites applications for Assistant/Associate Professor tenure-track positions in Computer Science and Technology.  All areas of research are welcome to apply. Kean University is a public university located just outside of New York City.  The Department has a strong commitment to undergraduate research and offers ABET-accredited undergraduate degrees in Computer Science and Information Technology, along with a graduate master’s degree, and has earned the NSA Center of Academic Excellence in Cyber Defense (NSA CAE-CD) designation.  All programs feature small classes in a new building and a collaborative team of faculty with national distinction in undergraduate research mentoring.  Current funding sources include NSF and industry.  Kean is a Hispanic Serving Institution (HSI) and serves as the regional hub for the Computing Alliance of Hispanic Serving Institutions (CAHSI). 
+
+- Review of applications will begin on **November 15, 2022** and continue until filled.
+- Union, NJ. USA.
+
+[Full Job Posting](https://kean.wd1.myworkdayjobs.com/en-US/Kean/details/Assistant-Associate-Professor--School-of-Computer-Science---Technology--Fall-2023_R1651){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Kenyon College
 {: #kenyon}
 
