@@ -495,6 +495,19 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 
 ------------
 
+### San Francisco State University, SFSU
+{: #sfsu}
+
+_Excerpt_ Department of Computer Science at San Francisco State University (SFSU) offers an exciting opportunity for two tenure-track Assistant Professor positions beginning August 2023. We seek colleagues whose teaching and research interests include Theory of Computation and CS Approaches Against Social Inequities; other areas are also encouraged. We are especially interested in qualified candidates who can contribute, through their research, teaching, and/or service, through their commitment to a diverse student population, to the excellence of the academic community. We are in a period of expansion, currently home to 18 tenure/tenure-track faculty members with a strong record of excellence in research and teaching. 
+
+- Review begins on **December 9, 2022**. The application will be open until the position is filled.
+- San Francisco, California. USA.
+
+[Full Job Posting](https://careers.pageuppeople.com/873/sf/en-us/job/519034/assistant-professor-computer-science-theory-of-computation){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### University of Richmond
 {: #richmond}
 
