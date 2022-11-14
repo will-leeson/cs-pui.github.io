@@ -268,6 +268,19 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 
 ------------
 
+### Houghton University
+{: #houghton}
+
+_Excerpt_ Houghton University invites applications for a full-time faculty appointment in the Department of Physics, Computer Science, and Data Science at the assistant or associate level starting Fall 2023. Academic rank will be determined by previous experience; tenure-track for candidates with a Ph.D. Houghton University encourages faculty to pursue opportunities in their field, and provides incentives for external collaboration and outside consulting assignments that can benefit students. Startup funding and other support is available for faculty to develop innovative research and experiential learning programs with the Center for Data Science Analytics (CDSA). The Shannon Summer Research Institute (SSRI) also provides support for faculty-student collaborative research each summer.
+
+- Applications received by **January 1, 2023** will be assured of full consideration.
+- Houghton, NY. USA.
+
+[Full Job Posting](https://www.houghton.edu/wp-content/uploads/2022/09/CS_DS_Tenure_announcement-revised.pdf){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Kean University
 {: #kean}
 

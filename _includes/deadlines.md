@@ -50,6 +50,7 @@
 | [San Francisco State University](#sfsu) | San Francisco, CA | 12/09/2022, open until filled |
 | [Whitman College](#whitman) | Walla Walla, WA  | 12/12/2022 |
 | [Seattle University](#seattleu) | Seattle, WA | 12/15/2022 |
+| [Houghton University](#houghton) | Houghton, NY | 01/01/2023 |
 | [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | open until filled |
