@@ -533,6 +533,19 @@ _Excerpt_ Department of Computer Science at San Francisco State University (SFSU
 
 ------------
 
+### Seattle University
+{: #seattleu}
+
+_Excerpt_ The Computer Science Department at Seattle University invites applications for **two** tenure-track Assistant or Associate Professor positions beginning September 2023.  Applicants with expertise in any area of Computer Science will be considered. Responsibilities will include teaching, maintaining active scholarship, and department and university service. Rank will be determined based on experience. Successful candidates will be responsible for teaching and mentoring undergraduates and graduate students, maintaining an active research program; engaging in professional, university, and department service activities, and demonstrating a genuine desire to contribute to the mission of Seattle University.
+
+- Review will begin on **December 15, 2022**
+- Seattle, WA. USA.
+
+[Full Job Posting](https://seattleu.csod.com/ats/careersite/JobDetails.aspx?site=2&id=2093){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Smith College
 {: #smith}
 
