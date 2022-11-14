@@ -673,6 +673,15 @@ _Excerpt_ The Computer Science Department at Western Washington University invit
 [Full Job Posting](https://hr.wwu.edu/careers-faculty?job=500314){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
+**CS ed position:** _Excerpt_ The Computer Science Department at Western Washington University (WWU) invites applications for a tenure-track position beginning September 16, 2023 at the rank of Assistant or Associate Professor. **For this position the department is seeking candidates with scholarly interests and expertise in computing education.** WWU has a historic emphasis on teacher preparation and prepares a large fraction of the K-12 teachers in Washington State. The program in Science Math and Technology Education (SMATE) is housed in the College of Science and Engineering, includes 12 faculty members with joint appointments in Chemistry, Physics, Biology, Geology, Computer Science, and the College of Education, and is led by a full-time director. SMATE prepares teachers in science content and methods and has an established history of leading and supporting systemic science education reform efforts in Washington State and nationally. The teaching assignment will be distributed evenly between Computer Science and SMATE. The department is committed to a balanced approach for faculty where research is encouraged and supported, but above all high-quality engaged instructions is highly valued. Faculty teach either 1 or 2 classes each term, that enables them to pursue their scholarship interests via mentoring of undergraduate and graduate (MS) students.
+{: #wwu-ed}
+
+- Review will begin on **November 21, 2022**
+- Bellingham, Washington. USA.
+
+[Full Job Posting](https://hr.wwu.edu/careers-faculty?job=500321){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
 
 ------------
 
