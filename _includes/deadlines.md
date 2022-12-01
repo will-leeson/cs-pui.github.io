@@ -52,6 +52,7 @@
 | [James Madison University](#jmu) | Harrisonburg, VA  | 12/12/2022 |
 | [Seattle University](#seattleu) | Seattle, WA | 12/15/2022 |
 | [Houghton University](#houghton) | Houghton, NY | 01/01/2023 |
+| [Muhlenberg College](#muhlenberg) | Allentown, PA | 01/15/2023 |
 | [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | open until filled |

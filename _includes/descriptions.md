@@ -426,6 +426,20 @@ _Excerpt_ The Department of Mathematics and Computer Science in the School of Na
 
 ------------
 
+### Muhlenberg College
+{: #muhlenberg}
+
+_Excerpt_ The Muhlenberg College Department of Mathematics and Computer Science invites applications for a _tenure-track_ position in _computer science_ at the _assistant professor_ level to begin in the _fall of 2023_. Applicants must have a Ph.D. in Computer Science or a closely related field at the start of the appointment, and all areas of specialty will be considered. We seek a candidate dedicated to training future computer scientists with a strong commitment to teaching. Muhlenberg College is committed to recruiting and retaining outstanding faculty and staff from racial and ethnic groups traditionally underrepresented in higher education.
+
+- Applications received by **January 15, 2023**, will receive full consideration
+- Allentown, PA. USA
+
+[Full Job Posting](https://muhlenberg.wd1.myworkdayjobs.com/MuhlenbergCareers/job/Trumbower-Science-Building/Assistant-Professor--Computer-Science_R0000675){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+
+------------
+
 ### Nazareth College
 {: #naz}
 
