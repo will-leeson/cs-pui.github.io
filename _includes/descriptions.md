@@ -281,6 +281,19 @@ _Excerpt_ Houghton University invites applications for a full-time faculty appoi
 
 ------------
 
+### James Madison University
+{: #jmu}
+
+[Excerpt] The Department of Computer Science at James Madison University invites applications for a tenure-track faculty position, to serve in the new Information Technology Major, to begin August 2023. Preference will be given to applicants at the tenure-track Assistant Professor level, and exceptional candidates at other ranks will also be considered. Information Technology (IT) is a new major in the Department of Computer Science, with a focus on computer networking, cyber security, web technologies, data science/machine learning and mobile development. The new IT major accepted our first freshman class in fall 2022 and has more than 64+ students and is rapidly growing. The JMU Computer Science department is a dynamic and supportive community with 26 full-time faculty members and approximately 700 undergraduate majors for computer science and information technology majors. We are dedicated to maintaining a culture that balances excellence in teaching and small class sizes with opportunities for faculty and student research. We are especially interested in qualified candidates that share our commitment towards building equitable and inclusive environments. Applicants from all areas of specialization are encouraged to apply. We especially welcome candidates with a background in Web Technologies, Machine Learning, Database Systems, Web and Mobile Development, and/or Computer Networks and Information Security. Candidates should demonstrate the ability and interest in providing high-quality undergraduate teaching. Preference will be given to applicants with the potential to develop and sustain an active, undergraduate-oriented research program. Candidates will demonstrate a commitment to diversity, equity, and inclusivity that supports the Computer Science Department and University mission of integrating diverse perspectives and removing barriers to participation.
+
+- Review of applications will begin on **December 12, 2022** and continue until filled.
+- Harrisonburg, Virginia. USA.
+
+[Full Job Posting](https://joblink.jmu.edu/postings/13423){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Kean University
 {: #kean}
 
