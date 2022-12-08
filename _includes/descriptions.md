@@ -194,6 +194,21 @@ _Excerpt_ The Computer Science program at Denison University invites application
 
 ------------
 
+### Dickinson College
+{: #dickinson}
+
+_Excerpt_ Dickinson College invites applications for two full-time faculty appointments in computer science beginning Fall 2023. The first position is a tenure-track appointment at the rank of Assistant Professor; the second position is for a tenure-track Assistant Professor or a Lecturer in Computer Science, depending on the successful candidate’s qualifications.
+For the tenure-track appointment(s), we seek candidates holding a PhD in computer science or a related field at the time of appointment. For the Lecturer appointment, we seek candidates holding a master’s degree in computer science or a related field. Candidates with degrees in aligned fields who have relevant computational experience are encouraged to apply and will be given strong consideration. 
+
+- All applications received by **January 9, 2023** will receive full consideration, and we will continue reviewing applications until the positions are filled.
+- Carlisle, Pennsylvania, USA.
+
+[Full Job Posting](https://jobs.dickinson.edu/postings/6675){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
+
 ### Eastern Michigan University
 
 {: #emu-cs}
