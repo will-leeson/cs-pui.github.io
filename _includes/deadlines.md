@@ -32,7 +32,6 @@
 | [College of the Holy Cross](#holy-cross) | Worcester, MA | 10/21/2022 |
 | [Colorado College](#colorado-college) | Colorado Springs, CO  | 10/21/2022 |
 | [Bowdoin College](#bowdoin) | Brunswick, ME  | 10/22/2022 |
-| [Creighton University](#creighton) | Omaha, NE  | 10/22/2022 |
 | [Amherst College](#amherst) | Amherst, MA | 10/24/2022 |
 | [Lafayette College](#lafayette) | Easton, PA | 10/24/2022 |
 | [Kenyon College](#kenyon) | Gambier, OH | 10/31/2022 |
@@ -57,5 +56,6 @@
 | [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
 | [Mount St. Mary's University](#msmu) | Emmitsburg, MD | open until filled |
+| [Creighton University](#creighton) | Omaha, NE  | open until filled |
 | [Spelman College](#spelman) | Atlanta, GA | TBA |
 
