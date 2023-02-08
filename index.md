@@ -12,8 +12,11 @@ header:
 ![continuum of teaching and research](img/cs-pui-listing.jpg)
 
 
-📣 **If you would like to add your position,** [please visit the **Post an Ad** page](/posting) for logistical details or the [**FAQ**](/faq) for more info about this site (it's free!). 
-{: .notice .notice-blue}
+<!-- 📣 **If you would like to add your position,** [please visit the **Post an Ad** page](/posting) for logistical details or the [**FAQ**](/faq) for more info about this site (it's free!). 
+{: .notice .notice-blue} -->
+
+**📢 cs-pui jobs is currently on pause 📢** Due to [an institutional transition](https://twitter.com/EvanMPeck/status/1622997527539728384) + family move, unfortunately, I don't have the capacity to maintain this website in Spring 2023. As a result, I am pausing the site until next hiring season. 
+{: .notice .notice-red}
 
 In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) because of the compelling balance they offer between teaching and research. I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. [See archived listings from previous years](faq#archive).
 

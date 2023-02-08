@@ -6,6 +6,9 @@ title: Post an Ad
 
 <!-- ## Adding your position to CS-PUI (2022/23) -->
 
+**📢 cs-pui jobs is currently on pause 📢** Due to [an institutional transition](https://twitter.com/EvanMPeck/status/1622997527539728384) + family move, unfortunately, I don't have the capacity to maintain this website in Spring 2023. As a result, I am pausing the site until next hiring season. 
+{: .notice .notice-red}
+
 💡 You can email me at `evan.peck@bucknell.edu` if you run into any problems or need help.
 {: .notice .notice-blue}
 
