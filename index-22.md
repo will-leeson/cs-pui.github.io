@@ -1,4 +1,6 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 
 header: 
@@ -9,13 +11,12 @@ header:
 
 ![continuum of teaching and research](img/cs-pui-listing.jpg)
 
-**📢 cs-pui jobs is currently under construction 📢** The website is currently under development to prepare for the 2023 job market. I appreciate your patience!
+
+<!-- 📣 **If you would like to add your position,** [please visit the **Post an Ad** page](/posting) for logistical details or the [**FAQ**](/faq) for more info about this site (it's free!). 
+{: .notice .notice-blue} -->
+
+**📢 cs-pui jobs is currently on pause 📢** Due to [an institutional transition](https://twitter.com/EvanMPeck/status/1622997527539728384) + family move, unfortunately, I don't have the capacity to maintain this website in Spring 2023. As a result, I am pausing the site until next hiring season. 
 {: .notice .notice-red}
-
-
-📣 **If you would like to add your position,** [please visit the **Post an Ad** page](/posting) for logistical details or the [**FAQ**](/faq) for more info about this site (it's free!). 
-{: .notice .notice-blue}
-
 
 In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) because of the compelling balance they offer between teaching and research. I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. [See archived listings from previous years](faq#archive).
 
@@ -35,7 +36,7 @@ If you are considering entering the job market, I'd encourage you to visit the [
 
 ------------
 
-# Who is hiring in CS so far (2023/24)
+# Who is hiring in CS so far (2022/23)
 
 
 ## 📋 Deadlines and Quick Links (_soonest on top_)
@@ -45,7 +46,7 @@ If you are considering entering the job market, I'd encourage you to visit the [
 {: .notice .notice-blue}
 
 {% capture table-style %}
-{% include deadlines-23.md %}
+{% include deadlines-22.md %}
 {% endcapture %}
 <div class="styled-table"> {{ table-style | markdownify }} </div>
 
@@ -55,6 +56,6 @@ If you are considering entering the job market, I'd encourage you to visit the [
 ## 📣  Ads, Links, and Locations (_alphabetical order_) 
 
 {% capture job-listing %}
-{% include descriptions-23.md %}
+{% include descriptions-22.md %}
 {% endcapture %}
 <div class="jobs"> {{ job-listing | markdownify }} </div>
