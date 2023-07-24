@@ -1,26 +1,15 @@
 
-### Test University
-{: #testu}
+### Harvey Mudd College
+{: #hmc-cs}
 
-_Excerpt_ The Test University Department of Computer Science invites applications for a full-time tenure-track position at the rank of assistant professor, beginning July 1, 2023. This is where you add a paragraph from your job ad. It should highlight your full job advertisement. 
+_Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) has multiple tenure-track openings for assistant professors commencing July 1, 2024. Exceptional candidates at higher ranks are welcome to apply. Candidates in all areas of computer science will be considered; candidates demonstrating interest and potential for teaching courses in computer systems, software development, theory, and computational biology are especially encouraged to apply. Successful candidates should have completed a Ph.D. by the time of appointment.  The 9-month salary range for this position is $100k - 120k.
 
-- 1st bullet should be about your app deadline. **date in bold**
-- Hogwards, USA. 
+- Any applications received by **October 15, 2023**, will receive full consideration
+- Claremont, CA. USA. 
 
-[Full Job Posting](https://dl.acm.org/doi/10.1145/3408877.3432512){: .button-job} 
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/24986){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
 
-### Example College
-{: #examplecoll}
 
-_Excerpt_ Example College invites applications for **two** full-time tenure-track open-rank professor positions to begin fall 2024. Example College is _the_ example for other colleges. This example is just a placeholder until real ads come in. In reality, a nice description of the position should be in this paragraph. 
-
-- Review of applications will begin **September 18, 2023**
-- Pseudoplace, New York. USA.
-
-[Full Job Posting](https://dl.acm.org/doi/10.1145/3408877.3432512){: .button-job}
-[_back to all deadlines_](#deadlines)
-
-------------

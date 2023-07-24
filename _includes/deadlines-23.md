@@ -1,5 +1,4 @@
 | **Institution** | **Location** | **App Deadline** |
 | :----       | :---       | :--- |
-| [Test University](#testu) | Hogwards, USA | 09/19/2023 |
-| [Example College](#examplecoll) | Pseudoplace, NY | 09/28/2023 |
+| [Harvey Mudd University](#hmc-cs) | Claremont, CA. USA | 10/15/2023 |
 
