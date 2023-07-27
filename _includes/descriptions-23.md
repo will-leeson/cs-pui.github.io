@@ -8,6 +8,17 @@ _Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) has multi
 - Claremont, CA. USA. 
 
 [Full Job Posting](https://academicjobsonline.org/ajo/jobs/24986){: .button-job} 
+
+### Oberlin College
+{: #oberlin-cs}
+
+_Excerpt_ The Computer Science Department at Oberlin College invites applications for a full-time tenure track faculty position in the College of Arts and Sciences. We seek candidates with teaching and research interests in any area of Computer Science, and especially encourage candidates with interest in machine learning/data science to apply. Review of applications will begin on October 1st, 2023, and will continue until the position is filled. 
+
+- Any applications received by **October 1, 2023**, will be guaranteed full consideration
+- Oberlin, OH. USA. 
+
+[Full Job Posting](https://jobs.oberlin.edu/postings/14154){: .button-job} 
+
 [_back to all deadlines_](#deadlines)
 
 ------------
