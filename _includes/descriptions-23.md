@@ -1,3 +1,15 @@
+### Haverford College
+{: #haverford}
+
+_Excerpt_ Haverford College invites applications for a tenure-track position as Assistant Professor in the Department of Computer Science, starting in the Fall semester of 2024. The area of scholarly expertise is open, with the successful candidate demonstrating evidence of research productivity, vision, and long-term impact. Teaching responsibilities include courses at all levels of the curriculum, in particular our core introductory sequence, upper-level electives that expand our range of advanced courses, and supervision of undergraduate research. 
+
+- Applications submitted by **October 6, 2023** are guaranteed full consideration
+- Haverford, PA. USA.
+
+[Full Job Posting](https://apply.interfolio.com/128585){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
 
 ### Harvey Mudd College
 {: #hmc-cs}
@@ -8,6 +20,8 @@ _Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) has multi
 - Claremont, CA. USA. 
 
 [Full Job Posting](https://academicjobsonline.org/ajo/jobs/24986){: .button-job} 
+
+------------
 
 ### Oberlin College
 {: #oberlin-cs}
@@ -34,13 +48,3 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 [Full Job Posting](https://apply.interfolio.com/128893){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
-### Haverford College
-{: #haverford}
-
-_Excerpt_ Haverford College invites applications for a tenure-track position as Assistant Professor in the Department of Computer Science, starting in the Fall semester of 2024. The area of scholarly expertise is open, with the successful candidate demonstrating evidence of research productivity, vision, and long-term impact. Teaching responsibilities include courses at all levels of the curriculum, in particular our core introductory sequence, upper-level electives that expand our range of advanced courses, and supervision of undergraduate research. 
-
-- Applications submitted by **October 6, 2023** are guaranteed full consideration
-- Haverford, PA. USA.
-
-[Full Job Posting](https://apply.interfolio.com/128585){: .button-job} 
-[_back to all deadlines_](#deadlines)
