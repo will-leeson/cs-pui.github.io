@@ -42,5 +42,5 @@ _Excerpt_ Haverford College invites applications for a tenure-track position as 
 - Applications submitted by **October 6, 2023** are guaranteed full consideration
 - Haverford, PA. USA.
 
-[Full Job Posting](https://apply.interfolio.com/128893){: .button-job} 
+[Full Job Posting](https://apply.interfolio.com/128585){: .button-job} 
 [_back to all deadlines_](#deadlines)
