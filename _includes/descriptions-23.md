@@ -1,3 +1,16 @@
+### Carleton College
+{: #carleton}
+
+_Excerpt_ Carleton College invites applications for a tenure-track position in computer science, to begin September 1, 2024. We expect to make an appointment at the Assistant Professor level, but we are also happy to consider applications from qualified candidates at any rank. We welcome candidates with any specialization in computer science or closely related fields, and we are particularly interested in candidates committed to teaching a diverse student body. 
+
+-Applications received by **September 27, 2023** will receive full consideration
+-Northfield, MN. USA
+
+[Full Job Posting](https://carleton.wd1.myworkdayjobs.com/en-US/CarletonCareers/details/Assistant-Professor-of-Computer-Science_R-00555?jobFamilyGroup=e4c1fd5caef9100db008b7cafb480000){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Haverford College
 {: #haverford}
 
