@@ -9,17 +9,17 @@ header:
 
 ![continuum of teaching and research](img/cs-pui-listing.jpg)
 
-**📢 cs-pui jobs is currently under construction 📢** The website is currently under development to prepare for the 2023 job market. I appreciate your patience!
-{: .notice .notice-red}
+<!-- **📢 cs-pui jobs is currently under construction 📢** The website is currently under development to prepare for the 2023 job market. I appreciate your patience!
+{: .notice .notice-red} -->
 
 
 📣 **If you would like to add your position,** [please visit the **Post an Ad** page](/posting) for logistical details or the [**FAQ**](/faq) for more info about this site (it's free!). 
 {: .notice .notice-blue}
 
 
-In 2017, I [wrote an article about finding academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) because of the compelling balance they offer between teaching and research. I continue to receive emails with the same  question: _how do I find these jobs?_ This listing of ads is meant to help navigate that muddy water. [See archived listings from previous years](faq#archive).
+Despite their research-intensive PhDs, many graduates [find academic happiness with **primarily-undergraduate institutions**](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) because of the compelling balance they offer between teaching and research. But the pathways to these positions is often not clear (_how do I find these jobs?_), and often requires insider knowledge of a landscape that is invisible to PhD students. This listing is meant to help navigate that muddy water. [See archived listings from previous years](faq#archive).
 
-This document does _not_ contain most CS faculty positions. It's specifically intended for people who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. 
+This document does _not_ contain most CS faculty positions. It's specifically intended for people who want to invest in teaching/mentorship with undergraduate students while still staying active in their scholarship. See our [**Resources**](resources) page for insight into the ways in which PUIs might differ in their interviewing processes and values. 
 
 {% capture criteria %}
 **Criteria:** the positions on this page should be...
@@ -30,8 +30,6 @@ This document does _not_ contain most CS faculty positions. It's specifically in
 {% endcapture %}
 <div class="notice notice-gray">{{ criteria | markdownify }}</div>
 {: #criteria}
-
-If you are considering entering the job market, I'd encourage you to visit the [**Resources**](resources.html) pages for some insight into the ways in which PUIs might differ in their interviewing processes and values.
 
 ------------
 

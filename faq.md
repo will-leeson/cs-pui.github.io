@@ -7,7 +7,11 @@ title: FAQ
 #### ❓ Who maintains this site? 
 {: #who}
 
-The website is primarily run by [Evan Peck (Associate Prof of Computer Science at Bucknell University)](https://evanpeck.github.io/). It has also benefited by help from [Anna Ritz (Associate Prof of Biology at Reed College)](https://www.reed.edu/biology/ritz/).
+This website is run by a collective of professors with experience with undergraduate institutions with CS - [Anna Ritz (Reed College)](https://www.reed.edu/biology/ritz/), [Evan Peck (CU Boulder)](https://evanpeck.github.io), [John Rieffel (Union College)](https://cs.union.edu/~rieffelj/), [Jordan Crouser (Smith College)](https://www.smith.edu/academics/faculty/jordan-crouser), [Phil Chodrow (Middlebury College)](https://www.philchodrow.prof/), and [Varsha Koushik (Colorado College)](https://www.coloradocollege.edu/basics/contact/directory/people/koushik_varsha.html)
+
+While this website has been active since 2020, the list has been curated since 2018 by [Evan Peck](https://evanpeck.github.io/)
+
+<!-- The website is primarily run by [Evan Peck (Associate Prof of Computer Science at Bucknell University)](https://evanpeck.github.io/). It has also benefited by help from [Anna Ritz (Associate Prof of Biology at Reed College)](https://www.reed.edu/biology/ritz/). -->
 
 ------------
 
@@ -21,9 +25,9 @@ It costs _nothing_. Please visit [our posting page](/posting) for more informati
 #### ❓ Does anyone look at it or use it? 
 {: #impact}
 
-During the 2021-2022 CS hiring season, the website attracted ~10,000 visits. While it's hard to quantify the impact of those views, I receive emails from people each year hearing that it made an impact on both (1) departmental applicant pools (and ultimately, hiring), and (2) candidate decision-making. 
+During the 2021-2022 CS hiring season, the website attracted ~10,000 visits. While it's hard to quantify the impact of those views, we received emails from people each year hearing that it made an impact on both (1) departmental applicant pools (and ultimately, hiring), and (2) candidate decision-making. 
 
-I'd like to think that's pretty good impact-per-dollar-spent.
+We'd like to think that's pretty good impact-per-dollar-spent.
 
 ------------
 
@@ -68,11 +72,11 @@ Some nuance to the data:
 #### ❓ Why limit the website to just permanent/tenure-track positions - what about _teaching-track faculty_ or _fixed-term positions_? We need those too! 
 {: #scope}
 
-I agree! Unfortunately, this site is curated on top of my normal faculty duties, and without funding or compensation. As a result, I need to limit the scope to keep it manageable. 
+I agree! Unfortunately, this site is curated on top of normal faculty duties, and without funding or compensation. As a result, we need to limit the scope to keep it manageable. 
 
-I've found that widening the site's scope isn't as simple as increasing the quantity of ads, but expands the months of the year I need to keep close attention on the market, and brings significant new challenges to curation (_e.g. does a visiting prof position at a liberal arts school practically have time for scholarship? How should we articulate the immense diversity of teaching-track positions, which can range from a reality that isn't too distant from adjuncting to institutions that offer tenure?_). All of this is time-intensive.
+Widening the site's scope isn't as simple as increasing the quantity of ads, but expands the months of the year we need to keep close attention on the market, and brings significant new challenges to curation (_e.g. does a visiting prof position at a liberal arts school practically have time for scholarship? How should we articulate the immense diversity of teaching-track positions, which can range from a reality that isn't too distant from adjuncting to institutions that offer tenure?_). All of this is time-intensive.
 
-Until I can find resources for the site (if you have any leads, [let me know](mailto:evan.peck@bucknell.edu)!, I have to keep the scope narrow. 
+Until we can find resources for the site (if you have any leads, [let me know](mailto:evan.peck@colorado.edu)!, we have to keep the scope narrow. 
 
 ------------
 
@@ -90,5 +94,5 @@ There really isn't a hard set of rules here. However, many schools on our list h
 #### ❓ Can I put my school on the list if we have some grad students?  
 {: #grad}
 
-There is a lot of muddy ground here. In general, I don't include programs that graduate Ph.D. students. Most of the schools here either don't have Masters students _or_ graduate so few each year that they qualify as a liberal arts college. That being said, there are some schools on this list each year that are intensely undergraduate-focused even with larger Masters programs (and seem to have many other characteristics that look like a PUI). I'm happy to include those institutions. 
+There is a lot of muddy ground here. In general, we don't include programs that graduate Ph.D. students. Most of the schools here either don't have Masters students _or_ graduate so few each year that they qualify as a liberal arts college. That being said, there are some schools on this list each year that are intensely undergraduate-focused even with larger Masters programs (and seem to have many other characteristics that look like a PUI). We're happy to include those institutions. 
   
