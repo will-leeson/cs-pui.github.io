@@ -1,3 +1,16 @@
+### Amherst College
+{: #amherst}
+
+_Excerpt_ The Amherst College Department of Computer Science invites applications for two full-time tenure-track positions at the rank of assistant professor, beginning July 1, 2024.  Candidates in all areas of computer science are encouraged to apply. Amherst College is one of the most diverse liberal arts colleges in the country. Nearly half of our students identify as domestic students of color, and another 11 percent are international, with non-U.S. citizenship; 16 percent are the first members of their families to attend college ... The teaching load is two courses per semester, in addition to advising senior honors theses.
+
+- Applications received by **October 16, 2023**, will be assured of full consideration
+- Amherst, MA. USA
+
+[Full Job Posting](https://apply.interfolio.com/128557){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Carleton College
 {: #carleton}
 
