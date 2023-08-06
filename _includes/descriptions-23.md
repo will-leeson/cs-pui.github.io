@@ -37,6 +37,32 @@ _Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) has multi
 
 ------------
 
+### College of the Holy Cross
+{: #holycross}
+
+_Excerpt_ The Department of Mathematics and Computer Science at the College of the Holy Cross invites applications for a full-time tenure-track Assistant Professor in Computer Science to begin in August 2024. All research specialties will be considered. This position carries a 3-2 teaching load with a full-salary one-semester research leave prior to tenure review, and generous sabbatical and fellowship leaves for tenured faculty. All full-time appointments offer competitive salaries and include full benefits, including travel support and reimbursement for relocation. 
+
+- Review of applications will begin on **October 16, 2023**, and continue until the position has been filled.
+- Worcester, MA. USA.
+
+[Full Job Posting](https://apply.interfolio.com/129369){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Lafayette College
+{: #lafayette}
+
+_Excerpt_ The Lafayette College Computer Science Department invites applications for **two** full-time, tenure-track positions at the rank of Assistant or Associate Professor commencing July 2024. Candidates from all computing related research areas, including interdisciplinary ones, are encouraged to apply. Candidates will have earned, or be near completion of, a Ph.D. in computer science or a related field by the start of their appointment. The department especially welcomes applications from candidates who will contribute to Lafayette's commitment to diversity and inclusion, with a strong commitment to student research ... Faculty members teach the equivalent of four courses in their first year and five courses (3:2) per year thereafter.
+
+- Review of applications will begin on **October 13, 2023**, but will be accepted until the position is filled. 
+- Easton, PA. USA.
+
+[Full Job Posting](https://apply.interfolio.com/128685){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Oberlin College
 {: #oberlin-cs}
 
