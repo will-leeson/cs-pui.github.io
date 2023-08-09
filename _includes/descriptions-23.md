@@ -100,3 +100,15 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 [Full Job Posting](https://apply.interfolio.com/128893){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
+------------
+
+### Skidmore College
+{: #skidmore}
+
+_Excerpt_ The Department of Computer Science at Skidmore College invites applications for a tenure-track position at the rank of Assistant Professor beginning September 2024... Skidmore seeks to attract an academically and culturally diverse faculty, especially those who can contribute to the growing diversity and excellence of the community through their teaching, scholarship, and service. Enthusiasm for advising, teaching, and mentoring a diverse population of students is essential. A commitment to quality instruction of undergraduates and continuing scholarly achievement is paramount ... The teaching load is 18 to 20 contact hours, which usually translates into three to four courses per year, with one or two of those courses including two to four hours of laboratory sessions each week. Startup funds, pre- and post-tenure sabbaticals, internal grants, and travel funds are available.
+
+- Full consideration will be given to complete applications received by **October 1, 2023.**
+- Saratoga Springs, NY. USA.
+
+[Full Job Posting](https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/1272/?keyword=computer+science&mode=location){: .button-job} 
+[_back to all deadlines_](#deadlines)
