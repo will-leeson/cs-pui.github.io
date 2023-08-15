@@ -112,3 +112,16 @@ _Excerpt_ The Department of Computer Science at Skidmore College invites applica
 
 [Full Job Posting](https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/1272/?keyword=computer+science&mode=location){: .button-job} 
 [_back to all deadlines_](#deadlines)
+
+------------
+
+### Mount Holyoke College
+{: #holyoke}
+
+_Excerpt_The Mount Holyoke College Computer Science Department invites applications for a tenure-track faculty position at any rank, to begin in the fall of 2024. We are searching broadly for candidates with a strong commitment to excellence in teaching, a vibrant research program that can engage undergraduates, and a passion for working with a diverse population of students.We welcome applications in all computer science and related fields, and particularly in systems, theory and data science. Completion of a Ph.D. in Computer Science or a related field is expected prior to or shortly after the date of hire.
+
+- Full consideration will be given to complete applications received by **October 10, 2023.**
+- South Hadley, MA. USA.
+
+[Full Job Posting](https://careers.pageuppeople.com/1024/cw/en-us/job/493728/open-rank-professor-of-computer-science){: .button-job} 
+[_back to all deadlines_](#deadlines)
