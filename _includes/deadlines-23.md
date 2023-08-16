@@ -7,6 +7,7 @@
 | [Mount Holyoke College](#holyoke) | South Hadley, MA. USA | 10/10/2023 |
 | [Lafayette College](#lafayette) | Easton, PA. USA| 10/13/2023 |
 | [Harvey Mudd College](#hmc-cs) | Claremont, CA. USA | 10/15/2023 |
+| [Union College](#hmc-cs) | Schenectady, NY. USA | 10/15/2023 |
 | [Amherst College](#amherst) | Amherst, MA. USA | 10/16/2023 |
 | [College of the Holy Cross](#holycross) | Worcester, MA. USA | 10/16/2023 |
 | [Reed College](#reed) | Portland, OR. USA | 10/16/2023 |
