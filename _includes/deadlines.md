@@ -15,6 +15,7 @@
 | [University of Richmond](#richmond) | Richmond, VA | 10/14/2022 |
 | [Smith College](#smith) | Northampton, MA | 10/14/2022 |
 | [Bard College](#bard) | Annandale-on-Hudson, NY | 10/15/2022 |
+| [Union College](#union) | Schenectady, NY | 10/15/2022 |
 | [Berea College](#berea) | Berea, KY | 10/15/2022 |
 | [Colgate University](#colgate) | Hamilton, NY | 10/15/2022 |
 | [Oberlin College](#oberlin) | Oberlin, OH | 10/15/2022 |
