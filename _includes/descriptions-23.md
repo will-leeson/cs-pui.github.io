@@ -128,3 +128,16 @@ _Excerpt_ The Department of Computer Science at Skidmore College invites applica
 
 ------------
 
+
+### Union College
+{: union}
+
+_Excerpt_ Union College, a highly-selective undergraduate liberal arts and engineering college, invites applications for the Tenure-Track Mary H. '80 and Richard K. '80 Templeton Assistant Professor of Computer Science, beginning September 2024.  This endowed position is part of a broader initiative to further strengthen and integrate computer science and engineering with the liberal arts at Union.    The area of expertise is open.  Successful applicants will be committed to excellence in teaching, research, mentoring undergraduates, and to fostering a diverse and inclusive community.
+
+- Review of applications will begin **October 15, 2022**
+- Schenectady, New York. USA.
+
+[Full Job Posting](https://jobs.union.edu/en-us/job/493331/mary-h-80-and-richard-k-80-templeton-assistant-professor-of-computer-science){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
