@@ -134,10 +134,38 @@ _Excerpt_ The Department of Computer Science at Skidmore College invites applica
 
 _Excerpt_ Union College, a highly-selective undergraduate liberal arts and engineering college, invites applications for the Tenure-Track Mary H. '80 and Richard K. '80 Templeton Assistant Professor of Computer Science, beginning September 2024.  This endowed position is part of a broader initiative to further strengthen and integrate computer science and engineering with the liberal arts at Union.    The area of expertise is open.  Successful applicants will be committed to excellence in teaching, research, mentoring undergraduates, and to fostering a diverse and inclusive community.
 
-- Review of applications will begin **October 15, 2022**
+- Review of applications will begin **October 15, 2023**
 - Schenectady, New York. USA.
 
 [Full Job Posting](https://jobs.union.edu/en-us/job/493331/mary-h-80-and-richard-k-80-templeton-assistant-professor-of-computer-science){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
+
+
+### Bard College
+{: #bard}
+
+_Excerpt_ Bard College invites applications for a tenure-track Assistant Professor position in Computer Science to begin Fall 2024. A Ph.D. in computer science or a related field is required. The successful candidate will be committed to innovative undergraduate teaching at a liberal arts college with a diverse student body, maintaining an active research program, contributing to the general education curriculum, and engaging with the life of the college.
+
+- Review of applications will begin **October 16, 2023**
+- Annandale-On-Hudson, NY. USA.
+
+[Full Job Posting](https://apply.interfolio.com/130313){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
+
+
+### Pomona College
+{: #pomona}
+
+_Excerpt_ Pomona College seeks applications for an Open-Rank (assistant, associate, or full) Professor of Computer Science, to begin on July 1, 2024. All subfields of computer science will be considered, with preference for candidates whose research and teaching interests complement those of the current faculty. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research.  Candidates should have a Ph.D. in hand by the start date.
+
+- Review of applications will begin **October 8, 2023**
+- Claremont, CA. USA.
+
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/25347){: .button-job}
 [_back to all deadlines_](#deadlines) 
 
 ------------
