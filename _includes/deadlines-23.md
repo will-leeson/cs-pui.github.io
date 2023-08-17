@@ -11,5 +11,5 @@
 | [Union College](#union) | Schenectady, NY. USA | 10/15/2023 |
 | [Amherst College](#amherst) | Amherst, MA. USA | 10/16/2023 |
 | [College of the Holy Cross](#holycross) | Worcester, MA. USA | 10/16/2023 |
-| [Bard College] (#bard) | Annandale-On-Hudson, NY. USA| 10/16/2023 |
+| [Bard College](#bard) | Annandale-On-Hudson, NY. USA| 10/16/2023 |
 | [Reed College](#reed) | Portland, OR. USA | 10/16/2023 |
