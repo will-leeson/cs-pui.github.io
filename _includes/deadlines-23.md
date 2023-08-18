@@ -2,6 +2,7 @@
 | :----       | :---       | :--- |
 | [Carleton College](#carleton) | Northfield, MN. USA | 9/27/2023 |
 | [Oberlin College](#oberlin-cs) | Oberlin, OH. USA | 10/1/2023 |
+| [Davidson College](#davidson) | Davidson, NC. USA | 10/1/2023 |
 | [Skidmore College](#skidmore) | Saratoga Springs, NY. USA | 10/1/2023 |
 | [Haverford College](#haverford) | Haverford, PA. USA | 10/6/2023 |
 | [Pomona College](#pomona) | Claremont, CA. USA | 10/8/2023 |
