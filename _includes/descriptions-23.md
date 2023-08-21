@@ -24,6 +24,31 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### Dickinson College
+{: #dickinson}
+
+_Excerpt_ Dickinson College invites applications for a tenure-track
+Assistant Professor of Computer Science, beginning Fall 2024. We seek
+candidates holding a PhD in computer science or a related field at the
+time of appointment. Candidates with degrees in aligned fields who
+have relevant computational experience are encouraged to apply and
+will be given strong consideration. The ability to create inclusive
+learning environments for an increasingly diverse student body will be
+an important characteristic of the successful candidate.  The computer
+science faculty pride themselves on innovative pedagogy,
+student-faculty research, inter-disciplinary connections, and
+meaningful interactions between faculty and students. The CS
+curriculum at Dickinson includes an emphasis on civic engagement and
+the social value of computing.
+
+- Applications received by **October 15, 2023** will receive full consideration
+- Carlisle, PA. USA.
+
+[Full Job Posting](https://jobs.dickinson.edu/postings/7111){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Haverford College
 {: #haverford}
 
