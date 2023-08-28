@@ -183,3 +183,17 @@ _Excerpt_ The Department of Mathematics and Computer Science at Davidson College
 [_back to all deadlines_](#deadlines) 
 
 ------------
+
+
+### Bucknell University
+{: #bucknell}
+
+_Excerpt_ The Computer Science Department at Bucknell University invites applications for an open-rank tenure-track faculty position to start in August 2024. Candidates whose scholarship is in any area of computer science or a closely related field should apply. We are equally interested in candidates whose scholarship aligns with others in the department and those who broaden our departmental expertise in new directions, such as artificial intelligence, computational linguistics, security, data science, or databases. The department also values interdisciplinary collaborations with the arts, humanities, mathematics, natural & social sciences, management, and engineering.
+
+- Review of applications will begin **October 2, 2023** and continue until the position is filled.
+- Lewisburg, PA. USA.
+
+[Full Job Posting](https://jobs.bucknell.edu/en-us/job/497490/open-rank-tenuretrack-position-in-computer-science){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
