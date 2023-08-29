@@ -222,3 +222,17 @@ _Excerpt_ The Computer Science Department at Bucknell University invites applica
 [_back to all deadlines_](#deadlines) 
 
 ------------
+
+
+### Whitman College
+{: #whitman}
+
+_Excerpt_ The Department of Computer Science at Whitman College seeks applicants for a tenure-track position beginning August 2024, area open, at the rank of assistant professor or associate professor. Applicants must have a Ph.D. in computer science or a related field by the start of the position. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research. We seek candidates who will strive for excellence in teaching as well as scholarship, including those who currently hold industry positions.
+
+- Review of applications will begin **October 18, 2023** .
+- Walla Walla, WA. USA.
+
+[Full Job Posting](https://apply.interfolio.com/130950){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
