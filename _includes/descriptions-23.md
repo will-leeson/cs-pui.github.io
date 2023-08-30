@@ -239,7 +239,7 @@ _Excerpt_ The Department of Computer Science at Whitman College seeks applicants
 
 
 ### Franklin & Marshall College
-{: #f&m}
+{: #fnm}
 
 _Excerpt_ Franklin & Marshall College invites applications for a tenure-track position in the Department of Computer Science beginning August 2024.  The rank will be Assistant Professor or Instructor depending on qualifications.  Applicants should possess or be close to completing a doctorate degree in Computer Science, Data Science, or a related field.  Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/131030](https://apply.interfolio.com/131030).  Individuals who need accommodation due to a disability in order to submit an application or to otherwise participate in the employment process should contact the department’s academic coordinator, Kelly Smith [kelly.smith@fandm.edu](kelly.smith@fandm.edu). 
 
