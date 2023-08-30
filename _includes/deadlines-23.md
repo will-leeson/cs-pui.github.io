@@ -17,3 +17,4 @@
 | [Bard College](#bard) | Annandale-On-Hudson, NY. USA| 10/16/2023 |
 | [Reed College](#reed) | Portland, OR. USA | 10/16/2023 |
 | [Whitman College](#whitman) | Walla Walla, WA. USA | 10/18/2023 |
+| [Franklin & Marshall College](#f&m) | Lancaster, PA. USA | 10/31/2023 |
