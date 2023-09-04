@@ -13,6 +13,7 @@
 | [Dickinson College](#dickinson) | Carlisle, PA. USA | 10/15/2023 |
 | [Harvey Mudd College](#hmc-cs) | Claremont, CA. USA | 10/15/2023 |
 | [Union College](#union) | Schenectady, NY. USA | 10/15/2023 |
+| [Hamilton College](#hamilton) | Clinton, NY. USA | 10/16/2023 |
 | [Amherst College](#amherst) | Amherst, MA. USA | 10/16/2023 |
 | [College of the Holy Cross](#holycross) | Worcester, MA. USA | 10/16/2023 |
 | [Bard College](#bard) | Annandale-On-Hudson, NY. USA| 10/16/2023 |
