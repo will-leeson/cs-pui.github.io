@@ -32,7 +32,7 @@ _Excerpt_ The Computer Science program at Denison University invites application
 - We will begin reviewing applications on a rolling basis on **October 10, 2023**. We welcome applications received after this date and will evaluate them as they arrive.
 - Granville, OH. USA
 
-[Full Job Posting](https://apply.interfolio.com/129670} 
+[Full Job Posting](https://apply.interfolio.com/129670} {: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
