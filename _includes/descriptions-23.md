@@ -264,3 +264,16 @@ _Excerpt_ Franklin & Marshall College invites applications for a tenure-track po
 [_back to all deadlines_](#deadlines) 
 
 ------------
+
+### Hamilton College
+{: #hamilton}
+
+_Excerpt_ The Computer Science Department at Hamilton College invites applications for two tenure-track positions at the rank of Assistant Professor, beginning July 1, 2024. We seek candidates with expertise in an applied area of systems (such as graphics, networks, security, programming languages, or operating systems) or artificial intelligence (such as natural language processing, computer vision, or machine learning). In particular, we are seeking candidates who can contribute new advanced courses in computer science (at the junior/senior level). We are seeking candidates who can demonstrate their experience in teaching or working with diverse student populations. We expect an ongoing research program that could involve undergraduate researchers. Research support includes start-up funds, a summer student research program, annual conference travel, and a generous sabbatical leave program. The position requires institutional service including academic advising of undergraduate students after the first year. Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/130460](https://apply.interfolio.com/130460). Questions regarding the search may be directed to Mark Bailey, Search Committee Chair, at [mbailey@hamilton.edu](mailto:mbailey@hamilton.edu).
+
+- Review of applications will begin **October 16, 2023** .
+- Clinton, NY. USA.
+
+[Full Job Posting](https://apply.interfolio.com/130460){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
