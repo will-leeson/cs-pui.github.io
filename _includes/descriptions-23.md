@@ -277,3 +277,16 @@ _Excerpt_ The Computer Science Department at Hamilton College invites applicatio
 [_back to all deadlines_](#deadlines) 
 
 ------------
+
+### Rose-Hulman Institute of Technology
+{: #rose-hulman}
+
+_Excerpt_ The Department of Computer Science and Software Engineering at Rose-Hulman invites tenure-track faculty applications with an anticipated start date of August 2024. The department, which continues to experience strong enrollment growth (currently over 500 students), offers B.S. degrees in computer science and software engineering. These programs are accredited by the Computing and Engineering Accreditation Commissions of ABET. Preferred candidates will have a doctorate (or near completion) in computer science, software engineering or closely related fields (including engineering education with an emphasis on these fields) and evidence of, or demonstrated potential for, excellence in undergraduate teaching. We are looking for candidates who embrace the mission and vision of Rose-Hulman to join our collegial team of 27 faculty. The department and the Institute place a high value on engaging students from traditionally underrepresented groups, and candidates from these groups are especially encouraged to apply. Essential job responsibilities include teaching and advising students, continued professional development, and service to the department, Institute and professional community. Applicants should submit via [https://jobs.rose-hulman.edu](https://jobs.rose-hulman.edu), a cover letter, a curriculum vitae or resume, a statement on their teaching philosophy and practices, a statement of their professional development/research goals, and a statement regarding their commitment to diversity and inclusion. Detailed information is available from Amanda Stouder, Associate Professor of Practice in Computer Science and Software Engineering, [stouder@rose-hulman.edu](mailto:stouder@rose-hulman.edu), 812-877-8138. Initial review of completed applications will begin 1 October. Applications will be accepted until the positions are filled.
+
+- Review of applications will begin **October 1, 2023** .
+- Terre Haute, IN. USA.
+
+[Full Job Posting](https://jobs.rose-hulman.edu){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
