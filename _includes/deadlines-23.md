@@ -20,4 +20,4 @@
 | [Reed College](#reed) | Portland, OR. USA | 10/16/2023 |
 | [Whitman College](#whitman) | Walla Walla, WA. USA | 10/18/2023 |
 | [Franklin & Marshall College](#fnm) | Lancaster, PA. USA | 10/31/2023 |
-| [Colby College](#colby) | Waterville, ME. USA | 10/14/2023 (open until filled) |
+| [Colby College](#colby) | Waterville, ME. USA | 10/14/2023 |
