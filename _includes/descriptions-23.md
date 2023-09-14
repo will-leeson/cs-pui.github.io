@@ -290,3 +290,16 @@ _Excerpt_ The Department of Computer Science and Software Engineering at Rose-Hu
 [_back to all deadlines_](#deadlines) 
 
 ------------
+
+### Rhodes College
+{: #rhodes}
+
+_Excerpt_The Department of Computer Science at Rhodes College is hiring for **two** open-rank (assistant, associate, or full) tenure-track positions to begin in August 2024. We welcome applications from all specializations with preference given to individuals whose research interests complement our department. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research. The successful candidates will be expected to maintain an active research program and teach a variety of courses at all levels of the undergraduate computer science curriculum. The teaching load is 3-2. We are also interested in candidates who are passionate about encouraging underrepresented groups to pursue computer science and will contribute to sustaining our diverse program. Our students live and learn on one of the country’s most beautiful campuses, located in the heart of Memphis, an economic, medical, and culturally diverse center, making Rhodes one of a handful of prominent liberal arts colleges in a major metropolitan area. For additional information regarding the position, please contact Dr. Catie Welsh, Chair of the Search Committee, at [welshc@rhodes.edu](mailto:welshc@rhodes.edu).
+
+- Review of applications will begin **October 8, 2023** and continue until the position has been filled.
+- Memphis, TN. USA.
+
+[Full Job Posting](https://rhodes.wd5.myworkdayjobs.com/Rhodes_Careers/job/Open-Rank-Faculty-Positions-in-Computer-Science_JR-473){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
