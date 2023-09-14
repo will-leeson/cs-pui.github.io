@@ -277,3 +277,17 @@ _Excerpt_ The Computer Science Department at Hamilton College invites applicatio
 [_back to all deadlines_](#deadlines) 
 
 ------------
+
+### Colby College
+{: #colby}
+
+_Excerpt_ Colby College invites applications for a tenure-track Assistant Professor position in Computer Science, to start on September 1, 2024. Applicants must hold, or be close to completing, a Ph.D. in computer science or a related area and have expertise in an area related to Artificial Intelligence. This position is affiliated with Colby’s Davis Institute for AI. Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/131782](https://apply.interfolio.com/131782). Questions about the position should be directed to the chair of the search committee, Stephanie Taylor
+[computersciencesearch@colby.edu](mailto:computersciencesearch@colby.edu).
+
+- Review of applications will begin **October 14, 2023** .
+- Waterville, ME. USA.
+
+[Full Job Posting]([https://apply.interfolio.com/130460](https://apply.interfolio.com/131782)){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
