@@ -291,3 +291,29 @@ _Excerpt_ Colby College invites applications for a tenure-track Assistant Profes
 [_back to all deadlines_](#deadlines) 
 
 ------------
+=======
+### Rose-Hulman Institute of Technology
+{: #rose-hulman}
+
+_Excerpt_ The Department of Computer Science and Software Engineering at Rose-Hulman invites tenure-track faculty applications with an anticipated start date of August 2024. The department, which continues to experience strong enrollment growth (currently over 500 students), offers B.S. degrees in computer science and software engineering. These programs are accredited by the Computing and Engineering Accreditation Commissions of ABET. Preferred candidates will have a doctorate (or near completion) in computer science, software engineering or closely related fields (including engineering education with an emphasis on these fields) and evidence of, or demonstrated potential for, excellence in undergraduate teaching. We are looking for candidates who embrace the mission and vision of Rose-Hulman to join our collegial team of 27 faculty. The department and the Institute place a high value on engaging students from traditionally underrepresented groups, and candidates from these groups are especially encouraged to apply. Essential job responsibilities include teaching and advising students, continued professional development, and service to the department, Institute and professional community. Applicants should submit via [https://jobs.rose-hulman.edu](https://jobs.rose-hulman.edu), a cover letter, a curriculum vitae or resume, a statement on their teaching philosophy and practices, a statement of their professional development/research goals, and a statement regarding their commitment to diversity and inclusion. Detailed information is available from Amanda Stouder, Associate Professor of Practice in Computer Science and Software Engineering, [stouder@rose-hulman.edu](mailto:stouder@rose-hulman.edu), 812-877-8138. Initial review of completed applications will begin 1 October. Applications will be accepted until the positions are filled.
+
+- Review of applications will begin **October 1, 2023** .
+- Terre Haute, IN. USA.
+
+[Full Job Posting](https://jobs.rose-hulman.edu){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
+
+### Rhodes College
+{: #rhodes}
+
+_Excerpt_The Department of Computer Science at Rhodes College is hiring for **two** open-rank (assistant, associate, or full) tenure-track positions to begin in August 2024. We welcome applications from all specializations with preference given to individuals whose research interests complement our department. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research. The successful candidates will be expected to maintain an active research program and teach a variety of courses at all levels of the undergraduate computer science curriculum. The teaching load is 3-2. We are also interested in candidates who are passionate about encouraging underrepresented groups to pursue computer science and will contribute to sustaining our diverse program. Our students live and learn on one of the country’s most beautiful campuses, located in the heart of Memphis, an economic, medical, and culturally diverse center, making Rhodes one of a handful of prominent liberal arts colleges in a major metropolitan area. For additional information regarding the position, please contact Dr. Catie Welsh, Chair of the Search Committee, at [welshc@rhodes.edu](mailto:welshc@rhodes.edu).
+
+- Review of applications will begin **October 8, 2023** and continue until the position has been filled.
+- Memphis, TN. USA.
+
+[Full Job Posting](https://rhodes.wd5.myworkdayjobs.com/Rhodes_Careers/job/Open-Rank-Faculty-Positions-in-Computer-Science_JR-473){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
