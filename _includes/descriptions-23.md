@@ -291,7 +291,7 @@ _Excerpt_ Colby College invites applications for a tenure-track Assistant Profes
 [_back to all deadlines_](#deadlines) 
 
 ------------
-=======
+
 ### Rose-Hulman Institute of Technology
 {: #rose-hulman}
 
