@@ -127,8 +127,8 @@ _Excerpt_ The Mount Holyoke College Computer Science Department invites applicat
 
 ------------
 
-### Oberlin College
-{: #oberlin-cs}
+### Oberlin College, Position 1
+{: #oberlin-cs-1}
 
 _Excerpt_ The Computer Science Department at Oberlin College invites applications for a full-time tenure track faculty position in the College of Arts and Sciences. We seek candidates with teaching and research interests in any area of Computer Science, and especially encourage candidates with interest in machine learning/data science to apply. Review of applications will begin on October 1st, 2023, and will continue until the position is filled. 
 
@@ -136,6 +136,18 @@ _Excerpt_ The Computer Science Department at Oberlin College invites application
 - Oberlin, OH. USA. 
 
 [Full Job Posting](https://jobs.oberlin.edu/postings/14154){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+### Oberlin College, Position 2
+{: #oberlin-cs-2}
+
+_Excerpt_ The Computer Science Department at Oberlin College invites applications for a full-time tenure track faculty position in the College of Arts and Sciences. We seek candidates with teaching and research interests in any area of Computer Science. Review of applications will begin on October 15th, 2023, and will continue until the position is filled. 
+
+- Any applications received by **October 15, 2023**, will be guaranteed full consideration
+- Oberlin, OH. USA. 
+
+[Full Job Posting](https://jobs.oberlin.edu/hr/postings/14450){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
