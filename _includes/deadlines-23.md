@@ -9,6 +9,7 @@
 | [Haverford College](#haverford) | Haverford, PA. USA | 10/6/2023 |
 | [Pomona College](#pomona) | Claremont, CA. USA | 10/8/2023 |
 | [Rhodes College](#rhodes) | Memphis, TN. USA | 10/8/2023 |
+| [University of St Thomas](#ust) | St. Paul, MN. USA | 10/8/2023 |
 | [Mount Holyoke College](#holyoke) | South Hadley, MA. USA | 10/10/2023 |
 | [Denison University](#denison) | Granville, OH. USA | 10/10/2023 |
 | [Lafayette College](#lafayette) | Easton, PA. USA| 10/13/2023 |

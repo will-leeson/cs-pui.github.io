@@ -329,3 +329,16 @@ _Excerpt_The Department of Computer Science at Rhodes College is hiring for **tw
 [_back to all deadlines_](#deadlines)
 
 ------------
+
+### University of St Thomas
+{: #ust}
+
+_Excerpt_The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for a tenure-track assistant professor position in **Data Science**. The appointment will begin in fall 2024, and the search committee welcomes applicants with expertise in any area of data science. We are seeking outstanding candidates who are dedicated to innovative and inclusive undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty. Successful candidates are expected to teach three undergraduate courses per semester in data science or applied statistics. For example, courses in applied regression analysis, machine learning, introductory data science and introductory applied statistics, among others. See more in the [undergraduate catalog](https://www.stthomas.edu/catalog/current/dsci/). It is expected that a successful candidate will maintain a productive research agenda and engage in service to the department, college and/or university. Preference may be given to candidates with complementary areas of scholarly and pedagogical expertise. Please contact the search chair, Dr. Amelia McNamara [amelia.mcnamara@stthomas.edu](mailto:amelia.mcnamara@stthomas.edu) if you have any questions.
+
+- Review of applications will begin on **October 8, 2023** and will continue until the position is filled.
+- St. Paul, MN. USA.
+
+[Full Job Posting](https://facultyemployment-stthomas.icims.com/jobs/7356/tenure-track%2c-assistant-professor-in-data-science%2c-department-of-computer-and-information-sciences/job)
+[_back to all deadlines_](#deadlines)
+
+------------
