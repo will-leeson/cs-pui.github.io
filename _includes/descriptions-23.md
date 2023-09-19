@@ -338,7 +338,7 @@ _Excerpt_The University of St. Thomas’s Department of Computer and Information
 - Review of applications will begin on **October 8, 2023** and will continue until the position is filled.
 - St. Paul, MN. USA.
 
-[Full Job Posting](https://facultyemployment-stthomas.icims.com/jobs/7356/tenure-track%2c-assistant-professor-in-data-science%2c-department-of-computer-and-information-sciences/job) {: .button-job}
+[Full Job Posting](https://facultyemployment-stthomas.icims.com/jobs/7356/tenure-track%2c-assistant-professor-in-data-science%2c-department-of-computer-and-information-sciences/job){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -351,7 +351,7 @@ _Excerpt_The Department of Computer Science at Vassar College invites applicatio
 - Review of applications will begin on **October 16, 2023** and will continue until the position is filled.
 - Poughkeepsie, NY. USA.
 
-[Full Job Posting](https://apptrkr.com/4606510) {: .button-job}
+[Full Job Posting](https://apptrkr.com/4606510){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
