@@ -25,4 +25,5 @@
 | [Reed College](#reed) | Portland, OR. USA | 10/16/2023 |
 | [Vassar College](#vassar) | Poughkeepsie, NY. USA | 10/16/2023 |
 | [Whitman College](#whitman) | Walla Walla, WA. USA | 10/18/2023 |
+| [James Madison University](#jmu) | Harrisonburg, VA. USA | 10/20/2023 |
 | [Franklin & Marshall College](#fnm) | Lancaster, PA. USA | 10/31/2023 |
