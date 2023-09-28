@@ -165,6 +165,19 @@ _Excerpt_ The Computer Science Department at Oberlin College invites application
 
 ------------
 
+### Pacific Lutheran University
+{: #plu}
+
+_Excerpt_ The Department of Computer Science at Pacific Lutheran University invites applications for a tenure-track position at the level of Assistant Professor to begin September 1, 2024. We seek an enthusiastic instructor with a demonstrated interest in teaching a wide variety of computer science courses across the curriculum. We are a small, collaborative group of teaching-focused faculty, passionate about educating and supporting our diverse student population. Candidates who have experience in network security, databases, or data science are especially encouraged to apply although all areas of expertise will be considered. A commitment to excellence in teaching and the ability to work effectively with faculty, students and colleagues is expected. The ideal candidate will demonstrate skill and enthusiasm for teaching in a liberal arts environment, a commitment to fostering an inclusive learning environment that attracts and sustains a diverse population of students, and a desire to contribute to the culture and development of our Computer Science and Data Science programs.
+
+- Review of applications will begin immediately and continue until the position is filled.
+- Tacoma, WA. USA.
+
+[Full Job Posting](https://employment.plu.edu/postings/7854){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Reed College
 {: #reed}
 

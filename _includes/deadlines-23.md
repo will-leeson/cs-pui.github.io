@@ -1,5 +1,6 @@
 | **Institution** | **Location** | **App Deadline** |
 | :----       | :---       | :--- |
+| [Pacific Lutheran University](#plu) | Tacoma, WA. USA | Open until filled |
 | [Carleton College](#carleton) | Northfield, MN. USA | 9/27/2023 |
 | [Oberlin College #1](#oberlin-cs-1) | Oberlin, OH. USA | 10/1/2023 |
 | [Davidson College](#davidson) | Davidson, NC. USA | 10/1/2023 |
