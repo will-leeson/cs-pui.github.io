@@ -406,3 +406,16 @@ _Excerpt_The Department of Computer Science at Vassar College invites applicatio
 [_back to all deadlines_](#deadlines)
 
 ------------
+
+### Barnard College 
+{: #barnard}
+
+_Excerpt_Barnard College invites applications for a tenure-track assistant professor in Computer Science to start July 1, 2024.  Barnard faculty are expected to engage in teaching, research, curriculum and program development, undergraduate advising, and mentoring of undergraduate research. There is opportunity to collaborate with faculty and students at both Barnard and Columbia. We encourage candidates who take a multidisciplinary approach, whether across multiple subareas of computer science, or with research connections to another discipline.  Candidates must have a PhD in Computer Science or a related discipline, and should have a promising research agenda and record of scholarship, as well as a demonstrated commitment to undergraduate teaching, mentoring, and increasing diversity in computer science.
+
+- Review of applications will begin on **October 27, 2023** and will continue until the position is filled.
+- New York, NY. USA.
+
+[Full Job Posting](https://careers.barnard.edu/postings/6659){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
