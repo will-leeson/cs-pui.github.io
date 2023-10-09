@@ -355,7 +355,18 @@ _Excerpt_The Department of Computer Science at Rhodes College is hiring for **tw
 [_back to all deadlines_](#deadlines)
 
 ------------
+### St. Lawrence University
+{: #stlawu}
 
+_Excerpt_ St. Lawrence University invites applications for a new tenure-track position in **Data Science** or a related field, at the assistant professor level within the [Department of Mathematics, Computer Science, and Statistics](https://www.stlawu.edu/offices/math-computer-science-and-statistics), to begin on August 15, 2024. Our growing department currently has fourteen full-time faculty members and supports robust majors in Mathematics, Computer Science, Statistics, and Data Science. The ideal candidate will be able to contribute to our core courses and potentially expand our elective offerings in Data Science. The teaching expectation at St. Lawrence is three courses per semester. The university offers generous support for conference travel as well as an option for a pre-tenure sabbatical. Please direct any questions pertaining to this position to Professor Ivan Ramler at [iramler@stlawu.edu](mailto:iramler@stlawu.edu) or to Professor Lisa Torrey at [ltorrey@stlawu.edu](mailto:ltorrey@stlawu.edu).
+
+- Review of applications will begin **October 22, 2023** and continue until the position has been filled.
+- Canton, NY. USA.
+
+[Full Job Posting](https://www.mathjobs.org/jobs/list/23319){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
 ### University of St. Thomas
 {: #ust-1}
 
