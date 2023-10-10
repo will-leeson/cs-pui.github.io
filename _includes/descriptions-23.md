@@ -419,3 +419,14 @@ _Excerpt_Barnard College invites applications for a tenure-track assistant profe
 [_back to all deadlines_](#deadlines)
 
 ------------
+
+### Xavier University
+{: #xavier}
+
+_Excerpt_ The Department of Computer Science invites applications for two tenure-track positions, one at the assistant professor level and the other at open rank, starting Fall 2024. Applicants should have a Ph.D. in Computer Science or Computer Science Education; the degree should be completed by August 2024. Candidates should have an interest in helping grow a diverse and inclusive student community while teaching a variety of undergraduate courses, including their own specialty. Candidates must be committed to outstanding teaching in a liberal arts tradition of active learning, the development of a sustainable scholarly research program, and service consistent with Xavier’s Mission Statement. We are particularly interested in candidates whose activities encourage student participation in scholarly activities.
+
+- Review of applications will begin on **October 23, 2023**
+- Cincinnati, OH. USA.
+
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/26015){: .button-job}
+[_back to all deadlines_](#deadlines)
