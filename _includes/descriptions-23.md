@@ -104,7 +104,7 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 ### Ithaca College
 {: #ithaca}
 
-_Excerpt_ The Ithaca College Computer Science Department invites applications for a full-time tenure-eligible computer science position from any area of specialization starting in the 2024-2025 academic year.  Appointees must hold a Ph.D. (or hold ABD status) in Computer Science or a related field. Successful candidates will show potential for teaching excellence and fostering an inclusive environment throughout the CS curriculum. Candidates should also have an active scholarly agenda that would incorporate undergraduate students. Teaching load for this position is 3-2 and all full-time appointments offer competitive salaries and include full benefits, including travel support. Members of underrepresented groups are encouraged to apply.  
+_Excerpt_ The Ithaca College Computer Science Department invites applications for a full-time tenure-eligible computer science position from any area of specialization starting in the 2024-2025 academic year.  Appointees must hold a Ph.D. (or hold ABD status) in Computer Science or a related field. Successful candidates will show potential for teaching excellence and fostering an inclusive environment throughout the CS curriculum. Candidates should also have an active scholarly agenda that would incorporate undergraduate students. Teaching load for this position is 3-2/2-2 and all full-time appointments offer competitive salaries and include full benefits including travel support. Members of underrepresented groups are encouraged to apply.  
 
 - Review of applications will begin on **November 15, 2023**, and continue until the position has been filled.
 - Ithaca, NY. USA.
