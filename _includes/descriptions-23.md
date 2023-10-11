@@ -109,7 +109,7 @@ _Excerpt_ The Ithaca College Computer Science Department invites applications fo
 - Review of applications will begin on **November 15, 2023**, and continue until the position has been filled.
 - Ithaca, NY. USA.
 
-[Full Job Posting]([https://apply.interfolio.com/129369](https://ithaca.edu/jobs)){: .button-job} 
+[Full Job Posting](https://ithaca.edu/jobs){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
