@@ -204,6 +204,19 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 
 ------------
 
+### Simmons University
+{: #simmons}
+
+[Excerpt] The Computer Science and Informatics program is seeking applicants for a full-time Boston-based 10-month tenure-track or contract faculty position, to begin in Fall 2024. We are particularly looking for applicants with expertise in computer networks and cybersecurity or artificial intelligence and machine learning, though all specialties will be considered. We are a teaching-centered institution and invite candidates who share our commitment towards educating women, trans, and non-binary students for these competitive fields.
+
+- Full consideration will be given to applications submitted by **October 31, 2023**, but review will continue until position is filled.
+- Boston, MA. USA
+
+[Full Job Posting](https://simmons.wd1.myworkdayjobs.com/en-US/Simmons-Careers/job/Tenure-Track-Assistant-Professor-or-Assistant-Professor-of-Practice--Computer-Science_R09789){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Skidmore College
 {: #skidmore}
 
