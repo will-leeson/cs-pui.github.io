@@ -33,4 +33,5 @@
 | [Franklin & Marshall College](#fnm) | Lancaster, PA. USA | 10/31/2023 |
 | [Simmons University](#simmons) | Boston, MA. USA | 10/31/2023 |
 | [Ithaca College](#ithaca) | Ithaca, NY. USA | 11/15/2023 |
+| [University of Mary Washington](#umw) | Fredericksburg, VA. USA | 11/26/2023 |
 | [University of St. Thomas #2](#ust-2) | St. Paul, MN. USA | 12/4/2023 |
