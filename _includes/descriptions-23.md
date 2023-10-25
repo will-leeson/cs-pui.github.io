@@ -24,6 +24,20 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### College of Charleston
+{: #cofc1}
+
+_Excerpt_ The Computer Science Department at the College of Charleston invites applications for a tenure-track Assistant Professor position starting in August 2024. The rapidly-growing Computer Science department (http://cs.cofc.edu) has over 540 students who are enrolled in six undergraduate degree programs and two master’s programs. The successful applicant will demonstrate excellent communication skills, collegiality, and a passion for teaching. For an assistant professor appointment, the successful candidate must demonstrate promise to maintain an active research program and mentor undergraduate and graduate students. Candidates with expertise in all areas of computer science are sought to support our undergraduate and graduate programs in Computer Science, Computing in the Arts, Computer Information Systems, Data Science, and Software Engineering. An earned Ph.D. degree in Computer Science or closely related field is required before the start date. Preference for this position will be given to candidates who are eager to teach courses related to operating systems, architecture, artificial intelligence, or data science.
+
+- Review of applications begins **December 1, 2023** and will continue until the position is filled.
+- Charleston, SC. USA
+
+
+[Full Job Posting](https://jobs.cofc.edu/postings/14619){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Denison University
 {: #denison}
 
