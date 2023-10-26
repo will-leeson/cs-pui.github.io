@@ -406,6 +406,18 @@ _Excerpt_ St. Lawrence University invites applications for a new tenure-track po
 [Full Job Posting](https://www.mathjobs.org/jobs/list/23319){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
+### University of Mary Washington
+{: #umw}
+
+_Excerpt_The University of Mary Washington invites applications for an Assistant Professor of Computer Science, tenure-track, to begin August 15, 2024. Our close-knit team of ten faculty specializes in working with eager undergraduate students in small classes and in one-on-one mentoring settings. The candidate must either have earned a Ph.D. in Computer Science or a closely related field or have made substantial progress toward completing her/his dissertation. Additional required qualifications are a commitment to teaching at the undergraduate level and the ability to teach a variety of computer science topics. Highly-qualified candidates will be able to demonstrate dedication to effective teaching and high-impact learning, demonstrate effective oral and written communication skills, and have an interest in collaborating with undergraduate students in research. The normal teaching load is three sections per semester in small classes. For questions, please feel free to contact Dr. Jessica Zeitz, Search Committee Chair, Department of Computer Science, College of Arts and Sciences at jzeitz@umw.edu.
+
+- The deadline is **November 26, 2023**
+- Fredericksburg, VA. USA.
+
+[Full Job Posting](https://careers.umw.edu/postings/13492){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
 ------------
 ### University of St. Thomas
 {: #ust-1}
