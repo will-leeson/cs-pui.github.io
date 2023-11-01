@@ -482,3 +482,16 @@ _Excerpt_ The Department of Computer Science invites applications for two tenure
 
 [Full Job Posting](https://academicjobsonline.org/ajo/jobs/26015){: .button-job}
 [_back to all deadlines_](#deadlines)
+
+------------
+
+### The College of Wooster
+{: #cow}
+
+_Excerpt_ The Department of Mathematical and Computational Sciences at The College of Wooster invites applications for 1 or 2 tenure-track Assistant Professor of Computer Science to start in August 2024. The department has sixteen full-time faculty, and offers majors in Computer Science, Mathematics, and Statistical & Data Sciences, graduating 55-80 seniors each year. Computer Science serves a diverse group of students including many international students, students of color, and about 30% women. We place a strong emphasis on experiential learning, with every student completing a year-long senior thesis project and many participating in our unique Applied Methods & Research Experience summer consulting program.
+
+- Review of applications will begin on **December 1, 2023**
+- Wooster, OH. USA.
+
+[Full Job Posting](https://www.higheredjobs.com/search/details.cfm?JobCode=178592487&Title=Assistant%20Professor%20%2D%20Computer%20Science){: .button-job}
+[_back to all deadlines_](#deadlines)
