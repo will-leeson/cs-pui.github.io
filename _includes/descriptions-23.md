@@ -11,6 +11,19 @@ _Excerpt_ The Amherst College Department of Computer Science invites application
 
 ------------
 
+### Ball State University
+{: #bsu}
+
+_Excerpt_ The Computer Science Department is seeking a full-time faculty candidate to focus their work on our new Game Design & Development concentration. A successful candidate would be hired at a rank commensurate with their experience: tenure-track Assistant, Associate, or Full Professor. Teaching assignments will be in the Computer Science undergraduate program, with a focus on courses in the Game Design & Development concentration during the academic year. Students in this program learn traditional Computer Science concepts while also studying fundamentals of game design and working on multidisciplinary teams to create and release original games. Additional courses for the undergraduate or graduate curriculum in Computer Science are possible and may be offered online or on-campus. The candidate is expected to engage in relevant scholarship that will advance research and creative opportunities for undergraduates.
+
+- Applications received by **November 18, 2023** will receive full consideration (open until filled)
+- Muncie, IN. USA
+
+[Full Job Posting](https://bsu.peopleadmin.com/postings/39872){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Carleton College
 {: #carleton}
 
