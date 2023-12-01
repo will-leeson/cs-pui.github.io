@@ -230,7 +230,19 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 [_back to all deadlines_](#deadlines)
 
 ------------
+### Seton Hall University
+{: #shu}
 
+[Excerpt] The Department of Mathematics and Computer Science invites applications for a tenure-track assistant professor in computer science, with duties in teaching, research, and service. Teaching load is 18 credits per year, equivalent to 2-3 courses per semester. A successful candidate will be expected to maintain a high quality research program and be able to supervise undergraduate research projects. Candidate must have obtained a Ph.D. in Computer Science by August 2024. Priority will be given to applicants familiar with systematic program development (aka program by design) and the intersection of programming languages and databases.
+
+
+- We will begin reviewing applications on a rolling basis on **November 11, 2023**. We welcome applications received after this date and will evaluate them as they arrive.
+- South Orange, NJ. USA.
+
+[Full Job Posting](https://jobs.acm.org/job/tenure-track-assistant-professor-in-computer-science/71445742/){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
 ### Simmons University
 {: #simmons}
 
