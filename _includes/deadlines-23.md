@@ -32,6 +32,7 @@
 | [Barnard College](#barnard) | New York, NY. USA | 10/27/2023 |
 | [Franklin & Marshall College](#fnm) | Lancaster, PA. USA | 10/31/2023 |
 | [Simmons University](#simmons) | Boston, MA. USA | 10/31/2023 |
+| [Seton Hall University](#shu) | South Orange, NJ. USA | 11/11/2023 (open until filled) |
 | [Ithaca College](#ithaca) | Ithaca, NY. USA | 11/15/2023 |
 | [Ball State University](#bsu) | Muncie, IN. USA | 11/18/2023 (open until filled) |
 | [University of Mary Washington](#umw) | Fredericksburg, VA. USA | 11/26/2023 |
