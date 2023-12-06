@@ -18,7 +18,6 @@
 | [Dickinson College](#dickinson) | Carlisle, PA. USA | 10/15/2023 |
 | [Harvey Mudd College](#hmc-cs) | Claremont, CA. USA | 10/15/2023 |
 | [Oberlin College #2](#oberlin-cs-2) | Oberlin, OH. USA | 10/15/2023 |
-| [Union College](#union) | Schenectady, NY. USA | 10/15/2023 |
 | [Hamilton College](#hamilton) | Clinton, NY. USA | 10/16/2023 |
 | [Amherst College](#amherst) | Amherst, MA. USA | 10/16/2023 |
 | [College of the Holy Cross](#holycross) | Worcester, MA. USA | 10/16/2023 |
