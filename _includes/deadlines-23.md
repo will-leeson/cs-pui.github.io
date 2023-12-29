@@ -7,7 +7,7 @@
 | [Skidmore College](#skidmore) | Saratoga Springs, NY. USA | 10/1/2023 |
 | [Rose-Hulman Institute of Technology](#rose-hulman) | Terre Haute, IN. USA | 10/01/2023 |
 | [Bucknell University](#bucknell) | Lewisburg, PA. USA | 10/2/2023 |
-| [Haverford College](#haverford) | Haverford, PA. USA | 10/6/2023 |
+| [Haverford College](#haverford) | Haverford, PA. USA | <s>10/6/2023</s> 01/15/2023 |
 | [Pomona College](#pomona) | Claremont, CA. USA | 10/8/2023 |
 | [Rhodes College](#rhodes) | Memphis, TN. USA | 10/8/2023 |
 | [University of St. Thomas #1](#ust-1) | St. Paul, MN. USA | 10/8/2023 |
