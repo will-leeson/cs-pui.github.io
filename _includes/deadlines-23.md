@@ -20,7 +20,7 @@
 | [Oberlin College #2](#oberlin-cs-2) | Oberlin, OH. USA | 10/15/2023 |
 | [Hamilton College](#hamilton) | Clinton, NY. USA | 10/16/2023 |
 | [Amherst College](#amherst) | Amherst, MA. USA | 10/16/2023 |
-| [College of the Holy Cross](#holycross) | Worcester, MA. USA | 10/16/2023 |
+| [College of the Holy Cross #1](#holycross-1) | Worcester, MA. USA | 10/16/2023 |
 | [Bard College](#bard) | Annandale-On-Hudson, NY. USA| 10/16/2023 |
 | [Reed College](#reed) | Portland, OR. USA | 10/16/2023 |
 | [Vassar College](#vassar) | Poughkeepsie, NY. USA | 10/16/2023 |
@@ -37,4 +37,5 @@
 | [University of Mary Washington](#umw) | Fredericksburg, VA. USA | 11/26/2023 |
 | [The College of Wooster](#cow) | Wooster, OH. USA | 12/1/2023 |
 | [University of St. Thomas #2](#ust-2) | St. Paul, MN. USA | 12/4/2023 |
+| [College of the Holy Cross #2](#holycross-2) | Worcester, MA. USA | 2/1/2024 |
 | [College of Charleston](#cofc1) | Charleston, SC. USA | 2/15/2024 |
