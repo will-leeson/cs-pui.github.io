@@ -115,8 +115,8 @@ _Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) has multi
 
 ------------
 
-### College of the Holy Cross
-{: #holycross}
+### College of the Holy Cross, Position 1
+{: #holycross-1}
 
 _Excerpt_ The Department of Mathematics and Computer Science at the College of the Holy Cross invites applications for a full-time tenure-track Assistant Professor in Computer Science to begin in August 2024. All research specialties will be considered. This position carries a 3-2 teaching load with a full-salary one-semester research leave prior to tenure review, and generous sabbatical and fellowship leaves for tenured faculty. All full-time appointments offer competitive salaries and include full benefits, including travel support and reimbursement for relocation. 
 
@@ -124,6 +124,19 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 - Worcester, MA. USA.
 
 [Full Job Posting](https://apply.interfolio.com/129369){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### College of the Holy Cross, Position 2
+{: #holycross-2}
+
+_Excerpt_ The Department of Mathematics and Computer Science at the College of the Holy Cross invites applications for a *second* full-time tenure-track Assistant Professor in Computer Science to begin in August 2024. All research specialties will be considered. This position carries a 3-2 teaching load with a full-salary one-semester research leave prior to tenure review, and generous sabbatical and fellowship leaves for tenured faculty. All full-time appointments offer competitive salaries and include full benefits, including travel support and reimbursement for relocation. 
+
+- Review of applications will begin on **February 1, 2024**, and continue until the position has been filled.
+- Worcester, MA. USA.
+
+[Full Job Posting](http://apply.interfolio.com/139014){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
