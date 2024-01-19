@@ -14,7 +14,7 @@ A handful of resources that include wisdom from CS faculty at PUIs:
 
 - [**Computer Science Graduate Job and Interview Guide**](https://csguides.github.io/grad-job-guide/): while less specifically focused on PUIs, Dr. Kevin Angstadt provides detailed notes and perspective from his experiences applying to PUIs. 
 
-- Dr. Phil Chodrow's (Middlebury College) [**CS Jobs at Small Liberal Arts Colleges**](https://www.philchodrow.com/job_app.html): Phil includes some tips from his recent application experience, and includes his application material. 
+- Dr. Phil Chodrow's (Middlebury College) [**CS Jobs at Small Liberal Arts Colleges**](https://www.philchodrow.prof/job_app.html): Phil includes some tips from his recent application experience, and includes his application material. 
 
 - Dr. Amanda Stent's (Colby College) [**Academic CS Careers at Liberal Arts Colleges**](https://medium.com/@ajstent/academic-cs-careers-at-liberal-arts-colleges-917b0d3e82ab): Amanda writes a nice FAQ outlining life as a CS prof at liberal arts colleges, inclusing application guidance.  
 
