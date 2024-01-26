@@ -37,5 +37,6 @@
 | [University of Mary Washington](#umw) | Fredericksburg, VA. USA | 11/26/2023 |
 | [The College of Wooster](#cow) | Wooster, OH. USA | 12/1/2023 |
 | [University of St. Thomas #2](#ust-2) | St. Paul, MN. USA | 12/4/2023 |
+| [Union College](#union) | Schenectady, NY. USA | 1/31/2024 |
 | [College of the Holy Cross #2](#holycross-2) | Worcester, MA. USA | 2/1/2024 |
 | [College of Charleston](#cofc1) | Charleston, SC. USA | 2/15/2024 |
