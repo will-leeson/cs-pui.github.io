@@ -27,7 +27,6 @@
 | [Whitman College](#whitman) | Walla Walla, WA. USA | 10/18/2023 |
 | [James Madison University](#jmu) | Harrisonburg, VA. USA | 10/20/2023 |
 | [St. Lawrence University](#stlawu) | Canton, NY. USA | 10/22/2023 |
-| [Xavier University](#xavier) | Cincinnati, OH. USA | 10/23/2023 |
 | [Barnard College](#barnard) | New York, NY. USA | 10/27/2023 |
 | [Franklin & Marshall College](#fnm) | Lancaster, PA. USA | 10/31/2023 |
 | [Simmons University](#simmons) | Boston, MA. USA | 10/31/2023 |
@@ -40,3 +39,4 @@
 | [Union College](#union) | Schenectady, NY. USA | 1/31/2024 |
 | [College of the Holy Cross #2](#holycross-2) | Worcester, MA. USA | 2/1/2024 |
 | [College of Charleston](#cofc1) | Charleston, SC. USA | 2/15/2024 |
+| [Xavier University](#xavier) | Cincinnati, OH. USA | 2/21/2024 |
