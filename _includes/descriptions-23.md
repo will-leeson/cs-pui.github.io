@@ -534,3 +534,13 @@ _Excerpt_ The Department of Mathematical and Computational Sciences at The Colle
 
 [Full Job Posting](https://www.higheredjobs.com/search/details.cfm?JobCode=178592487&Title=Assistant%20Professor%20%2D%20Computer%20Science){: .button-job}
 [_back to all deadlines_](#deadlines)
+
+### Stonehill College
+{: #stonehill}
+
+_Excerpt_ The Department of Computer Science in the May School of Art and Sciences at Stonehill College invites applications for a tenure-track assistant professor position, anticipated to begin in August 2024. While all qualified candidates are encouraged to apply, the department is especially interested in candidates who can teach upper-level core computer science courses such as Operating Systems, Computer Networks, Cybersecurity, Compiler Design, Databases, and Software Engineering. Founded by the Congregation of Holy Cross in 1948, Stonehill is a private Catholic college located just 22 miles from downtown Boston on a beautiful 384-acre campus in Easton, Massachusetts. With a student to faculty ratio of 13:1, the College engages its 2,500+ students in 80+ rigorous academic programs in the liberal arts, sciences, and pre-professional fields.
+
+Application review will begin immediately, and applications will be reviewed until the position is filled.
+
+[Full Job Posting](https://jobs.stonehill.edu/postings/24385){: .button-job}
+[_back to all deadlines_](#deadlines)
