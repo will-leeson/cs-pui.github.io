@@ -40,3 +40,4 @@
 | [College of the Holy Cross #2](#holycross-2) | Worcester, MA. USA | 2/1/2024 |
 | [College of Charleston](#cofc1) | Charleston, SC. USA | 2/15/2024 |
 | [Xavier University](#xavier) | Cincinnati, OH. USA | 2/21/2024 |
+| [Stonehill College](#stonehill) | South Easton, MA. USA | Open until filled |
