@@ -550,7 +550,7 @@ Application review will begin immediately, and applications will be reviewed unt
 ------------
 
 ### Harvey Mudd College, Visiting Position
-{: #hmc-cs-visit}
+{: #hmc-cs-visitor}
 
 _Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) invites applications for one-year and two-year Visiting Professor positions in computer science starting in the 2024-25 academic year. Candidates in all areas of computer science and at all ranks, including Associate or Full Professors planning a sabbatical or retirement visit, will be considered. Successful candidates should have completed a Ph.D. in CS or a related field by the time of appointment. Among the department’s strengths are its success in recruiting women (who comprise about half of both our faculty and our majors) to computer science, an innovative and rigorous curriculum that prepares students for both employment and graduate school and an active research program that involves a substantial number of undergraduates. The teaching load is two courses per semester, plus supervision of one or two industry-supported senior capstone Computer Science Clinic projects per year.
 
