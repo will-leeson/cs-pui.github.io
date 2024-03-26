@@ -57,7 +57,7 @@ _Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) invites a
 ### James Madison University
 {: #jmu}
 
-_Excerpt_ ...The Department of Computer Science (CS) at James Madison University invites applications for tenure-track faculty positions to begin August 2024. We are committed to cultivating a welcoming and inclusive environment for our faculty, staff, and students, and we value candidates who will be both impactful teachers and impactful scholars. The JMU CS department is a vibrant and supportive community with 21 full-time faculty members and approximately 900 undergraduate majors. We offer an online M.S. Degree in Information Security with approximately 60 students. We are dedicated to supporting a culture that balances excellence in teaching, small class sizes, and opportunities for faculty and student research. The department sponsors many active clubs and organizations including Women in Technology, Robotics, Forensics, Cyber Defense, and a student ACM chapter. We have an outstanding undergraduate Teaching Assistant program that helps novice students feel welcomed and supported regardless of their prior experience...We are interested in applicants from all areas of specialization. We are especially interested in candidates with a background in Software Engineering, Theoretical Computer Science, or Cyber Security. We are particularly interested in candidates with experience and/or interest in promoting inclusion within the department and the discipline.
+_Excerpt_ The Department of Computer Science (CS) at James Madison University invites applications for tenure-track faculty positions to begin August 2024. We are committed to cultivating a welcoming and inclusive environment for our faculty, staff, and students, and we value candidates who will be both impactful teachers and impactful scholars. The JMU CS department is a vibrant and supportive community with 21 full-time faculty members and approximately 900 undergraduate majors. We offer an online M.S. Degree in Information Security with approximately 60 students. We are dedicated to supporting a culture that balances excellence in teaching, small class sizes, and opportunities for faculty and student research. The department sponsors many active clubs and organizations including Women in Technology, Robotics, Forensics, Cyber Defense, and a student ACM chapter. We have an outstanding undergraduate Teaching Assistant program that helps novice students feel welcomed and supported regardless of their prior experience...We are interested in applicants from all areas of specialization. We are especially interested in candidates with a background in Software Engineering, Theoretical Computer Science, or Cyber Security. We are particularly interested in candidates with experience and/or interest in promoting inclusion within the department and the discipline.
 
 - Review of applications will begin on **October 20, 2023**, and continue until the position has been filled.
 - Harrisonburg, VA. USA.
@@ -153,7 +153,7 @@ _Excerpt_ The University of St. Thomas’s Department of Computer and Informatio
 ### Simmons University
 {: #simmons}
 
-[Excerpt] The Computer Science and Informatics program is seeking applicants for a full-time Boston-based 10-month tenure-track or contract faculty position, to begin in Fall 2024. We are particularly looking for applicants with expertise in computer networks and cybersecurity or artificial intelligence and machine learning, though all specialties will be considered. We are a teaching-centered institution and invite candidates who share our commitment towards educating women, trans, and non-binary students for these competitive fields.
+_Excerpt_ The Computer Science and Informatics program is seeking applicants for a full-time Boston-based 10-month tenure-track or contract faculty position, to begin in Fall 2024. We are particularly looking for applicants with expertise in computer networks and cybersecurity or artificial intelligence and machine learning, though all specialties will be considered. We are a teaching-centered institution and invite candidates who share our commitment towards educating women, trans, and non-binary students for these competitive fields.
 
 - Full consideration will be given to applications submitted by **October 31, 2023**, but review will continue until position is filled.
 - Boston, MA. USA
@@ -192,9 +192,7 @@ Application review will begin immediately, and applications will be reviewed unt
 ### Union College
 {: #union}
 
-_Excerpt_ 
-
-Union College invites applications for a three-year faculty position in Computer Science at the rank of Visiting Assistant Professor, beginning September 2024.  The area of expertise is open.  We are interested in candidates who can teach core CS classes and also courses in their areas of expertise, especially at the interface of CS and other fields, such as, the natural sciences, mathematics, or the humanities.
+_Excerpt_  Union College invites applications for a three-year faculty position in Computer Science at the rank of Visiting Assistant Professor, beginning September 2024.  The area of expertise is open.  We are interested in candidates who can teach core CS classes and also courses in their areas of expertise, especially at the interface of CS and other fields, such as, the natural sciences, mathematics, or the humanities.
 
 - Review of applications will begin on **January 31, 2024** and will continue until the position is filled.
 - Schenectady, NY. USA.
