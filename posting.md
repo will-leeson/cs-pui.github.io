@@ -6,13 +6,13 @@ title: Post an Ad
 
 <!-- ## Adding your position to CS-PUI (2022/23) -->
 
-**📢 cs-pui jobs is currently under construction 📢** The website is currently under development to prepare for the 2023 job market. I appreciate your patience!
+**📢 cs-pui jobs is currently under construction 📢** The website is currently under development. We appreciate your patience!
 {: .notice .notice-red}
 
-💡 You can email me at `evan.peck@bucknell.edu` if you run into any problems or need help.
+💡 You can email `jcrouser@smith.edu` if you run into any problems or need help.
 {: .notice .notice-blue}
 
-While I often post positions quickly after they are publicized, departments can also add their own advertisements to the site. **Make sure your department and university aligns with the website criteria**. [See the criteria](index#criteria)
+While we often post positions quickly after they are publicized, departments can also add their own advertisements to the site. **Make sure your department and university aligns with the website criteria**. [See the criteria](index#criteria)
 
 There are two options: 
 1. You can add your information by **editing our Github repository** (and eventually creating a pull request). _Follow the instructions on the page below._
