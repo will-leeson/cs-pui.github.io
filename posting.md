@@ -16,7 +16,7 @@ While we often post positions quickly after they are publicized, departments can
 
 There are two options: 
 1. You can add your information by **editing our Github repository** (and eventually creating a pull request). _Follow the instructions on the page below._
-2. Or if you're uncomfortable about making changes here, you can [**fill out a Google Form with your information**](https://forms.gle/FedftNPjrULwYrFu8) and I can modify our home page for you. 
+2. Or if you're uncomfortable about making changes here, you can email `jcrouser@smith.edu` and Jordan will happily post your ad for you. 
 
 ------------
 ### Adding your position via Github
