@@ -41,4 +41,5 @@
 | [College of Charleston](#cofc1) | Charleston, SC. USA | 2/15/2024 |
 | [Xavier University](#xavier) | Cincinnati, OH. USA | 2/21/2024 |
 | [Stonehill College](#stonehill) | South Easton, MA. USA | Open until filled |
+| [Harvey Mudd College, Visiting](#hmc-cs-visitor) | Claremont, CA. USA | 3/15/2024 |
 | [Smith College](#smith) | Northampton, MA. USA | Review begins 4/1/2024 (open until filled) |
