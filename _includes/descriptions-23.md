@@ -24,6 +24,45 @@ _Excerpt_ The Computer Science Department is seeking a full-time faculty candida
 
 ------------
 
+### Bard College
+{: #bard}
+
+_Excerpt_ Bard College invites applications for a tenure-track Assistant Professor position in Computer Science to begin Fall 2024. A Ph.D. in computer science or a related field is required. The successful candidate will be committed to innovative undergraduate teaching at a liberal arts college with a diverse student body, maintaining an active research program, contributing to the general education curriculum, and engaging with the life of the college.
+
+- Review of applications will begin **October 16, 2023**
+- Annandale-On-Hudson, NY. USA.
+
+[Full Job Posting](https://apply.interfolio.com/130313){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
+
+### Barnard College 
+{: #barnard}
+
+_Excerpt_Barnard College invites applications for a tenure-track assistant professor in Computer Science to start July 1, 2024.  Barnard faculty are expected to engage in teaching, research, curriculum and program development, undergraduate advising, and mentoring of undergraduate research. There is opportunity to collaborate with faculty and students at both Barnard and Columbia. We encourage candidates who take a multidisciplinary approach, whether across multiple subareas of computer science, or with research connections to another discipline.  Candidates must have a PhD in Computer Science or a related discipline, and should have a promising research agenda and record of scholarship, as well as a demonstrated commitment to undergraduate teaching, mentoring, and increasing diversity in computer science.
+
+- Review of applications will begin on **October 27, 2023** and will continue until the position is filled.
+- New York, NY. USA.
+
+[Full Job Posting](https://careers.barnard.edu/postings/6659){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Bucknell University
+{: #bucknell}
+
+_Excerpt_ The Computer Science Department at Bucknell University invites applications for an open-rank tenure-track faculty position to start in August 2024. Candidates whose scholarship is in any area of computer science or a closely related field should apply. We are equally interested in candidates whose scholarship aligns with others in the department and those who broaden our departmental expertise in new directions, such as artificial intelligence, computational linguistics, security, data science, or databases. The department also values interdisciplinary collaborations with the arts, humanities, mathematics, natural & social sciences, management, and engineering.
+
+- Review of applications will begin **October 2, 2023** and continue until the position is filled.
+- Lewisburg, PA. USA.
+
+[Full Job Posting](https://jobs.bucknell.edu/en-us/job/497490/open-rank-tenuretrack-position-in-computer-science){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
+
 ### Carleton College
 {: #carleton}
 
@@ -48,6 +87,34 @@ _Excerpt_ The Computer Science Department at the College of Charleston invites a
 
 [Full Job Posting](https://jobs.cofc.edu/postings/14619){: .button-job} 
 [_back to all deadlines_](#deadlines)
+
+------------
+
+
+### Colby College
+{: #colby}
+
+_Excerpt_ Colby College invites applications for a tenure-track Assistant Professor position in Computer Science, to start on September 1, 2024. Applicants must hold, or be close to completing, a Ph.D. in computer science or a related area and have expertise in an area related to Artificial Intelligence. This position is affiliated with Colby’s Davis Institute for AI. Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/131782](https://apply.interfolio.com/131782). Questions about the position should be directed to the chair of the search committee, Stephanie Taylor
+[computersciencesearch@colby.edu](mailto:computersciencesearch@colby.edu).
+
+- Review of applications will begin **October 14, 2023** .
+- Waterville, ME. USA.
+
+[Full Job Posting]([https://apply.interfolio.com/130460](https://apply.interfolio.com/131782)){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
+
+### Davidson College
+{: #davidson}
+
+_Excerpt_ The Department of Mathematics and Computer Science at Davidson College invites applications for a tenure-track appointment in Computer Science at the rank of Assistant Professor, beginning July 1, 2024. We seek candidates with a strong commitment to improving access to computer science for all students, enthusiasm for teaching all levels of undergraduate students, and a research program that can involve undergraduate researchers. The department is most interested in candidates with research expertise and teaching interests in systems (broadly defined), who can support and expand our curriculum and enhance research opportunities for students.
+
+- Review of applications will begin **October 1, 2023**
+- Davidson, NC. USA.
+
+[Full Job Posting](https://employment.davidson.edu/en-us/listing/){: .button-job}
+[_back to all deadlines_](#deadlines) 
 
 ------------
 
@@ -89,16 +156,31 @@ the social value of computing.
 
 ------------
 
-### Haverford College
-{: #haverford}
+### Franklin & Marshall College
+{: #fnm}
 
-_Excerpt_ Haverford College invites applications for a tenure-track position as Assistant Professor in the Department of Computer Science, starting in the Fall semester of 2024. The area of scholarly expertise is open, with the successful candidate demonstrating evidence of research productivity, vision, and long-term impact. Teaching responsibilities include courses at all levels of the curriculum, in particular our core introductory sequence, upper-level electives that expand our range of advanced courses, and supervision of undergraduate research. 
+_Excerpt_ Franklin & Marshall College invites applications for a tenure-track position in the Department of Computer Science beginning August 2024.  The rank will be Assistant Professor or Instructor depending on qualifications.  Applicants should possess or be close to completing a doctorate degree in Computer Science, Data Science, or a related field.  Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/131030](https://apply.interfolio.com/131030).  Individuals who need accommodation due to a disability in order to submit an application or to otherwise participate in the employment process should contact the department’s academic coordinator, Kelly Smith [kelly.smith@fandm.edu](kelly.smith@fandm.edu). 
 
-- Applications submitted by <s>**October 6, 2023**</s> **January 15, 2024** are guaranteed full consideration
-- Haverford, PA. USA.
 
-[Full Job Posting](https://apply.interfolio.com/128585){: .button-job} 
-[_back to all deadlines_](#deadlines)
+- Review of applications will begin **October 31, 2023** .
+- Lancaster, PA. USA.
+
+[Full Job Posting](https://apply.interfolio.com/131030){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
+
+### Hamilton College
+{: #hamilton}
+
+_Excerpt_ The Computer Science Department at Hamilton College invites applications for two tenure-track positions at the rank of Assistant Professor, beginning July 1, 2024. We seek candidates with expertise in an applied area of systems (such as graphics, networks, security, programming languages, or operating systems) or artificial intelligence (such as natural language processing, computer vision, or machine learning). In particular, we are seeking candidates who can contribute new advanced courses in computer science (at the junior/senior level). We are seeking candidates who can demonstrate their experience in teaching or working with diverse student populations. We expect an ongoing research program that could involve undergraduate researchers. Research support includes start-up funds, a summer student research program, annual conference travel, and a generous sabbatical leave program. The position requires institutional service including academic advising of undergraduate students after the first year. Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/130460](https://apply.interfolio.com/130460). Questions regarding the search may be directed to Mark Bailey, Search Committee Chair, at [mbailey@hamilton.edu](mailto:mbailey@hamilton.edu).
+
+- Review of applications will begin **October 16, 2023** .
+- Clinton, NY. USA.
+
+[Full Job Posting](https://apply.interfolio.com/130460){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
 
 ------------
 
@@ -111,6 +193,19 @@ _Excerpt_ The Computer Science Department at Harvey Mudd College (HMC) has multi
 - Claremont, CA. USA. 
 
 [Full Job Posting](https://academicjobsonline.org/ajo/jobs/24986){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Haverford College
+{: #haverford}
+
+_Excerpt_ Haverford College invites applications for a tenure-track position as Assistant Professor in the Department of Computer Science, starting in the Fall semester of 2024. The area of scholarly expertise is open, with the successful candidate demonstrating evidence of research productivity, vision, and long-term impact. Teaching responsibilities include courses at all levels of the curriculum, in particular our core introductory sequence, upper-level electives that expand our range of advanced courses, and supervision of undergraduate research. 
+
+- Applications submitted by <s>**October 6, 2023**</s> **January 15, 2024** are guaranteed full consideration
+- Haverford, PA. USA.
+
+[Full Job Posting](https://apply.interfolio.com/128585){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -180,6 +275,19 @@ _Excerpt_ The Lafayette College Computer Science Department invites applications
 
 ------------
 
+### University of Mary Washington
+{: #umw}
+
+_Excerpt_The University of Mary Washington invites applications for an Assistant Professor of Computer Science, tenure-track, to begin August 15, 2024. Our close-knit team of ten faculty specializes in working with eager undergraduate students in small classes and in one-on-one mentoring settings. The candidate must either have earned a Ph.D. in Computer Science or a closely related field or have made substantial progress toward completing her/his dissertation. Additional required qualifications are a commitment to teaching at the undergraduate level and the ability to teach a variety of computer science topics. Highly-qualified candidates will be able to demonstrate dedication to effective teaching and high-impact learning, demonstrate effective oral and written communication skills, and have an interest in collaborating with undergraduate students in research. The normal teaching load is three sections per semester in small classes. For questions, please feel free to contact Dr. Jessica Zeitz, Search Committee Chair, Department of Computer Science, College of Arts and Sciences at jzeitz@umw.edu.
+
+- The deadline is **November 26, 2023**
+- Fredericksburg, VA. USA.
+
+[Full Job Posting](https://careers.umw.edu/postings/13492){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Mount Holyoke College
 {: #holyoke}
 
@@ -231,6 +339,19 @@ _Excerpt_ The Department of Computer Science at Pacific Lutheran University invi
 
 ------------
 
+### Pomona College
+{: #pomona}
+
+_Excerpt_ Pomona College seeks applications for an Open-Rank (assistant, associate, or full) Professor of Computer Science, to begin on July 1, 2024. All subfields of computer science will be considered, with preference for candidates whose research and teaching interests complement those of the current faculty. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research.  Candidates should have a Ph.D. in hand by the start date.
+
+- Review of applications will begin **October 8, 2023**
+- Claremont, CA. USA.
+
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/25347){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
+
 ### Reed College
 {: #reed}
 
@@ -243,6 +364,74 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 [_back to all deadlines_](#deadlines)
 
 ------------
+
+### Rhodes College
+{: #rhodes}
+
+_Excerpt_The Department of Computer Science at Rhodes College is hiring for **two** open-rank (assistant, associate, or full) tenure-track positions to begin in August 2024. We welcome applications from all specializations with preference given to individuals whose research interests complement our department. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research. The successful candidates will be expected to maintain an active research program and teach a variety of courses at all levels of the undergraduate computer science curriculum. The teaching load is 3-2. We are also interested in candidates who are passionate about encouraging underrepresented groups to pursue computer science and will contribute to sustaining our diverse program. Our students live and learn on one of the country’s most beautiful campuses, located in the heart of Memphis, an economic, medical, and culturally diverse center, making Rhodes one of a handful of prominent liberal arts colleges in a major metropolitan area. For additional information regarding the position, please contact Dr. Catie Welsh, Chair of the Search Committee, at [welshc@rhodes.edu](mailto:welshc@rhodes.edu).
+
+- Review of applications will begin **October 8, 2023** and continue until the position has been filled.
+- Memphis, TN. USA.
+
+[Full Job Posting](https://rhodes.wd5.myworkdayjobs.com/Rhodes_Careers/job/Open-Rank-Faculty-Positions-in-Computer-Science_JR-473){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Rose-Hulman Institute of Technology
+{: #rose-hulman}
+
+_Excerpt_ The Department of Computer Science and Software Engineering at Rose-Hulman invites tenure-track faculty applications with an anticipated start date of August 2024. The department, which continues to experience strong enrollment growth (currently over 500 students), offers B.S. degrees in computer science and software engineering. These programs are accredited by the Computing and Engineering Accreditation Commissions of ABET. Preferred candidates will have a doctorate (or near completion) in computer science, software engineering or closely related fields (including engineering education with an emphasis on these fields) and evidence of, or demonstrated potential for, excellence in undergraduate teaching. We are looking for candidates who embrace the mission and vision of Rose-Hulman to join our collegial team of 27 faculty. The department and the Institute place a high value on engaging students from traditionally underrepresented groups, and candidates from these groups are especially encouraged to apply. Essential job responsibilities include teaching and advising students, continued professional development, and service to the department, Institute and professional community. Applicants should submit via [https://jobs.rose-hulman.edu](https://jobs.rose-hulman.edu), a cover letter, a curriculum vitae or resume, a statement on their teaching philosophy and practices, a statement of their professional development/research goals, and a statement regarding their commitment to diversity and inclusion. Detailed information is available from Amanda Stouder, Associate Professor of Practice in Computer Science and Software Engineering, [stouder@rose-hulman.edu](mailto:stouder@rose-hulman.edu), 812-877-8138. Initial review of completed applications will begin 1 October. Applications will be accepted until the positions are filled.
+
+- Review of applications will begin **October 1, 2023** .
+- Terre Haute, IN. USA.
+
+[Full Job Posting](https://jobs.rose-hulman.edu){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+
+------------
+
+### St. Lawrence University
+{: #stlawu}
+
+_Excerpt_ St. Lawrence University invites applications for a new tenure-track position in **Data Science** or a related field, at the assistant professor level within the [Department of Mathematics, Computer Science, and Statistics](https://www.stlawu.edu/offices/math-computer-science-and-statistics), to begin on August 15, 2024. Our growing department currently has fourteen full-time faculty members and supports robust majors in Mathematics, Computer Science, Statistics, and Data Science. The ideal candidate will be able to contribute to our core courses and potentially expand our elective offerings in Data Science. The teaching expectation at St. Lawrence is three courses per semester. The university offers generous support for conference travel as well as an option for a pre-tenure sabbatical. Please direct any questions pertaining to this position to Professor Ivan Ramler at [iramler@stlawu.edu](mailto:iramler@stlawu.edu) or to Professor Lisa Torrey at [ltorrey@stlawu.edu](mailto:ltorrey@stlawu.edu).
+
+- Review of applications will begin **October 22, 2023** and continue until the position has been filled.
+- Canton, NY. USA.
+
+[Full Job Posting](https://www.mathjobs.org/jobs/list/23319){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### University of St. Thomas
+{: #ust-1}
+
+_Excerpt_The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for a tenure-track assistant professor position in **Data Science**. The appointment will begin in fall 2024, and the search committee welcomes applicants with expertise in any area of data science. We are seeking outstanding candidates who are dedicated to innovative and inclusive undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty. Successful candidates are expected to teach three undergraduate courses per semester in data science or applied statistics. For example, courses in applied regression analysis, machine learning, introductory data science and introductory applied statistics, among others. See more in the [undergraduate catalog](https://www.stthomas.edu/catalog/current/dsci/). It is expected that a successful candidate will maintain a productive research agenda and engage in service to the department, college and/or university. Preference may be given to candidates with complementary areas of scholarly and pedagogical expertise. Please contact the search chair, Dr. Amelia McNamara [amelia.mcnamara@stthomas.edu](mailto:amelia.mcnamara@stthomas.edu) if you have any questions.
+
+- Review of applications will begin on **October 8, 2023** and will continue until the position is filled.
+- St. Paul, MN. USA.
+
+[Full Job Posting](https://facultyemployment-stthomas.icims.com/jobs/7356/tenure-track%2c-assistant-professor-in-data-science%2c-department-of-computer-and-information-sciences/job){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### University of St. Thomas
+{: #ust-2}
+
+_Excerpt_The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for a tenure-track assistant professor position in **Computer Science**. The appointment will begin in fall 2024, and the search committee welcomes applicants with expertise in any area of computer science. We are seeking outstanding candidates who are dedicated to innovative and inclusive undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty. Successful candidates are expected to teach three undergraduate courses per semester in computer science (see course catalog for list of existing courses). It is expected that a successful candidate will maintain a productive research agenda and engage in service to the department, college and/or university. Preference may be given to candidates with complementary areas of scholarly and pedagogical expertise. Please contact the search chair, Dr. Tommy Marrinan [tmarrinan@stthomas.edu](mailto:tmarrinan@stthomas.edu) if you have any questions.
+
+- Review of applications will begin on **December 4, 2023** and will continue until the position is filled.
+
+- St. Paul, MN. USA.
+
+[Full Job Posting](https://facultyemployment-stthomas.icims.com/jobs/7383/tenure-track%2c-assistant-professor-of-computer-science%2c-department-of-computer-and-information-sciences/job){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Seton Hall University
 {: #shu}
 
@@ -282,202 +471,28 @@ _Excerpt_ The Department of Computer Science at Skidmore College invites applica
 
 ------------
 
-### Bard College
-{: #bard}
+### Smith College
+{: #smith}
 
-_Excerpt_ Bard College invites applications for a tenure-track Assistant Professor position in Computer Science to begin Fall 2024. A Ph.D. in computer science or a related field is required. The successful candidate will be committed to innovative undergraduate teaching at a liberal arts college with a diverse student body, maintaining an active research program, contributing to the general education curriculum, and engaging with the life of the college.
+_Excerpt_ The Department of Computer Science at Smith College invites applications for one-year, benefits-eligible position at the rank of Lecturer, to begin July 1, 2024.  The successful candidate will be prepared to teach five courses per year. Teaching responsibilities for this position will regularly include courses in introductory programming.  Other courses may be taught depending upon the candidate’s field of specialization. The position is open-field. The term of appointment for this position is for one year, ending June 2025. A Ph.D. in computer science or a closely related field is expected by the time of appointment, though well-qualified candidates in their final year of a doctoral program will be considered. Candidates with demonstrated experience working with diverse student populations are especially encouraged to apply.
 
-- Review of applications will begin **October 16, 2023**
-- Annandale-On-Hudson, NY. USA.
 
-[Full Job Posting](https://apply.interfolio.com/130313){: .button-job}
-[_back to all deadlines_](#deadlines) 
+- Full consideration will be given to complete applications received by **April 1, 2024.**
+- Northampton, MA. USA.
 
-------------
-
-
-### Pomona College
-{: #pomona}
-
-_Excerpt_ Pomona College seeks applications for an Open-Rank (assistant, associate, or full) Professor of Computer Science, to begin on July 1, 2024. All subfields of computer science will be considered, with preference for candidates whose research and teaching interests complement those of the current faculty. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research.  Candidates should have a Ph.D. in hand by the start date.
-
-- Review of applications will begin **October 8, 2023**
-- Claremont, CA. USA.
-
-[Full Job Posting](https://academicjobsonline.org/ajo/jobs/25347){: .button-job}
-[_back to all deadlines_](#deadlines) 
-
-------------
-
-
-### Davidson College
-{: #davidson}
-
-_Excerpt_ The Department of Mathematics and Computer Science at Davidson College invites applications for a tenure-track appointment in Computer Science at the rank of Assistant Professor, beginning July 1, 2024. We seek candidates with a strong commitment to improving access to computer science for all students, enthusiasm for teaching all levels of undergraduate students, and a research program that can involve undergraduate researchers. The department is most interested in candidates with research expertise and teaching interests in systems (broadly defined), who can support and expand our curriculum and enhance research opportunities for students.
-
-- Review of applications will begin **October 1, 2023**
-- Davidson, NC. USA.
-
-[Full Job Posting](https://employment.davidson.edu/en-us/listing/){: .button-job}
-[_back to all deadlines_](#deadlines) 
-
-------------
-
-
-### Bucknell University
-{: #bucknell}
-
-_Excerpt_ The Computer Science Department at Bucknell University invites applications for an open-rank tenure-track faculty position to start in August 2024. Candidates whose scholarship is in any area of computer science or a closely related field should apply. We are equally interested in candidates whose scholarship aligns with others in the department and those who broaden our departmental expertise in new directions, such as artificial intelligence, computational linguistics, security, data science, or databases. The department also values interdisciplinary collaborations with the arts, humanities, mathematics, natural & social sciences, management, and engineering.
-
-- Review of applications will begin **October 2, 2023** and continue until the position is filled.
-- Lewisburg, PA. USA.
-
-[Full Job Posting](https://jobs.bucknell.edu/en-us/job/497490/open-rank-tenuretrack-position-in-computer-science){: .button-job}
-[_back to all deadlines_](#deadlines) 
-
-------------
-
-
-### Whitman College
-{: #whitman}
-
-_Excerpt_ The Department of Computer Science at Whitman College seeks applicants for a tenure-track position beginning August 2024, area open, at the rank of assistant professor or associate professor. Applicants must have a Ph.D. in computer science or a related field by the start of the position. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research. We seek candidates who will strive for excellence in teaching as well as scholarship, including those who currently hold industry positions.
-
-- Review of applications will begin **October 18, 2023** .
-- Walla Walla, WA. USA.
-
-[Full Job Posting](https://apply.interfolio.com/130950){: .button-job}
-[_back to all deadlines_](#deadlines) 
-
-------------
-
-
-### Franklin & Marshall College
-{: #fnm}
-
-_Excerpt_ Franklin & Marshall College invites applications for a tenure-track position in the Department of Computer Science beginning August 2024.  The rank will be Assistant Professor or Instructor depending on qualifications.  Applicants should possess or be close to completing a doctorate degree in Computer Science, Data Science, or a related field.  Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/131030](https://apply.interfolio.com/131030).  Individuals who need accommodation due to a disability in order to submit an application or to otherwise participate in the employment process should contact the department’s academic coordinator, Kelly Smith [kelly.smith@fandm.edu](kelly.smith@fandm.edu). 
-
-
-- Review of applications will begin **October 31, 2023** .
-- Lancaster, PA. USA.
-
-[Full Job Posting](https://apply.interfolio.com/131030){: .button-job}
-[_back to all deadlines_](#deadlines) 
-
-------------
-
-### Hamilton College
-{: #hamilton}
-
-_Excerpt_ The Computer Science Department at Hamilton College invites applications for two tenure-track positions at the rank of Assistant Professor, beginning July 1, 2024. We seek candidates with expertise in an applied area of systems (such as graphics, networks, security, programming languages, or operating systems) or artificial intelligence (such as natural language processing, computer vision, or machine learning). In particular, we are seeking candidates who can contribute new advanced courses in computer science (at the junior/senior level). We are seeking candidates who can demonstrate their experience in teaching or working with diverse student populations. We expect an ongoing research program that could involve undergraduate researchers. Research support includes start-up funds, a summer student research program, annual conference travel, and a generous sabbatical leave program. The position requires institutional service including academic advising of undergraduate students after the first year. Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/130460](https://apply.interfolio.com/130460). Questions regarding the search may be directed to Mark Bailey, Search Committee Chair, at [mbailey@hamilton.edu](mailto:mbailey@hamilton.edu).
-
-- Review of applications will begin **October 16, 2023** .
-- Clinton, NY. USA.
-
-[Full Job Posting](https://apply.interfolio.com/130460){: .button-job}
-[_back to all deadlines_](#deadlines) 
-
-------------
-
-### Colby College
-{: #colby}
-
-_Excerpt_ Colby College invites applications for a tenure-track Assistant Professor position in Computer Science, to start on September 1, 2024. Applicants must hold, or be close to completing, a Ph.D. in computer science or a related area and have expertise in an area related to Artificial Intelligence. This position is affiliated with Colby’s Davis Institute for AI. Candidates must apply electronically via Interfolio: [https://apply.interfolio.com/131782](https://apply.interfolio.com/131782). Questions about the position should be directed to the chair of the search committee, Stephanie Taylor
-[computersciencesearch@colby.edu](mailto:computersciencesearch@colby.edu).
-
-- Review of applications will begin **October 14, 2023** .
-- Waterville, ME. USA.
-
-[Full Job Posting]([https://apply.interfolio.com/130460](https://apply.interfolio.com/131782)){: .button-job}
-[_back to all deadlines_](#deadlines) 
-
-------------
-
-### Rose-Hulman Institute of Technology
-{: #rose-hulman}
-
-_Excerpt_ The Department of Computer Science and Software Engineering at Rose-Hulman invites tenure-track faculty applications with an anticipated start date of August 2024. The department, which continues to experience strong enrollment growth (currently over 500 students), offers B.S. degrees in computer science and software engineering. These programs are accredited by the Computing and Engineering Accreditation Commissions of ABET. Preferred candidates will have a doctorate (or near completion) in computer science, software engineering or closely related fields (including engineering education with an emphasis on these fields) and evidence of, or demonstrated potential for, excellence in undergraduate teaching. We are looking for candidates who embrace the mission and vision of Rose-Hulman to join our collegial team of 27 faculty. The department and the Institute place a high value on engaging students from traditionally underrepresented groups, and candidates from these groups are especially encouraged to apply. Essential job responsibilities include teaching and advising students, continued professional development, and service to the department, Institute and professional community. Applicants should submit via [https://jobs.rose-hulman.edu](https://jobs.rose-hulman.edu), a cover letter, a curriculum vitae or resume, a statement on their teaching philosophy and practices, a statement of their professional development/research goals, and a statement regarding their commitment to diversity and inclusion. Detailed information is available from Amanda Stouder, Associate Professor of Practice in Computer Science and Software Engineering, [stouder@rose-hulman.edu](mailto:stouder@rose-hulman.edu), 812-877-8138. Initial review of completed applications will begin 1 October. Applications will be accepted until the positions are filled.
-
-- Review of applications will begin **October 1, 2023** .
-- Terre Haute, IN. USA.
-
-[Full Job Posting](https://jobs.rose-hulman.edu){: .button-job}
-[_back to all deadlines_](#deadlines) 
-
-------------
-
-### Rhodes College
-{: #rhodes}
-
-_Excerpt_The Department of Computer Science at Rhodes College is hiring for **two** open-rank (assistant, associate, or full) tenure-track positions to begin in August 2024. We welcome applications from all specializations with preference given to individuals whose research interests complement our department. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research. The successful candidates will be expected to maintain an active research program and teach a variety of courses at all levels of the undergraduate computer science curriculum. The teaching load is 3-2. We are also interested in candidates who are passionate about encouraging underrepresented groups to pursue computer science and will contribute to sustaining our diverse program. Our students live and learn on one of the country’s most beautiful campuses, located in the heart of Memphis, an economic, medical, and culturally diverse center, making Rhodes one of a handful of prominent liberal arts colleges in a major metropolitan area. For additional information regarding the position, please contact Dr. Catie Welsh, Chair of the Search Committee, at [welshc@rhodes.edu](mailto:welshc@rhodes.edu).
-
-- Review of applications will begin **October 8, 2023** and continue until the position has been filled.
-- Memphis, TN. USA.
-
-[Full Job Posting](https://rhodes.wd5.myworkdayjobs.com/Rhodes_Careers/job/Open-Rank-Faculty-Positions-in-Computer-Science_JR-473){: .button-job}
-[_back to all deadlines_](#deadlines)
-
-------------
-### St. Lawrence University
-{: #stlawu}
-
-_Excerpt_ St. Lawrence University invites applications for a new tenure-track position in **Data Science** or a related field, at the assistant professor level within the [Department of Mathematics, Computer Science, and Statistics](https://www.stlawu.edu/offices/math-computer-science-and-statistics), to begin on August 15, 2024. Our growing department currently has fourteen full-time faculty members and supports robust majors in Mathematics, Computer Science, Statistics, and Data Science. The ideal candidate will be able to contribute to our core courses and potentially expand our elective offerings in Data Science. The teaching expectation at St. Lawrence is three courses per semester. The university offers generous support for conference travel as well as an option for a pre-tenure sabbatical. Please direct any questions pertaining to this position to Professor Ivan Ramler at [iramler@stlawu.edu](mailto:iramler@stlawu.edu) or to Professor Lisa Torrey at [ltorrey@stlawu.edu](mailto:ltorrey@stlawu.edu).
-
-- Review of applications will begin **October 22, 2023** and continue until the position has been filled.
-- Canton, NY. USA.
-
-[Full Job Posting](https://www.mathjobs.org/jobs/list/23319){: .button-job} 
-[_back to all deadlines_](#deadlines)
-
-### University of Mary Washington
-{: #umw}
-
-_Excerpt_The University of Mary Washington invites applications for an Assistant Professor of Computer Science, tenure-track, to begin August 15, 2024. Our close-knit team of ten faculty specializes in working with eager undergraduate students in small classes and in one-on-one mentoring settings. The candidate must either have earned a Ph.D. in Computer Science or a closely related field or have made substantial progress toward completing her/his dissertation. Additional required qualifications are a commitment to teaching at the undergraduate level and the ability to teach a variety of computer science topics. Highly-qualified candidates will be able to demonstrate dedication to effective teaching and high-impact learning, demonstrate effective oral and written communication skills, and have an interest in collaborating with undergraduate students in research. The normal teaching load is three sections per semester in small classes. For questions, please feel free to contact Dr. Jessica Zeitz, Search Committee Chair, Department of Computer Science, College of Arts and Sciences at jzeitz@umw.edu.
-
-- The deadline is **November 26, 2023**
-- Fredericksburg, VA. USA.
-
-[Full Job Posting](https://careers.umw.edu/postings/13492){: .button-job} 
-[_back to all deadlines_](#deadlines)
-
-------------
-------------
-### University of St. Thomas
-{: #ust-1}
-
-_Excerpt_The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for a tenure-track assistant professor position in **Data Science**. The appointment will begin in fall 2024, and the search committee welcomes applicants with expertise in any area of data science. We are seeking outstanding candidates who are dedicated to innovative and inclusive undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty. Successful candidates are expected to teach three undergraduate courses per semester in data science or applied statistics. For example, courses in applied regression analysis, machine learning, introductory data science and introductory applied statistics, among others. See more in the [undergraduate catalog](https://www.stthomas.edu/catalog/current/dsci/). It is expected that a successful candidate will maintain a productive research agenda and engage in service to the department, college and/or university. Preference may be given to candidates with complementary areas of scholarly and pedagogical expertise. Please contact the search chair, Dr. Amelia McNamara [amelia.mcnamara@stthomas.edu](mailto:amelia.mcnamara@stthomas.edu) if you have any questions.
-
-- Review of applications will begin on **October 8, 2023** and will continue until the position is filled.
-- St. Paul, MN. USA.
-
-[Full Job Posting](https://facultyemployment-stthomas.icims.com/jobs/7356/tenure-track%2c-assistant-professor-in-data-science%2c-department-of-computer-and-information-sciences/job){: .button-job}
+[Full Job Posting]([https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/1272/?keyword=computer+science&mode=location](http://apply.interfolio.com/142993)){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
 
-### University of St. Thomas
-{: #ust-2}
+### Stonehill College
+{: #stonehill}
 
-_Excerpt_The University of St. Thomas’s Department of Computer and Information Sciences (CISC) invites applications for a tenure-track assistant professor position in **Computer Science**. The appointment will begin in fall 2024, and the search committee welcomes applicants with expertise in any area of computer science. We are seeking outstanding candidates who are dedicated to innovative and inclusive undergraduate teaching, creating a productive research agenda, and contributing to the sense of community and support among students, staff, and faculty. Successful candidates are expected to teach three undergraduate courses per semester in computer science (see course catalog for list of existing courses). It is expected that a successful candidate will maintain a productive research agenda and engage in service to the department, college and/or university. Preference may be given to candidates with complementary areas of scholarly and pedagogical expertise. Please contact the search chair, Dr. Tommy Marrinan [tmarrinan@stthomas.edu](mailto:tmarrinan@stthomas.edu) if you have any questions.
+_Excerpt_ The Department of Computer Science in the May School of Art and Sciences at Stonehill College invites applications for a tenure-track assistant professor position, anticipated to begin in August 2024. While all qualified candidates are encouraged to apply, the department is especially interested in candidates who can teach upper-level core computer science courses such as Operating Systems, Computer Networks, Cybersecurity, Compiler Design, Databases, and Software Engineering. Founded by the Congregation of Holy Cross in 1948, Stonehill is a private Catholic college located just 22 miles from downtown Boston on a beautiful 384-acre campus in Easton, Massachusetts. With a student to faculty ratio of 13:1, the College engages its 2,500+ students in 80+ rigorous academic programs in the liberal arts, sciences, and pre-professional fields.
 
-- Review of applications will begin on **December 4, 2023** and will continue until the position is filled.
+Application review will begin immediately, and applications will be reviewed until the position is filled.
 
-- St. Paul, MN. USA.
-
-[Full Job Posting](https://facultyemployment-stthomas.icims.com/jobs/7383/tenure-track%2c-assistant-professor-of-computer-science%2c-department-of-computer-and-information-sciences/job){: .button-job}
-[_back to all deadlines_](#deadlines)
-
-------------
-
-### Vassar College
-{: #vassar}
-
-_Excerpt_The Department of Computer Science at Vassar College invites applications for a tenure-track Assistant Professor position beginning fall 2024.We seek creative individuals who are able to teach undergraduate courses in the department, maintain an active research program, engage undergraduates in their research, and foster a diverse and inclusive community. The ideal candidate will have expertise in machine learning, computational modeling and simulation, or data science, and will also be interested in multidisciplinary collaboration. Candidates that complement the current research areas of the department are also encouraged to apply. Applicants should have a PhD in computer science or a related area by time of appointment. A typical teaching load is one lab course and one non-lab course each semester.
-
-- Review of applications will begin on **October 16, 2023** and will continue until the position is filled.
-- Poughkeepsie, NY. USA.
-
-[Full Job Posting](https://apptrkr.com/4606510){: .button-job}
+[Full Job Posting](https://jobs.stonehill.edu/postings/24385){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -497,16 +512,41 @@ Union College invites applications for a three-year faculty position in Computer
 
 ------------
 
+### Vassar College
+{: #vassar}
 
-### Barnard College 
-{: #barnard}
+_Excerpt_The Department of Computer Science at Vassar College invites applications for a tenure-track Assistant Professor position beginning fall 2024.We seek creative individuals who are able to teach undergraduate courses in the department, maintain an active research program, engage undergraduates in their research, and foster a diverse and inclusive community. The ideal candidate will have expertise in machine learning, computational modeling and simulation, or data science, and will also be interested in multidisciplinary collaboration. Candidates that complement the current research areas of the department are also encouraged to apply. Applicants should have a PhD in computer science or a related area by time of appointment. A typical teaching load is one lab course and one non-lab course each semester.
 
-_Excerpt_Barnard College invites applications for a tenure-track assistant professor in Computer Science to start July 1, 2024.  Barnard faculty are expected to engage in teaching, research, curriculum and program development, undergraduate advising, and mentoring of undergraduate research. There is opportunity to collaborate with faculty and students at both Barnard and Columbia. We encourage candidates who take a multidisciplinary approach, whether across multiple subareas of computer science, or with research connections to another discipline.  Candidates must have a PhD in Computer Science or a related discipline, and should have a promising research agenda and record of scholarship, as well as a demonstrated commitment to undergraduate teaching, mentoring, and increasing diversity in computer science.
+- Review of applications will begin on **October 16, 2023** and will continue until the position is filled.
+- Poughkeepsie, NY. USA.
 
-- Review of applications will begin on **October 27, 2023** and will continue until the position is filled.
-- New York, NY. USA.
+[Full Job Posting](https://apptrkr.com/4606510){: .button-job}
+[_back to all deadlines_](#deadlines)
 
-[Full Job Posting](https://careers.barnard.edu/postings/6659){: .button-job}
+------------
+
+### Whitman College
+{: #whitman}
+
+_Excerpt_ The Department of Computer Science at Whitman College seeks applicants for a tenure-track position beginning August 2024, area open, at the rank of assistant professor or associate professor. Applicants must have a Ph.D. in computer science or a related field by the start of the position. In addition to traditional areas of computer science, we welcome candidates working in interdisciplinary, emerging, and socially-engaged areas of computing research. We seek candidates who will strive for excellence in teaching as well as scholarship, including those who currently hold industry positions.
+
+- Review of applications will begin **October 18, 2023** .
+- Walla Walla, WA. USA.
+
+[Full Job Posting](https://apply.interfolio.com/130950){: .button-job}
+[_back to all deadlines_](#deadlines) 
+
+------------
+
+### The College of Wooster
+{: #cow}
+
+_Excerpt_ The Department of Mathematical and Computational Sciences at The College of Wooster invites applications for 1 or 2 tenure-track Assistant Professor of Computer Science to start in August 2024. The department has sixteen full-time faculty, and offers majors in Computer Science, Mathematics, and Statistical & Data Sciences, graduating 55-80 seniors each year. Computer Science serves a diverse group of students including many international students, students of color, and about 30% women. We place a strong emphasis on experiential learning, with every student completing a year-long senior thesis project and many participating in our unique Applied Methods & Research Experience summer consulting program.
+
+- Review of applications will begin on **December 1, 2023**
+- Wooster, OH. USA.
+
+[Full Job Posting](https://www.higheredjobs.com/search/details.cfm?JobCode=178592487&Title=Assistant%20Professor%20%2D%20Computer%20Science){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -522,25 +562,3 @@ _Excerpt_ The Department of Computer Science invites applications for an Assista
 [Full Job Posting](https://academicjobsonline.org/ajo/jobs/27117){: .button-job}
 [_back to all deadlines_](#deadlines)
 
-------------
-
-### The College of Wooster
-{: #cow}
-
-_Excerpt_ The Department of Mathematical and Computational Sciences at The College of Wooster invites applications for 1 or 2 tenure-track Assistant Professor of Computer Science to start in August 2024. The department has sixteen full-time faculty, and offers majors in Computer Science, Mathematics, and Statistical & Data Sciences, graduating 55-80 seniors each year. Computer Science serves a diverse group of students including many international students, students of color, and about 30% women. We place a strong emphasis on experiential learning, with every student completing a year-long senior thesis project and many participating in our unique Applied Methods & Research Experience summer consulting program.
-
-- Review of applications will begin on **December 1, 2023**
-- Wooster, OH. USA.
-
-[Full Job Posting](https://www.higheredjobs.com/search/details.cfm?JobCode=178592487&Title=Assistant%20Professor%20%2D%20Computer%20Science){: .button-job}
-[_back to all deadlines_](#deadlines)
-
-### Stonehill College
-{: #stonehill}
-
-_Excerpt_ The Department of Computer Science in the May School of Art and Sciences at Stonehill College invites applications for a tenure-track assistant professor position, anticipated to begin in August 2024. While all qualified candidates are encouraged to apply, the department is especially interested in candidates who can teach upper-level core computer science courses such as Operating Systems, Computer Networks, Cybersecurity, Compiler Design, Databases, and Software Engineering. Founded by the Congregation of Holy Cross in 1948, Stonehill is a private Catholic college located just 22 miles from downtown Boston on a beautiful 384-acre campus in Easton, Massachusetts. With a student to faculty ratio of 13:1, the College engages its 2,500+ students in 80+ rigorous academic programs in the liberal arts, sciences, and pre-professional fields.
-
-Application review will begin immediately, and applications will be reviewed until the position is filled.
-
-[Full Job Posting](https://jobs.stonehill.edu/postings/24385){: .button-job}
-[_back to all deadlines_](#deadlines)
