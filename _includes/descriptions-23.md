@@ -171,7 +171,7 @@ _Excerpt_ The Department of Computer Science at Smith College invites applicatio
 - Full consideration will be given to complete applications received by **April 1, 2024.**
 - Northampton, MA. USA
 
-[Full Job Posting]([https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/1272/?keyword=computer+science&mode=location](http://apply.interfolio.com/142993)){: .button-job} 
+[Full Job Posting](http://apply.interfolio.com/142993){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
