@@ -11,7 +11,6 @@
 | [Franklin & Marshall College](#fnm) | Lancaster, PA. USA | 10/31/2023 |
 | [Simmons University](#simmons) | Boston, MA. USA | 10/31/2023 |
 | [University of St. Thomas](#ust-2) | St. Paul, MN. USA | 12/04/2023 |
-| [Union College](#union) | Schenectady, NY. USA | 01/31/2024 |
 | [Stonehill College](#stonehill) | South Easton, MA. USA | Open until filled |
 | [Harvey Mudd College, Visiting](#hmc-cs-visitor) | Claremont, CA. USA | 03/15/2024 |
 | [Smith College](#smith) | Northampton, MA. USA | Review begins 04/01/2024 (open until filled) |
