@@ -187,15 +187,4 @@ _Excerpt_ The Department of Computer Science in the May School of Art and Scienc
 [Full Job Posting](https://jobs.stonehill.edu/postings/24385){: .button-job}
 [_back to all deadlines_](#deadlines)
 
-------------
 
-### Union College
-{: #union}
-
-_Excerpt_  Union College invites applications for a three-year faculty position in Computer Science at the rank of Visiting Assistant Professor, beginning September 2024.  The area of expertise is open.  We are interested in candidates who can teach core CS classes and also courses in their areas of expertise, especially at the interface of CS and other fields, such as, the natural sciences, mathematics, or the humanities.
-
-- Review of applications will begin on **January 31, 2024** and will continue until the position is filled.
-- Schenectady, NY. USA
-
-[Full Job Posting](https://cs.union.edu/jobs/){: .button-job}
-[_back to all deadlines_](#deadlines)
